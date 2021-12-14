@@ -32,5 +32,6 @@ def ExpressionLoader(data):
         lines = rf.readlines()
         for l in lines:
             vec = l.split()
-            res_data.append([voc_dic.index(w) for w in vec])
+            tmp_dic = ['xxxx', 'data0', 'data1']
+            res_data.append([tmp_dic.index(w) for w in vec])
     return len(voc_dic), expr_data, res_data
