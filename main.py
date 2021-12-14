@@ -63,8 +63,8 @@ def test(model, test_expr, test_res):
 
 def main(model_name=None, hidden=64, nlayers=1):
 
-    batch_size = 2000
-    epochs = 40
+    batch_size = 100
+    epochs = 5
 
     in_voc_size, expr_list, res_list = ExpressionLoader('train')
     out_voc_size = 3
