@@ -16,34 +16,21 @@ def ExpressionLoader(data):
     if data == 'train':
         expr_file  = os.path.join(path, 'train_expr.txt')
         res_file = os.path.join(path, 'train_res.txt')
-        train_data = []
-        with open(expr_file) as ef:
-            lines = ef.readlines()
-            for l in lines:
-                vec = l.split()
-                train_data.append(([voc_dic.index(w) for w in vec],[]))
-        with open(res_file) as rf:
-            lines = rf.readlines()
-            for i in range(len(lines)):
-                vec = lines[i].split()
-                for w in vec:
-                    train_data[i][1].append(voc_dic.index(w))
-        return len(voc_dic), train_data
     elif data == 'test':
         expr_file  = os.path.join(path, 'test_expr.txt')
         res_file = os.path.join(path, 'test_res.txt')
-        test_data = []
-        with open(expr_file) as ef:
-            lines = ef.readlines()
-            for l in lines:
-                vec = l.split()
-                test_data.append(([voc_dic.index(w) for w in vec],[]))
-        with open(res_file) as rf:
-            lines = rf.readlines()
-            for i in range(len(lines)):
-                vec = lines[i].split()
-                for w in vec:
-                    test_data[i][1].append(voc_dic.index(w))
-        return len(voc_dic), test_data
     else:
         raise Exception()
+    expr_data = []
+    res_data = []
+    with open(expr_file) as ef:
+        lines = ef.readlines()
+        for l in lines:
+            vec = l.split()
+            expr_data.append([voc_dic.index(w) for w in vec])
+    with open(res_file) as rf:
+        lines = rf.readlines()
+        for l in lines:
+            vec = l.split()
+            res_data.append([voc_dic.index(w) for w in vec])
+    return len(voc_dic), expr_data, res_data
