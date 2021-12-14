@@ -43,6 +43,7 @@ def test(model, test_expr, test_res):
     model = model
     model.eval()
     with no_grad():
+        cnt = 0
         for i in range(len(test_expr)):
             cpu_src = test_expr[i]
             src = LongTensor(cpu_src).unsqueeze(1)
@@ -56,6 +57,8 @@ def test(model, test_expr, test_res):
             print("input: ", cpu_src)
             print("target: ", tgt)
             print("predict: ", pred)
+            if tgt[1] == pred[1]: cnt += 1
+        print (cnt)
 
 
 def main(model_name=None, hidden=64, nlayers=1):
@@ -65,12 +68,11 @@ def main(model_name=None, hidden=64, nlayers=1):
 
     in_voc_size, expr_list, res_list = ExpressionLoader('train')
     out_voc_size = 3
-
+    print('in_voc_size: ', in_voc_size)
     dataset = DataGenerator(expr_list, res_list)
     train_len = int(len(dataset) * 0.9)
     val_len = len(dataset) - train_len
     train_set, val_set = random_split(dataset, [train_len, val_len])
-
     train_loader = DataLoader(train_set, batch_size=batch_size, shuffle=True, num_workers=1)
     val_loader = DataLoader(val_set, batch_size=batch_size, shuffle=True, num_workers=1)
     model = TransformerModel(in_voc_size, out_voc_size, hidden=hidden, nlayers=nlayers)
@@ -79,7 +81,7 @@ def main(model_name=None, hidden=64, nlayers=1):
 
     optimizer = optim.Adam(model.parameters())
 
-    criterion = nn.CrossEntropyLoss()
+    criterion = nn.CrossEntropyLoss(ignore_index=0)
     best_loss = 100
     for i in range(epochs):
         epoch_loss = train(model, criterion, optimizer, train_loader)

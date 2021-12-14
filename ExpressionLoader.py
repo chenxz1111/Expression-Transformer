@@ -49,10 +49,5 @@ def ExpressionLoader(data):
         for l in lines:
             vec = l.split()
             tmp_dic = ['xxxx', 'data0', 'data1']
-            tmp = []
-            for w in vec:
-                tmp.append(tmp_dic.index(w))
-            for i in range(max_len - len(vec)):
-                tmp.append(0)
-            res_data.append(tmp)
+            res_data.append([tmp_dic.index(w) for w in vec])
     return len(voc_dic), expr_data, res_data
