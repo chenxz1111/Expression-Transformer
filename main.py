@@ -4,7 +4,7 @@ from torch import save, load, no_grad, LongTensor
 import torch.nn as nn
 import torch.optim as optim
 from torch.utils.data import DataLoader, random_split
-# from number_loader import NumberLoader
+from data_generator import DataGenerator
 from model import TransformerModel
 
 def train(model, criterion, optimizer, loader):
@@ -31,7 +31,6 @@ def validation(model, criterion, loader):
         for i, batch in enumerate(loader):
             src, tgt = batch
             src, tgt = src.transpose(1, 0), tgt.transpose(1, 0)
-            break
             output = model(src, tgt[:-1, :])
             n = output.shape[-1]
             loss = criterion(output.reshape(-1, n), tgt[1:, :].reshape(-1))
@@ -39,17 +38,16 @@ def validation(model, criterion, loader):
     return epoch_loss / len(loader)
 
 
-def test(model, max_len=3, test_times=1):
+def test(model, test_expr, test_res):
     model = model
     model.eval()
     with no_grad():
-        for i in range(test_times):
-            s = random.randint(1, 4998)
-            cpu_src = [(s + j) * 2 for j in range(max_len)]
+        for i in range(len(test_expr)):
+            cpu_src = test_expr[i]
             src = LongTensor(cpu_src).unsqueeze(1)
-            tgt = [0] + [(s + j) * 2 + 1 for j in range(max_len)]
+            tgt = [0] + test_res[i]
             pred = [0]
-            for j in range(max_len):
+            for j in range(len(test_res[i])):
                 inp = LongTensor(pred).unsqueeze(1)
                 output = model(src, inp)
                 out_num = output.argmax(2)[-1].item()
@@ -60,21 +58,23 @@ def test(model, max_len=3, test_times=1):
 
 
 def main(model_name=None, hidden=64, nlayers=1):
-    # voc_size = 10000
-    # inp = arange(2, voc_size, 2)
-    
-    # tgt = arange(3, voc_size, 2)
 
-    batch_size = 128
+    batch_size = 50
     epochs = 30
-    # dataset = NumberLoader(inp, tgt)
-    # train_len = int(len(dataset) * 0.9)
-    # val_len = len(dataset) - train_len
-    # train_set, val_set = random_split(dataset, [train_len, val_len])
+
+    in_voc_size = 
+    out_voc_size = 
+    expr_list = 
+    res_list = 
+
+    dataset = DataGenerator(expr_list, res_list)
+    train_len = int(len(dataset) * 0.9)
+    val_len = len(dataset) - train_len
+    train_set, val_set = random_split(dataset, [train_len, val_len])
 
     train_loader = DataLoader(train_set, batch_size=batch_size, shuffle=True, num_workers=1)
     val_loader = DataLoader(val_set, batch_size=batch_size, shuffle=True, num_workers=1)
-    model = TransformerModel(voc_size, voc_size, hidden=hidden, nlayers=nlayers)
+    model = TransformerModel(in_voc_size, out_voc_size, hidden=hidden, nlayers=nlayers)
     if model_name is not None:
         model.load_state_dict(load(model_name))
 
@@ -101,6 +101,8 @@ if __name__ == "__main__":
     args = parser.parse_args()
     hidden = 128
     nlayers = 2
+    in_voc_size = 
+    out_voc_size = 
     if args.test_model is None:
         if args.train_model is not None:
             model_name = main(args.train_model, hidden=hidden, nlayers=nlayers)
@@ -108,6 +110,6 @@ if __name__ == "__main__":
             model_name = main(hidden=hidden, nlayers=nlayers)
     else:
         model_name = args.test_model
-    model = TransformerModel(10000, 10000, hidden=hidden, nlayers=nlayers)
+    model = TransformerModel(in_voc_size, out_voc_size, hidden=hidden, nlayers=nlayers)
     model.load_state_dict(load(model_name))
-    test(model, test_times=10)
+    # test(model, test_expr=, test_res=)
