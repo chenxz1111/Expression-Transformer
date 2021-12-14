@@ -13,6 +13,7 @@ def ExpressionLoader(data):
                 tot_voc += l.split()
     voc_dic = list(set(tot_voc))
     voc_dic = ['ZERO'] + voc_dic
+    for i,x in enumerate(voc_dic): print(i,x)
     if data == 'train':
         expr_file  = os.path.join(path, 'train_expr.txt')
         res_file = os.path.join(path, 'train_res.txt')

@@ -63,8 +63,8 @@ def test(model, test_expr, test_res):
 
 def main(model_name=None, hidden=64, nlayers=1):
 
-    batch_size = 50
-    epochs = 30
+    batch_size = 2000
+    epochs = 40
 
     in_voc_size, expr_list, res_list = ExpressionLoader('train')
     out_voc_size = 3
@@ -89,7 +89,7 @@ def main(model_name=None, hidden=64, nlayers=1):
     
         print("epoch: {} train loss: {}".format(i, epoch_loss))
         print("epoch: {} val loss: {}".format(i, epoch_loss_val))
-        if epoch_loss_val < best_loss:
+        if epoch_loss_val < best_loss or 1:
             best_loss = epoch_loss_val
             model_name = "model/model_{0:.5f}.pt".format(epoch_loss_val)
             save(model.state_dict(), model_name)
@@ -101,7 +101,7 @@ if __name__ == "__main__":
     parser.add_argument('--train_model', type=str, help='the model file to load')
     args = parser.parse_args()
     hidden = 128
-    nlayers = 2
+    nlayers = 4
     if args.test_model is None:
         if args.train_model is not None:
             model_name = main(args.train_model, hidden=hidden, nlayers=nlayers)
