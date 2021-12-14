@@ -111,3 +111,4 @@ if __name__ == "__main__":
     model = TransformerModel(10000, 10000, hidden=hidden, nlayers=nlayers)
     model.load_state_dict(load(model_name))
     test(model, test_times=10)
+    
