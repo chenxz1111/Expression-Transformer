@@ -23,15 +23,36 @@ def ExpressionLoader(data):
         raise Exception()
     expr_data = []
     res_data = []
+    max_len = 0
     with open(expr_file) as ef:
         lines = ef.readlines()
         for l in lines:
             vec = l.split()
-            expr_data.append([voc_dic.index(w) for w in vec])
+            max_len = max(max_len, len(vec))
+    with open(res_file) as rf:
+        lines = rf.readlines()
+        for l in lines:
+            vec = l.split()
+            max_len = max(max_len, len(vec))
+    with open(expr_file) as ef:
+        lines = ef.readlines()
+        for l in lines:
+            vec = l.split()
+            tmp = []
+            for w in vec:
+                tmp.append(voc_dic.index(w))
+            for i in range(max_len - len(vec)):
+                tmp.append(0)
+            expr_data.append(tmp)
     with open(res_file) as rf:
         lines = rf.readlines()
         for l in lines:
             vec = l.split()
             tmp_dic = ['xxxx', 'data0', 'data1']
-            res_data.append([tmp_dic.index(w) for w in vec])
+            tmp = []
+            for w in vec:
+                tmp.append(tmp_dic.index(w))
+            for i in range(max_len - len(vec)):
+                tmp.append(0)
+            res_data.append(tmp)
     return len(voc_dic), expr_data, res_data
