@@ -6,6 +6,7 @@ import torch.optim as optim
 from torch.utils.data import DataLoader, random_split
 from data_generator import DataGenerator
 from model import TransformerModel
+from ExpressionLoader import ExpressionLoader
 
 def train(model, criterion, optimizer, loader):
     model.train()
@@ -62,10 +63,8 @@ def main(model_name=None, hidden=64, nlayers=1):
     batch_size = 50
     epochs = 30
 
-    in_voc_size = 
-    out_voc_size = 
-    expr_list = 
-    res_list = 
+    in_voc_size, expr_list, res_list = ExpressionLoader('train')
+    out_voc_size = 3
 
     dataset = DataGenerator(expr_list, res_list)
     train_len = int(len(dataset) * 0.9)
@@ -101,8 +100,6 @@ if __name__ == "__main__":
     args = parser.parse_args()
     hidden = 128
     nlayers = 2
-    in_voc_size = 
-    out_voc_size = 
     if args.test_model is None:
         if args.train_model is not None:
             model_name = main(args.train_model, hidden=hidden, nlayers=nlayers)
@@ -110,6 +107,8 @@ if __name__ == "__main__":
             model_name = main(hidden=hidden, nlayers=nlayers)
     else:
         model_name = args.test_model
-    model = TransformerModel(in_voc_size, out_voc_size, hidden=hidden, nlayers=nlayers)
-    model.load_state_dict(load(model_name))
-    # test(model, test_expr=, test_res=)
+        in_voc_size, expr_list, res_list = ExpressionLoader('train')
+        out_voc_size = 3
+        model = TransformerModel(in_voc_size, out_voc_size, hidden=hidden, nlayers=nlayers)
+        model.load_state_dict(load(model_name))
+        test(model, test_expr=expr_list, test_res=res_list)
