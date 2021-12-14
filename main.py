@@ -38,17 +38,16 @@ def validation(model, criterion, loader):
     return epoch_loss / len(loader)
 
 
-def test(model, max_len=3, test_times=1):
+def test(model, test_expr, test_res):
     model = model
     model.eval()
     with no_grad():
-        for i in range(test_times):
-            s = random.randint(1, 4998)
-            cpu_src = [(s + j) * 2 for j in range(max_len)]
+        for i in range(len(test_expr)):
+            cpu_src = test_expr[i]
             src = LongTensor(cpu_src).unsqueeze(1)
-            tgt = [0] + [(s + j) * 2 + 1 for j in range(max_len)]
+            tgt = [0] + test_res[i]
             pred = [0]
-            for j in range(max_len):
+            for j in range(len(test_res[i])):
                 inp = LongTensor(pred).unsqueeze(1)
                 output = model(src, inp)
                 out_num = output.argmax(2)[-1].item()
@@ -113,4 +112,4 @@ if __name__ == "__main__":
         model_name = args.test_model
     model = TransformerModel(in_voc_size, out_voc_size, hidden=hidden, nlayers=nlayers)
     model.load_state_dict(load(model_name))
-    test(model, test_times=10)
+    # test(model, test_expr=, test_res=)
