@@ -1,0 +1,2000 @@
+and xor data0 data0 data0
+or xor data0 or xor data1 data0 data0 and data0 data0
+and or or data0 and data0 and data1 data1 or data1 data1 data1
+or xor data0 or data1 data0 data0
+xor or data0 not and or data1 data1 data1 data1
+and or data1 not data0 data0
+xor xor or data1 data1 data1 or or data0 data0 data1
+and data1 or xor data0 , %1 : xor data1 data0 xor data1 not xor data1 data0
+xor and data1 not data0 or or data0 data1 data1
+xor data1 or data0 xor data1 or not and data0 data0 data0
+xor data1 and not data1 xor data1 data1
+xor data0 and not data1 data1
+and xor data0 data1 xor data0 not data0
+or data1 and not data0 not or xor data1 xor data0 data0 data0
+or xor and xor data1 or not data0 or data1 data0 data0 not data1 data1
+xor data1 not and and data0 data0 data1
+not and and xor or data1 xor not or not %1 : or data1 data1 and xor xor data1 not or or xor or or data0 data1 data0 data0 xor data0 not and %1 not and data0 data1 data0 data0 data0 or data0 not data0 and not data1 xor data1 or not not and data1 data1 and data0 or xor not data0 data0 and data0 data0 data0 and xor data1 data1 or xor not xor or not data1 data1 not or data0 xor data1 or data1 data0 not data0 not data1
+and xor and not not or data1 data0 data1 xor data0 or not data0 xor data0 data1 data0
+xor or not data1 and data1 data1 data0
+xor and xor and data0 data1 data1 data1 or or or xor data1 not or data0 data0 and and data0 data0 data1 data0 data1
+and or not data0 or or data0 data1 xor data1 data0 and xor and not xor xor xor and data0 data0 xor data0 or data0 or and or or data1 or data1 data0 and data0 data1 data0 data0 or xor data0 xor data0 not not data0 data1 data0 data0 not data0 data0
+and data0 and or data1 data0 not and and or not xor and data1 data0 xor data1 or data0 and or data0 data1 xor data1 data1 data0 data0 not not xor data1 data0
+and data0 or xor data0 and or data0 and or data0 data1 data0 data1 data1
+and and data1 xor or not xor and xor data1 data1 xor data0 data1 or data1 , %1 : xor data0 data0 not not not or xor data0 xor data0 data0 data1 data1 data0
+and not and data1 xor data0 data1 or and data1 and data0 xor data0 data0 not or data0 and not data0 data0
+and xor or data0 data0 data1 or not data0 xor data0 data0
+or data0 and data1 or not not not data1 data0
+and data1 xor and data0 or xor data1 xor data1 data0 data1 data0
+and xor or not data0 data1 data0 not data1
+and and data1 data0 not and data0 not data0
+xor and not or data0 data0 data1 xor and or not and data0 data1 not data0 xor data1 or and data0 data0 data0 data0
+or data1 xor and data0 not data1 or data0 and data1 data0
+or or or data0 data1 data0 xor data0 data0
+or data1 or data1 and xor xor data0 data1 data1 data1
+not xor xor and or not data0 data1 or data0 or data0 data0 data0 data1
+not xor and or data1 data0 data0 data0
+not or and xor data0 or or and data1 data0 data1 data1 xor or data1 not data1 data1 and data0 xor and not data1 data0 xor data0 data0
+and and and data0 data1 data0 data0
+not xor or xor data0 data0 xor not data0 not and data1 or data1 data0 and and not not or not not not data1 and data1 data1 data1 and not and data1 data0 data1
+or or data1 data0 or data0 data0
+xor or xor data0 data0 xor data1 or and or data0 xor not data1 and %1 : xor data0 data1 data1 data0 xor data0 xor %1 and data1 or data0 data1 xor data1 and data0 data1
+xor data0 or data1 or data1 or data0 data0
+or and not xor data1 data0 data0 data1
+not and data1 xor not data0 and and data1 xor data0 not data1 or data1 data0
+and data0 not or not data0 data0
+or data0 or data0 and data1 data1
+or data1 not not not not data0
+or not data0 not not data0
+xor and data1 data0 and data1 and xor data1 xor xor and xor or data1 data1 data0 data1 data0 or data0 data0 data0
+and and or data0 not data1 or xor data1 or xor data1 data1 data0 data1 not and or data1 data1 xor xor and data1 data0 data0 data0
+or or data1 data1 not not data0
+not or not data1 xor data0 xor or and data1 data0 or data0 data0 data0
+or data0 or data0 and not xor data0 data0 or or data1 not and or data1 data1 data1 or xor data0 or data1 data0 and data0 xor data1 data0
+or data1 or or data1 not xor data0 data1 data0
+not and data1 not and data1 data0
+and or data0 data1 or data0 data0
+xor data0 and data0 or xor data1 data1 data1
+not or data1 or and data1 and data1 xor data1 data1 or xor xor data0 xor data0 or data1 data0 data0 or xor xor data0 data0 data0 data1
+and data1 not and data0 data0
+or not and data1 data1 not not xor xor or data0 data0 or data1 data1 data0
+or or and and data0 not data1 data1 data1 xor data0 data1
+or or or data1 data1 data1 and data0 data0
+xor and and and or data0 not xor xor and data1 xor data0 data0 not data0 and or data1 data0 data1 data0 data1 data0 and not data1 data1
+or or data0 data0 and data1 or xor not data0 or data0 data1 and data1 not data1
+and xor or xor data0 data0 or or data0 xor data0 xor data1 data0 data1 and data0 data0 data0
+and or data1 data1 or data1 and data0 and data0 xor data0 or xor data0 data1 data1
+and not data0 not not not data1
+xor xor not xor data1 data0 and data0 data1 data0
+or xor data0 xor data1 data0 xor data0 and data0 or data0 or data1 data1
+xor and and data0 data1 data0 and data1 or data0 data1
+or or xor xor data1 data0 not xor not data1 xor xor xor data0 data0 xor data1 or data1 data0 not not and data0 xor %1 : or data1 data1 xor data1 data1 and data0 xor or and xor or not data0 xor data0 data1 data0 data1 data1 data0 or xor %1 not data1 data0
+or data1 and xor %1 : or data1 data1 and not xor xor or data1 data0 or xor data0 , %2 : %1 data1 data1 or or not xor data1 and data0 data1 not %1 data1 or xor data1 data1 data1
+or not data0 or data1 data0
+xor data1 and and data0 data0 data1
+and xor data0 and data0 not data0 data0
+and and and data0 or xor data1 data0 data0 data0 data1
+and and xor and data0 data1 data1 not or data0 data1 and or data0 not data1 data0
+not or data0 and data1 data0
+xor data0 and and xor or data1 or data1 xor or or xor data0 data0 data1 data1 data0 data0 and xor not data1 data1 and data0 data1 xor data1 data1
+and or data1 data1 and or data0 data0 data0
+xor xor or xor not and xor data0 data1 and data1 data1 data0 data0 and data1 or data0 data1 and data0 data1
+and not data1 and xor not data0 data0 data1
+and data1 or xor xor data1 data1 not data1 and data0 data1
+xor or or data0 not data0 not data0 data1
+and or not xor data0 data0 data1 data1
+and xor or data1 data0 or and data1 data0 not data0 data1
+or xor or xor not data1 data0 data1 data0 not not or and data0 not not data0 data1
+and not data0 xor data1 data0
+xor data0 xor or data1 xor or or data0 xor data0 data0 data1 data0 data0
+and data0 not and data0 data1
+and or and data0 or data0 not data0 data1 xor xor and data0 data0 or not data1 data0 or not not data1 data0
+or xor data0 or data1 not data1 data0
+and xor data0 and data0 data1 data0
+and or data0 data1 xor data1 data1
+xor and xor not data0 data1 data1 data0
+xor or or not data1 data0 data0 not and xor xor data0 xor data1 data1 data1 data0
+xor data1 not xor or data0 data1 data1
+xor xor data0 or data0 xor data1 or data1 or data1 or data0 data0 and data0 data1
+and and data1 not data1 not data1
+and data0 xor xor xor not and data0 data1 data0 data0 data1
+and or data0 or data1 data1 data0
+not and not data0 not data1
+and data0 xor or not data1 data0 data0
+xor xor data0 and xor data0 xor or data1 data0 data0 data1 data0
+xor data0 and data0 or data0 data1
+and data0 not xor data0 and data1 and and data0 xor xor data0 not xor not data1 data1 not xor data1 data0 not and not data0 data1
+xor or data1 and and not data1 and or data1 and data0 data0 data1 data1 not xor data0 or data0 xor data0 data0
+xor and and data1 data0 data0 and not or not data0 data1 data1
+xor not %1 : or data1 data0 xor and data1 data1 xor %1 and data0 not or data0 data1
+xor data0 or and data0 data1 data0
+or and and data0 data0 or not and data0 data1 data0 not data1
+xor data0 and or xor data1 or data1 data1 data0 data1
+xor data1 and data0 not and %1 : xor data0 data0 not %1
+xor or xor data1 data1 data0 data1
+and data1 xor or and data0 data1 data1 or not data1 or data0 not and data1 data0
+or or data0 and data1 xor or data0 xor data1 data1 not data1 and data1 data0
+not or or data1 data1 data0
+and xor data1 data1 not or or and data1 data1 data0 or data1 and xor data0 data1 data0
+or not not xor not not data0 xor xor xor xor or data0 not and data1 or and and data1 data0 not data0 not not xor data0 and xor data0 or and data0 not data0 not or data0 not data1 data0 data1 data1 data1 data0 and data1 xor data0 data0
+xor data1 xor not data0 not data1
+or data1 xor xor or and data1 data0 or data0 data0 xor data0 data0 data0
+and xor xor data1 data0 data0 data0
+or data0 or and data1 data0 data1
+xor data1 and xor data0 data0 and data1 and data1 or xor data0 data1 data0
+xor or or and data0 data0 and data0 or and xor data1 data1 xor data1 data0 data0 data0 data0
+or or not or data1 not data1 data1 data1
+and data1 not and xor xor data1 data1 data0 data1
+or xor data1 not data1 not and not data1 xor data1 data1
+and or data1 data0 not data0
+and xor data1 xor data1 and data1 data0 data0
+xor or and data1 , %1 : and data1 data0 xor data1 xor or or data1 or xor data1 data0 data0 and data1 data0 or or and data0 data0 not not not not data1 data0 and data0 or data0 data1
+or data1 and data0 xor data0 and data1 data1
+xor xor data1 data1 and and and or or or data1 data0 data0 data1 not data1 data1 data0
+or and data0 xor data0 xor data0 data0 data1
+and and data0 or and data1 not data1 not data1 not and data1 data0
+and or or data0 data1 xor data0 xor data1 data0 not data1
+and and and data0 data1 data1 xor not data0 xor xor data1 data1 or data1 data1
+xor not or and data1 or and or not or data1 or not xor data1 data1 data0 data1 and xor data0 data0 data1 xor not data0 data1 data1 and or and data0 xor xor data1 data0 data1 %1 : and data1 data1 or and and data1 data0 and and data0 or and data0 data1 data1 data1 xor not and data0 xor data0 and %1 not not data0 data1
+or xor data0 data0 and data1 data0
+not or data1 xor xor data0 data0 xor data1 and data0 data1
+not and or data1 xor or data0 data1 or data0 not data1 data1
+xor data1 xor not xor data1 or and data1 data1 data0 or data0 and not data0 or data0 data0
+xor data0 or and data0 data0 not data0
+or xor or and data1 xor and data0 and %1 : xor data0 data0 data0 not and data0 data0 %1 data1 data1
+not and xor or data1 xor data0 data1 not not xor data1 and data1 data1 data1
+not and and data0 or data1 or data0 data0 not data1
+or xor or data0 and or or data1 data0 data0 data1 data0 data1
+xor and data1 and not and data0 data0 data0 data0
+and not data1 not and data0 data0
+xor data1 xor data1 and data1 data0
+not xor and xor data1 not data1 not data0 data0
+xor xor and or xor data1 and data1 and data1 data1 or data0 data0 data0 data0 data1
+or data0 not or data0 and data0 not or not not data1 data0
+and and xor data0 data0 data0 and data0 data0
+xor or not data1 xor not data0 not data0 data1
+xor %1 : or data0 data0 not not and and or %1 data1 or data0 not not data1 data0
+and and or xor or or data1 data1 data0 or and data0 and data1 data1 data1 data0 data0 data1
+or data1 and xor data0 data0 and data1 data1
+not or xor and data1 data1 data0 data0
+or data0 xor xor and %1 : and data1 data1 not data1 not data1 and and or not data1 data1 xor not data0 or and data0 data1 xor data0 data1 %1
+or data0 not and xor and data1 and not data1 data0 not and data0 data1 xor data1 data0
+and xor data0 not data1 and data1 data1
+and data0 or and or xor data0 or data0 data0 data1 data1 data0
+not xor data1 xor xor data1 data1 and data0 data1
+or data0 or data1 xor and not and not not or data1 data1 data0 and data0 or data0 data1 xor not or xor data1 xor or xor data1 data0 data0 data0 data0 not data0
+or data1 not or data0 data0
+or data0 not and data0 xor data1 data0
+xor data0 xor xor and data1 not not data1 and data0 data1 not data0
+or not not data1 or data0 data1
+not or xor or data0 and and data0 data1 or or data1 or data0 data1 or data1 data1 data0 not xor data1 data1
+and data1 or and xor and and data0 data0 not not not data1 data1 data0 data0
+and data0 and xor or data1 data0 data0 not data1
+xor and data0 not and xor xor data1 or xor and data0 data1 not or data0 not data0 data1 data1 data0 xor data0 data0
+xor xor not data1 data0 data1
+xor or and data0 data1 or data1 data0 not data0
+xor xor data0 data0 or data0 and or data0 data0 data1
+and data0 and and and not not data0 and data0 and not or data0 xor not data1 xor data1 or %1 : xor data1 data1 data1 xor not data0 or data1 data0 data0 %1
+xor and data1 data0 and not data0 and not data1 data0
+not or xor data1 data0 data0
+and data1 xor and data0 and data0 or data0 data0 and data1 or and not not data0 data1 not and data1 data1
+and data0 xor data0 not data0
+xor xor not data0 or xor or and data1 data1 data1 data0 and data0 or data1 data0 data1
+not xor and xor data1 data1 data1 not data0
+and data0 or or and and or or not xor and data1 data1 data1 data0 data0 data0 data1 data0 data1
+xor xor data0 data1 and data1 data1
+not xor data0 and xor or or and data0 xor not data0 xor xor data1 data0 data1 data1 data1 and not and not not data0 data0 data1 or xor not data0 data1 and or data1 and data1 data0 or data0 data0
+and data1 and xor data0 data1 data1
+xor or %1 : or data0 data0 xor data0 data0 and and %1 or data0 data1 data1
+not xor and data0 and or or not data0 and not , %1 : and data0 data0 data1 or data1 data1 and data1 or data1 and data0 data0 data0
+and data1 xor data0 xor data1 data0
+xor and data1 and and data0 data0 data0 or and not data0 data1 data0
+or or and xor data0 xor data0 xor not and data0 and data1 and data0 data1 or data1 data0 data0 or or data1 data1 data0 data0
+not or not xor and data1 data1 not data1 or data0 data0
+xor not not data1 data1
+not or or and data0 data0 data0 data0
+xor and data0 and data0 data0 data0
+xor and data1 xor data0 xor data0 data1 data0
+or and data1 xor not or or data1 data1 and data1 data1 data1 and data0 data0
+xor xor and xor data1 or not data0 data0 not and data0 xor data0 or or data1 or data1 xor and xor not data1 and data0 data1 data0 data0 data0 not and data1 xor data1 and data0 not not xor not and not or data0 data0 data1 not xor not or xor and data0 xor not data0 and data0 xor data1 data0 or data1 and data0 or or data1 data0 not data1 not data0 and data1 not data1 data1
+and or not data1 not not xor data0 xor and and data0 data1 data0 xor or data1 data0 data1 xor or xor and %1 : and data1 data0 data1 xor xor and and not or not data1 data1 data1 and data0 %1 data0 data0 data1 not data1
+or data1 xor xor data0 data1 data0
+or or or data1 data0 or data1 or data0 data1 data0
+not and data1 not and xor data0 data0 data0
+or xor data1 xor data1 data1 and data1 xor data0 xor data1 data0
+or xor data0 and not data0 data0 data1
+and data1 and data0 not data0
+xor and data0 not xor data1 and not data0 data0 data1
+and data1 or xor or data1 data0 data0 data0
+and not not not or xor not or and data1 data0 data1 data0 data1 and not data1 and data1 data1
+and data0 xor xor or and and or not and data0 data0 and data1 or and data1 or or not not data0 data0 data0 data1 data1 and data0 xor or data0 data0 and or data1 data0 data1 data1 data1 and data0 not or xor data1 data0 or data1 data1
+and data1 not not data1
+xor and xor data1 data1 and or data1 data1 or data0 data1 data0
+not not and or not data1 data1 data0
+and or data1 and xor data0 xor xor data0 xor not and data0 data0 and and data1 data1 data0 and data1 not data1 data0 data0
+and xor data1 or data1 data1 xor not or data1 data0 or or not data1 not data0 and or data1 and data1 data0 and data1 data1
+and and or data1 data0 not and data0 not xor data0 not data0 data1
+not and data1 or xor or data0 not data0 xor data0 data1 or and or data1 data1 data0 or not data0 data0
+xor and xor data0 and data0 data1 data0 data1
+or and not data1 data0 data0
+xor not data0 xor data0 and data1 data0
+xor xor data0 data0 or and xor and or or not data0 data0 data1 data0 or data0 not or data0 data1 data0 data1
+not and or and data1 not data0 and data0 data1 data1
+or not data0 xor and data1 xor or data1 xor not xor data1 data1 data0 data1 data0
+xor or xor data0 not data1 data0 xor data1 data0
+and and data0 or data0 data1 and data0 data0
+xor xor data0 and data1 data0 data0
+xor xor data1 data1 or data1 not data1
+and and and xor or xor data0 not data1 xor data0 data1 data0 data1 not or xor not data1 or not and data1 not not data0 data1 data1 not data0
+xor and data0 not data0 data1
+or or not data1 data0 data0
+and or data0 not data0 data0
+xor or not data1 data0 data1
+xor data1 or and xor data1 and data1 data0 data0 not data0
+not or not or not data0 data1 xor data0 data1
+not xor data0 or data1 and data1 data0
+and data0 xor xor xor not data1 xor data1 data1 data0 data1
+or and or data0 or and or and data1 data0 or data1 not data1 data0 data0 data1 data1
+xor xor not data1 data1 data1
+or xor data0 and not not data1 data0 data1
+not or data0 xor data0 data0
+and or or data0 or or and data0 data0 data0 xor data0 data1 and data0 xor xor data1 data1 data1 not data0
+and xor data1 and data1 xor xor data0 data0 and not or data1 and data1 not data0 data1 data0
+and not data1 xor not not data0 data0
+not or data0 and or data0 and data1 data0 not data1
+and and and or xor or data1 data1 or data1 data0 not or data1 xor or not and and data0 data1 not not or %1 : and data1 data0 data0 or data1 %1 not data0 data0 data0 data0
+or xor xor data1 data1 data1 data0
+or and xor data0 xor data1 data0 not data0 data1
+not and data1 xor data0 or and xor data0 data0 data1 xor and data0 or not data1 data1 data0
+and data0 not xor not data0 or and data1 data0 not or data0 data0
+not and or data0 and or data0 and data0 data1 and data1 data0 data1
+and data1 and not not data0 data1
+not xor xor data1 and xor xor data1 or data0 and data1 data0 xor data1 data1 xor xor data1 data0 data1 and or data0 data0 xor not xor data0 data0 data1
+and or not xor data1 data0 not data0 data0
+and data1 xor or data0 not and data0 data1 and data0 data0
+xor xor or and data1 data1 data0 data0 data0
+and and data1 xor data1 data0 data0
+and not data0 or xor xor data0 not data0 or data1 or data1 not xor xor data0 data0 data0 data1
+and and not data1 data0 data1
+xor or xor xor data1 data0 or or data1 data0 or data1 not data1 not data1 and data0 not and data0 data1
+or and and data0 xor data1 data0 xor xor and data1 data0 data0 not data1 xor data0 xor and data0 not data0 data0
+xor or data0 xor data1 data0 data0
+and data0 xor or and data1 xor or xor data0 data0 data1 data0 or data1 and data1 not and not data0 data1 not and data0 data0
+or data0 or and data1 or and not and not data0 data0 data0 data1 or data0 xor xor not data0 data1 data0
+xor not or data1 or data1 data0 xor and xor data0 data0 data1 data1
+or xor not data1 not data1 xor and not and xor data0 data1 or data0 or xor data0 and xor data1 data1 data0 data0 data1 data0
+or and data1 or xor and data0 and and data0 xor not or xor and not data1 %1 : and data0 data1 data0 xor data0 xor data1 or %1 and not data1 data1 xor data0 not data1 data1 not data1 data1 data1
+or not or data0 xor or and data0 and xor or or not or not and data1 xor data0 or not data0 data1 and %1 : or data1 data0 data1 data0 data0 data1 xor xor data1 data1 not data0 and %1 or data1 not data0 not or or and data0 data0 data1 data1 data0
+and not xor data1 data1 xor or xor data0 and not data0 or data0 data1 data0 data0
+xor data1 xor data0 xor and data1 xor data1 data0 data0
+and not data0 and xor data0 data0 data0
+or or not data1 data1 not data0
+or data1 and or xor not data0 data0 data1 data0
+and not or or or data1 and data1 data1 not xor data1 data1 not not data0 xor data0 data1
+not and data1 not xor or data1 or xor data0 data0 data0 not data0
+xor data1 and data0 or data1 data0
+xor or not data0 data0 data0
+or data1 or or xor data0 data0 data1 data1
+or xor and data0 xor not data1 data1 not data1 or data0 data0
+and data0 and not not data0 data0
+or data0 or or xor data0 not data0 xor xor data0 or data1 data1 and data1 not data0 data0
+and data0 and data0 xor and data1 data1 not or not or data1 data1 and and data1 not data0 data0
+and or data1 xor data0 data1 data1
+or xor and and data1 data1 data1 not data1 data1
+or or data0 data0 or and or data1 data1 or or data1 xor or and data1 data1 xor data0 data1 or xor data1 xor data0 or data0 or not data1 data1 data1 data1 data0
+xor data1 or or data1 or data0 data0 xor data1 or and xor or or not xor and not data1 data0 or data0 not data0 data0 data0 xor data0 data1 data0 data0
+not and xor not or data0 data1 or or data1 data1 and not or data1 data0 data1 data0
+and data0 xor data0 and not data1 data1
+or or data1 or xor xor not data0 data0 data0 not and or data1 data0 data1 data0
+xor data0 or data1 xor data1 and xor and data0 xor data1 and data1 or data0 data0 xor and data0 data1 data0 not not not and or data1 data0 and data1 data0
+and or data1 xor data0 data1 data0
+not or or data1 data0 data0
+and data1 and data0 or data1 data0
+and and data0 and and or or data1 data1 data1 or or or not data1 data0 data0 xor data1 xor xor not data0 not and data0 not data1 not xor data0 data1 data0 and or data0 or xor data1 data1 data0 data1
+or data0 not xor data0 data1
+and or and data1 not data0 data1 data0
+or xor data0 xor not xor xor and data1 , %1 : and data1 data0 data1 and data1 data1 data1 and data0 and data1 data0
+and or or data1 data1 data1 xor data1 data0
+or xor or data1 , %1 : xor data1 data1 , %1 and not and and xor and not or xor xor data0 data0 data1 xor data1 not data1 data0 data1 and data1 data1 or or data1 data1 data0 not data1
+not xor data0 not and and data1 not not data0 not data1
+xor xor or and data0 not data1 data1 data0 xor data1 or data0 data0
+or or data1 or data1 xor or data0 not xor data0 not data1 data1 data0
+xor data0 and and data1 data1 or data0 and data0 data1
+or not data0 and data0 or or or data1 data0 or data1 not and not data0 not not data1 not data1
+not or and data0 not data1 data0
+not not or or data1 data1 data1
+or xor data0 data1 or data0 data0
+not xor or data1 xor data0 data0 data1
+or data0 xor data0 xor xor or data0 data0 and data1 data0 data0
+xor data0 and or or , %1 : not data1 data1 xor and not data1 data1 xor data1 or data1 xor not data1 data1 not and data1 not and data1 xor not data0 not data1
+not xor xor %1 : and data1 data1 data0 or xor data0 and data1 xor or xor or data0 data0 data0 or data0 xor not and and data0 xor xor data1 and data0 %1 and data0 data1 data1 data0 xor data1 data0 not not data0
+and data1 and and or and and data1 and data1 data1 data0 and or data1 and not data0 data0 and and xor data0 data0 xor xor data1 data0 data1 not data0 not or data1 not data0 data0
+and not xor data0 data1 or not data1 data0
+xor xor xor data0 , %1 : and not data1 data1 , %1 data0
+or or and or data0 or not data1 and or or data0 data1 data0 data0 and data0 data1 , %1 : and data0 data0 xor data0 and and and and not data1 xor xor data0 and xor data1 data1 and data1 data0 or data1 data1 data0 data0 not and not data1 and data0 data0
+and and or xor and data1 xor data1 data0 data1 data0 data0 data1
+not or xor data0 data1 data1
+xor or xor or data1 not and and data0 data0 or data1 or data0 and data0 data1 data1 or xor data0 or data1 or data0 data1 data1 xor data0 data0
+or not , %2 : and data0 data1 xor or or not data0 or xor xor data1 and not data0 %1 : and data1 data0 data1 and xor xor not xor %1 and xor data0 and data0 data1 data1 data1 and xor not or data1 data1 xor or and not data0 not data0 data1 data0 data0 or xor xor and xor or or not data0 and not xor %3 : or data0 data0 data1 data1 data1 %3 and not not data0 data0 data0 and not and data0 data0 not data1 data0 , %4 : or data1 data0 , %4
+xor xor not not or data0 and data0 data1 data0 data1
+or or and and xor data0 xor data0 data0 and data1 data0 or and data0 data1 data0 data1 data1
+xor data1 or not data1 data1
+not not or or and data1 data1 data1 data1
+xor not data1 and not data0 data1
+not and data1 or data0 not data0
+xor data0 or data1 or or data0 not and data1 data0 xor data0 not data0
+not xor and data0 or data1 data0 data0
+and or xor not data0 data1 data0 data1
+or data1 or or data0 data1 data1
+xor or xor and data0 and data0 data1 xor data0 data0 data0 data0
+or data0 xor data0 and data0 data1
+xor data0 and data0 not or or data0 data1 or data0 not not and data0 data1
+xor and or data1 data0 and data1 not or data1 data1 data0
+not xor data1 xor and not data1 data1 data1
+not and data0 xor data0 or data1 data1
+not or data1 or data1 data0
+xor xor data0 data0 and data0 data0
+and or data0 data0 and data0 not or and data0 not data0 data1
+and and or data1 or data0 and data1 data0 data0 data0
+not and not , %1 : and data1 data1 , %1
+not xor xor xor data1 data1 data0 data0
+not xor data0 and not data0 and data0 or not data0 data1
+and and or and data0 data0 or data0 xor and data0 data1 data0 not data0 data0
+xor data1 and and xor data1 data0 and xor not or data0 or or , %1 : not data0 data0 xor data0 data0 data1 and data1 xor xor not data0 and data0 or not and or data1 not data0 data0 xor xor xor not data0 data0 xor and data1 data1 data1 and data0 xor data0 xor data1 not or data0 data1 data1 or data0 data0
+and and not data0 xor data0 xor data0 data0 xor data0 data1
+xor data0 not xor and xor or data0 data0 or data0 not data1 data1 data1
+xor or xor data0 xor xor and data0 not xor data0 and data0 data0 xor data1 data0 data0 xor xor data0 data0 data1 not data0
+xor or data0 xor and and data1 data1 data1 data1 data0
+xor not data0 xor data0 or data1 data0
+and and and not data1 data1 and data1 data0 data1
+and xor xor data1 and data0 data0 data0 data0
+xor xor and and or or data0 data1 and data0 xor data1 or data1 xor data0 xor and data1 data0 not data1 data0 data1 data1 xor data1 data1
+and data0 not xor xor data1 data0 xor data0 not data0
+xor xor xor xor data0 data0 not data0 not data1 data1
+or data1 or data0 not xor data0 data0
+xor or data0 and data1 data1 and data0 data1
+and and and xor data1 not data1 and data0 data0 data1 data0
+or or data0 data0 and xor data1 data1 data1
+not xor or and data1 or not xor data0 data1 data0 data1 not or data1 data0
+or data0 or xor xor data1 data0 or data1 data0 data1
+or or data1 and or xor and xor data1 or not data1 data0 data1 not data0 data1 not and data0 data0 data0
+xor data0 and data1 or not and xor xor data1 or data1 data0 xor data0 or or xor data0 , %1 : xor data0 data1 xor data1 xor data0 or data0 data0 data1 , %1 data1
+not xor xor or and or data0 and not or data0 not xor data0 and data0 data1 data0 data0 data1 data0 not data0
+or and or not and and not data1 or data0 data0 data0 or xor xor data0 data0 data0 data0 data0 not data1
+or data0 and and data1 data0 data0
+not and %1 : and data0 data1 xor or data0 data1 %1
+xor or data0 data1 and or or data1 data1 or xor xor xor data0 data1 data0 data1 data1 data1
+and data0 not not data0
+and and data1 xor data0 or data1 data0 data0
+or data1 xor data0 xor not data1 data1
+xor xor and data1 or data0 and data1 xor and or %1 : and data1 data0 data0 and not or data0 or and data0 or data0 and data0 not data0 not and data0 data0 data0 or and data0 and or not data1 and %1 data1 data0 data0 and data1 not xor data0 and or data1 data0 data0 data1
+and xor xor or data0 or data0 data0 xor data0 data1 not and data1 data0 not and data0 data0
+xor xor data1 data0 xor not and data1 data1 data0
+xor and xor data0 data1 not xor xor or xor data0 or data0 or not data1 data1 and or data0 or xor not data1 xor data1 data1 data0 data1 not not or data0 data0 data0 data1
+xor data0 xor and data1 and data1 or data1 data1 and data1 data1
+xor or data1 not data1 and data0 data0
+and data0 xor xor or and data1 or xor data1 data0 data1 data1 or and or data1 data1 data0 not data0 or data1 data0
+or and data1 and xor data0 or data0 and and data0 data0 data0 or and not xor data1 not data0 data1 data1 data1
+and data0 not or data0 data1
+xor and xor not not data1 data1 data0 or data0 or xor data0 and xor not data0 data0 data0 data1
+and xor and data0 and data1 or data0 or xor data1 data1 data1 data0 data0
+not and data0 or xor data0 or data1 data1 data0
+or and data1 not data1 data1
+xor not not data0 or data0 data0
+and and data0 data0 or xor data1 data0 not data0
+xor data0 and not xor data0 or data0 and or or data1 data0 data1 data1 data1
+xor xor data1 not not and not data1 xor data0 or data1 not data1 and not xor data1 or data0 data1 data0
+or data0 and xor and data1 data1 data1 and data0 and data1 data0
+and xor data0 data0 not xor or xor data1 data1 data0 data0
+xor not or or and data1 data1 not data1 and not data1 xor data0 data0 data0
+not xor or xor data0 and data1 data0 data1 data0
+and xor and and xor data0 and data1 xor %1 : or data0 data1 data1 xor or xor %1 and data0 not data0 data1 xor and xor not data1 data0 data1 not xor data1 not and not data0 and data1 data0 data1 data0 data0
+or or or data1 data1 data1 xor data1 not data1
+xor or or or data1 not xor data1 data0 data1 data0 data1
+and xor %1 : xor data1 data0 not data1 %1
+xor and data1 data1 xor not or data1 data1 or data0 data1
+and not and data1 data1 data1
+or xor data0 not and data0 data1 xor and data1 xor data0 data0 xor or data0 not data1 data0
+or data0 xor xor xor data0 data1 data1 data1
+or not xor xor xor data1 not data1 data0 and data0 xor data0 xor data0 , %1 : or data0 data0 xor and data0 xor xor data0 data0 data1 or data0 data0
+and data0 or and data0 and data1 data1 data1
+not and data1 or data0 and data1 or or data1 data0 not data0
+xor data0 not xor data0 and data1 data1
+not or or not not data1 data1 not data1
+and xor xor data0 and data1 data0 data1 data0
+xor not xor data0 not and data1 data0 data1
+and and or xor and and data1 data0 data0 or data1 data0 or data1 xor data1 not data1 data1 data1
+xor xor data0 data0 or data0 or data1 not data1
+or and and or and data0 xor data1 data0 data0 data1 data1 and data1 and data1 and and not not not xor or not or data1 and data1 data0 data0 or and and data0 data0 data1 data0 data1 and data1 data1
+or and data0 not xor not not data0 not data0 and data1 data1
+xor or or and or data0 not xor or %1 : xor data1 data1 data0 or xor data0 xor or not data0 not data1 and data0 data0 data0 xor or and data0 data1 not not %1 data0 not not data0 data1 data0
+or or or data0 and or not data1 and not data1 data1 xor data1 xor or data1 data1 data0 and data0 xor not and data1 data0 data0 xor data0 data1
+not xor data0 or data0 not data1
+or or data0 or data1 or and or data1 or data1 data0 or data0 data0 data1 data0
+xor data0 not or not not data1 data1
+and data1 xor data1 xor xor and data0 data1 data1 xor data0 xor data0 or data0 data1
+xor xor or not data1 data0 data0 data0
+and and not or data0 data1 data0 and and data1 xor data0 xor data0 data1 or or not data1 data1 data0
+and not or and data1 xor not and not data0 data1 or not data1 data1 or xor xor data1 data1 data0 data1 data1
+xor data1 and data0 not data1
+xor xor not data0 data1 data0
+not xor or data1 and data0 and not data0 data1 xor xor xor data0 data1 and data1 not xor data1 and data1 not data1 data0
+or not not data1 data1
+not and not and data1 data0 data0
+xor data1 and or data0 data0 or and data1 data1 data1
+or or and data0 and data0 xor data1 data1 not data0 data0
+or or data1 data1 not xor data0 data1
+xor not and data0 or and %1 : or data1 data0 not data1 not or data1 data1 or data1 xor and data1 data0 %1
+not not and or not data1 not data1 and and not data1 data0 data0
+or or data1 data0 or not not xor or data0 data0 data0 data1
+not not xor or data0 data1 xor data0 data1
+not not xor data1 xor data0 data1
+or xor xor data1 or data1 data0 data1 or data0 data0
+xor data1 xor data1 and data0 or xor and data0 data0 data1 and data0 not or or and or not or data0 data0 xor or and data0 data1 data1 data1 not data1 data0 data1
+and xor data1 data1 and xor data0 data0 data0
+or data0 not or not data0 and not not xor data1 or xor or or or data1 data1 xor xor data0 data1 data1 or or not data1 data0 not data1 data0 and and not and not data0 xor not data0 and data1 xor data1 or data1 and data1 and not xor xor data1 data0 data1 data1 and data0 data0 data1 data1
+xor or data1 data1 xor data0 or not data0 data0
+not and and not data1 xor data1 or not data0 data0 data0
+and or data0 and data1 and data1 or not and data0 data0 not data1 data1
+xor not not data0 data0
+xor and data0 not data1 data1
+and or data0 and data1 or data0 and data1 data0 not data1
+or xor and data1 data1 data0 not xor xor data0 and xor data1 data1 data0 data0
+or data1 or xor data1 data1 or data0 data1
+not and and data1 data0 data0
+and or data1 and data1 or not data0 or data0 data0 not data1
+and or data1 and data1 and data1 data1 not data0
+xor xor data1 data0 or data1 not or and xor not data1 or data0 or and data1 data1 data0 or xor data1 not data0 or data0 xor data0 data1 data1
+or data0 xor xor data1 and data0 and xor data0 and xor data0 data0 or and data0 data0 data1 data0 data1
+xor and xor data1 xor or and or or or data1 or and data1 or xor and data0 data0 data0 data1 data0 not or data1 not data1 not data0 data1 data0 data0 data1 data1
+and xor data0 and not or data1 data1 data0 and data1 and data0 data0
+or or and not xor or xor data0 data0 not not data0 data0 data0 data1 data1
+or data1 or data1 or data1 not data0
+xor not and not data0 and not not data1 data0 data1
+xor and data0 data0 or data1 data0
+xor data0 xor or xor data1 data0 and data1 data0 data0
+or and xor or not data1 data0 data1 and xor not data0 data0 data0 xor data1 or xor data1 data1 not data0
+and and not xor data1 xor and data1 data0 or and data1 or or xor not or data0 not xor data0 data1 data0 xor data0 xor %1 : or data1 data1 and data1 data1 %1 xor not data0 data0 not data0 data1
+and data0 or xor data1 data1 data1
+xor xor data0 or and or data1 not data1 not data1 data0 or data1 data1
+and %1 : and data0 data1 not xor %1 data0
+xor and data0 or not and data0 data0 data1 data1
+xor not data0 xor or and data1 not data0 data0 xor or data0 data0 data1
+and data0 not not and data1 or or data0 data1 data0
+and or data0 xor or data1 or or not data0 xor and data0 data1 data0 data0 data1 and and data1 data1 data0
+or or data0 xor data0 data0 or data0 data1
+and or data0 or or data0 xor data0 or or and data0 not data1 and data0 data0 data1 data1 data1
+xor xor data1 and data0 xor data0 data0 not data1
+not or data1 or xor data1 data1 or or and data1 data1 data1 data1
+or and not xor not data1 data1 xor or not data1 not data1 data0 data0
+and and and data0 data1 , %1 : or data1 data0 , %1
+xor data1 and xor and and data0 not not or data0 data1 data1 data0 data1
+xor or data1 or data0 data0 and and data0 data0 data1
+and data1 and data1 xor or and %1 : or data1 data0 not xor data0 data0 or xor data0 and and and and xor data0 and data1 xor data0 not data1 and or data0 or data1 , %2 : or data1 data1 not and xor data1 data1 data1 data0 %1 xor and or data0 data1 data0 data1 or or data1 xor data0 data1 or data1 data1 data1
+xor and or not not xor and data0 data0 data0 data0 and data0 and or data0 data0 not not data0 or data1 xor data1 xor not or not data0 data0 data0
+not xor data0 and and data0 data0 not not not data1
+or data1 xor data1 not or and %1 : or data1 data0 xor data0 and data1 data1 or and data1 %1 not xor data1 xor or data0 not data1 not xor and and data0 and not data0 xor not data0 data0 not data0 data0
+and not and not data0 or data0 data1 data1
+not or xor data1 data0 data1
+or xor data0 data1 and not data0 or not data1 or data1 data1
+or data1 not or data1 data1
+and data0 or data0 and and data1 or or xor data1 data0 data0 data1 and data1 not not and data1 not or and data1 data0 xor not data1 or xor data1 data1 data1
+and or not xor data0 data1 data0 data0
+xor or xor and data1 or data0 or or data1 not data1 xor data1 not data0 not data0 not data1 xor and not and data0 data1 and data1 and and or not data1 data0 data0 or xor data0 or and data1 data0 xor not data0 data0 data0 xor or or data0 data0 xor not data0 not data0 not or data0 or data0 data1
+and xor data1 or data0 data0 data0
+or and data1 not data0 not or xor data1 data1 data0
+xor data1 and and xor xor not data0 not data0 data1 data0 data0
+and xor data1 data1 and data0 data0
+or and xor xor data1 data0 not xor data1 and and and and and not data0 data1 data1 or xor not data0 or or and data1 data0 data0 data1 data1 data1 and data0 data0 data1 data0
+xor not xor data0 not xor xor data0 not data1 data0 data0
+xor xor data1 and xor not xor xor data1 data1 not not not or xor or or data0 data0 and not not data1 data1 data1 data0 data0 data0 data1
+not and data0 xor and data1 data0 xor data1 not data0
+xor or data1 data0 or data1 and data0 xor data0 and data0 data1
+or or or data1 xor and data0 or or not xor data1 data1 data1 data0 not data1 data1 xor and data1 data0 not xor data0 data0
+not and not data1 xor data0 data1
+and and xor data0 or or or data1 data1 not data1 data0 data1 or data1 data0
+or xor %1 : and data1 data0 not and xor or %1 not not and data1 data1 data1 data1 and data0 %1
+and not not not xor not not data0 or xor xor or data0 not or xor or data1 not not data1 and data0 not xor and or and or data0 , %1 : and data1 data0 data1 or not or xor not data1 data1 data0 data1 not data1 data0 data0 and xor data0 data0 not xor and data1 data1 and data1 data0 data0 data0 data1
+and data1 or xor and not data1 data1 data0 data0
+or data0 or and and data0 data1 data0 xor data1 not not or data0 not and and data0 data0 not not or and data0 and and or data1 not or not and data1 xor data1 data1 data0 and not data0 data0 data1 data0
+or not or data0 data0 and data1 xor and data0 data1 data1
+or data1 and data0 or data0 data0
+or data0 not or xor data0 data0 data0
+and data1 and not data0 or data1 data1
+xor xor data1 data1 not xor or not data0 or data0 xor not xor data1 xor data0 data0 data0 data1
+not or not data1 data0
+xor data0 and data1 and data0 data0
+and and data1 data0 xor data0 data0
+and not data1 or data1 or data1 data0
+not and or xor data0 data0 or xor xor not not data0 not xor %1 : and data0 data1 data0 data0 not data1 xor and and or data1 or or data0 or and data1 or data1 data0 %1 xor xor xor data1 xor and not data1 data0 data0 data0 data0 data1 not data0 data0
+not or data1 xor and and data1 data0 data0 and data0 data1
+not or or xor data0 xor data0 or not data0 data0 data0 xor and xor data1 data1 data1 data1
+or xor data0 not xor not or data0 and or and not or data0 data0 data1 data0 or and data0 xor xor and data1 data1 data1 or not xor , %1 : not data1 data1 and data0 not data1 xor xor or data1 not xor data0 data0 data0 data0 or and or or data0 not and data1 and data0 and or data1 data0 or data1 xor or not data1 data1 data0 not xor data0 or xor data1 not data0 data1 xor or data1 data1 and data1 data0 not xor data1 data1 data0
+and or xor data1 data1 data0 xor or data1 xor not or and data1 xor xor data1 data0 not xor data0 or data1 data0 data0 data0 data0
+not not and data1 xor or xor xor data0 data0 data1 data0 and or data1 or xor not and data0 data1 data0 data1 data0
+and %1 : xor data1 data0 xor not data1 or and and data1 %1 data1 data0
+not and data1 not xor not data0 data1
+xor and data0 data0 xor data1 data1
+or not and data1 not data0 data0
+and data0 or and data1 data1 and data0 data1
+or data0 xor data1 or data0 data0
+and data0 or not data1 not data1
+not or data1 xor or data1 xor data1 data1 or data1 and data1 data1
+or not or not data1 data0 data0
+or xor or data0 or data0 data1 xor not data0 data0 not data1
+or xor xor data1 data1 not xor data0 xor xor data0 data0 data1 or data1 data1
+xor or or and or data1 data1 data1 data1 data0 data0
+and or data0 and data1 data0 or data1 data0
+and xor data0 xor xor data1 data0 xor and or data1 xor data0 data1 data1 data1 data1
+or data1 or xor or data0 data1 not data1 data1
+xor not xor and and not data0 data0 or and data1 data1 data1 and data0 and data0 and not not data1 data0 data0
+not or data0 and data0 data1
+and data0 xor and data0 or data1 data1 xor data0 data1
+not and data0 not not data1
+not xor xor and or data1 not data1 data1 data0 and and xor data1 xor and data1 or %1 : and data1 data1 data1 not or data1 %1 or data0 data1 and xor data0 data1 data1
+or data1 not and not or data1 or or data0 data0 data0 xor or data1 data0 and data1 data0
+not xor and data0 data0 data0
+and and and data0 data0 data0 data1
+xor not and data0 and data1 data0 data0
+and not data1 or data1 data0
+xor xor data0 or or data1 data0 xor not not not data0 data0 data1
+and xor xor and xor data0 data1 data0 data0 data0 or data0 data1
+or xor or and not not data0 xor xor data0 or data0 xor or data1 data1 not data1 data1 data0 not and xor data1 and data0 or data1 data0 data0 data0
+and data1 and data1 and and not or data1 xor xor not data0 not not and data0 not data0 data0 or or data1 data0 data1 data0
+not or not data1 xor or data0 data0 data0
+not and or xor and xor and data1 xor data0 data0 data0 xor or data0 data1 data1 data0 xor and data1 and data1 data0 data1 data1
+and not data0 and not data0 data1
+xor not data1 or xor data0 not data0 data1
+and or or data0 data1 data0 data1
+or data1 xor not not data0 data0
+and not or data0 and or data0 data0 data1 or data0 data1
+or not xor and not and data0 data1 or data0 data1 xor xor not not not xor data0 xor %2 : and data1 data0 not data0 data1 xor or data1 or data0 , %1 : xor data1 data1 and or or data0 and data0 or or and and xor not not xor data0 xor and data1 xor data1 data1 data1 and data0 data0 xor %2 data1 data0 data1 data0 data1 or data0 not not data0 xor or data0 not %2 data0
+not or not data1 or data1 data1
+xor data1 not or not data0 data0
+or data1 xor not and data1 data0 not not data1
+xor or xor data0 xor data0 not and data1 data0 data1 xor or data1 data1 data0
+or xor data0 not not not data1 data1
+or and data0 and data0 and xor data1 not data1 or not data0 or data0 data1 or data0 data0
+xor or xor data0 or data1 or data0 and xor data0 xor data1 data1 data0 and data1 and and not data1 not data1 data0 not data1
+not and and not or xor and not and xor or data1 or not and data0 data1 data0 xor data1 or data1 xor data1 data1 data0 xor xor data0 data0 data1 data1 data0 and data1 not data0 data0
+or and data1 xor data1 data1 data1
+xor xor and data1 and not data0 data1 xor data1 data0 data0
+or data0 or xor data1 data0 data0
+not and data0 or data1 data1
+and or not data1 data1 not not data0
+xor or or or data1 data0 not not data0 data1 xor data0 data0
+and and xor data1 and data1 data0 and not data1 not data0 data0
+not and and not and and data0 data1 xor xor xor not data1 not data1 data0 data1 data0 not data1
+or not data0 or xor data0 data1 data0
+and not data1 xor data1 data1
+xor and not data0 data1 data1
+or data1 or xor data1 not and xor data0 data0 xor or or data1 xor xor and data1 data1 and data0 not and data0 data1 data0 data0 not not data1 data1
+or xor xor or data0 data0 xor not not data1 data0 data0 data0
+not or data0 xor xor data0 data1 data0
+or or data1 xor xor and xor data1 not data1 and data0 %1 : xor data1 data0 data0 xor %1 data1 or or data1 data1 and xor or data0 data0 data0 data0
+or data1 and or xor not and not data0 data1 or data1 data1 data1 data1
+and xor data0 or not data1 data0 data0
+not xor and data1 or data0 or or data1 data1 data1 data0
+xor xor data1 data0 or and or data0 data0 data1 data1
+xor or not and or data0 data1 data1 and data0 data1 data1
+and data1 or data0 or not or data0 data1 data1
+and data0 xor or not data1 data1 xor data0 data0
+xor not data1 xor xor data0 data1 xor data0 and data0 or data0 data0
+or data0 not not xor data1 data1
+or or or and and data0 data0 or data0 data1 and data1 not not data1 xor data0 not or not data1 or xor not data1 not not data0 data1 data1
+not or or data0 data1 data0
+not xor data1 not xor data0 not data0
+xor xor xor %1 : and data0 data1 xor or not not data1 and and data0 data0 xor not data0 data0 data0 and %1 xor data0 data0 data1
+or data0 xor data0 or and and xor data0 data1 data0 data1 data0
+xor data0 xor xor xor data1 data0 not or and data1 data0 data1 and data0 and not or and xor data1 not data0 data0 data0 data1
+and data1 and not data0 data0
+and xor and data1 xor data0 data1 data1 xor or data1 data1 xor data1 data0
+not xor xor xor and xor and data0 %1 : or data1 data1 data1 xor data1 data0 data0 or %1 data0 not not data0
+or xor or or xor data1 and data0 data1 or data1 data0 or or data0 not data1 data1 not not data1 xor data0 data1
+xor not not not data1 data1
+xor or not data0 data1 data1
+not or and and xor data0 data1 data1 data0 xor data0 or data0 data0
+or data0 or not data1 data0
+or and data0 data0 not not not data1
+xor and not data1 not not data1 not data0
+and or and not data0 and data0 data1 data1 data0
+and and data1 xor not data1 and data0 data1 data0
+not xor data0 xor and data0 data0 data1
+xor not and data1 and and or data1 and data0 data0 data1 not not data0 data0
+or data0 and or xor or data0 data0 data0 or xor and data1 xor or data1 data0 data0 not xor data0 and and data1 data0 data0 xor xor not and and data0 data0 xor data1 data1 data0 data0 data0
+and data1 xor data1 not data0
+not and and xor xor or data1 not and data1 data1 not and xor data1 not or data0 data1 not not not data0 xor data0 data1 and not data1 or or data0 data0 data0 and data0 data1
+and and and and and data1 xor or data1 and not data1 data0 and xor xor not and xor data1 and and or or data1 data1 and not data1 data1 data1 and data0 data0 data0 or data1 not data0 xor data0 or data0 data1 data0 not data0 data1 data0 data1
+and and xor or xor data1 data0 and data1 , %1 : or data0 data1 xor or data1 data1 data1 not or data0 data1 data1
+and or data1 not xor %1 : and data0 data1 xor or or not data1 or data0 data0 data0 xor not xor data1 %1 or data1 data0 data0
+and and or data0 xor not data1 data1 data0 data1
+xor or and or data1 not data0 and xor data0 data1 xor not data1 and data1 or xor or data1 data1 data0 data1 data0 data1
+xor xor or data1 and data1 not data0 data1 and data0 data1
+and %1 : and data0 not data0 %1
+or data1 and data0 xor data0 and data0 data0
+and data1 and xor and not or and and data0 xor or xor data1 data0 data0 data1 , %1 : or data1 data1 xor data0 and and data1 not data1 not not or data1 not data0 , %1 xor and or data1 and or data0 and and xor data0 data0 not data0 data1 data1 data0 data1 data1
+xor and and data0 data1 data1 data1
+xor and data0 or data1 and data1 or not data1 data0 or xor data1 and data1 data1 and and xor data0 xor data0 or data0 data1 and or data1 or and not and data0 or not data0 data0 data1 data1 not data1 data0
+or or not data1 data1 and data1 data1
+or or and data0 data0 data1 data1
+and not data0 and and and xor or or data0 or data1 data1 and data0 or not data0 data1 data1 data0 data1 xor not or data0 xor data1 or and xor data1 data1 data1 data0 data1
+xor and data1 data1 or xor not data0 data0 data1
+or not or data0 data1 data1
+xor data0 or data0 xor or or data0 xor data1 xor data1 data0 and not or or data0 data0 data1 or xor data0 or or xor data0 data1 data1 data1 data1 data1
+xor data0 xor data1 or xor not and or data0 or or data0 data1 data0 data0 or data1 data1 or data1 xor data0 data1
+or data1 or not data1 data1
+and xor or data0 data0 xor data0 or data0 data1 data0
+xor xor data1 or data1 xor and data0 or data0 data0 xor data0 not not not xor data0 and data1 or data1 not data1 or data1 data1
+or xor data1 and data0 data0 data1
+and or not data1 and not not xor and or xor data0 data1 data1 xor data0 or and data1 data0 data0 data1 data0 or data0 data0
+not and xor and or not data0 not and or or data0 not data1 data1 data1 not data1 or not data0 xor data0 data1 data1
+or and and data0 data1 data0 data1
+or not xor data0 or data0 data1 data1
+xor or not data0 and and data0 not data1 and data0 not or xor or and data0 xor data0 data0 or data0 xor data1 data1 data0 data1 data0
+and data0 and not not xor or not data1 data0 or or data1 or data0 or not data1 or not and not data1 and or data0 data1 not data1 data0 data0 data0
+and data0 or or xor xor and data1 data1 data0 data0 data1 xor data0 or data1 not data1
+and data1 and data0 or data1 and data0 and data1 data0
+or data1 and not data0 not data0
+xor and xor data0 xor data1 data1 data0 data1
+xor and data1 data0 and data1 or data0 xor xor data0 data1 data1
+or xor xor data0 data0 and data0 data0 xor data0 data1
+and or data1 not data1 and data1 data0
+or or xor data1 data0 data0 xor and data1 or data1 and data0 data1 xor data0 data0
+and or or or data0 not data1 data1 not data0 data1
+xor or and data1 data0 not or or data0 xor data1 data0 data0 not xor xor xor data0 data0 xor data0 data1 data1
+or data1 xor and and data0 data0 data0 not data0
+or data1 and and or data0 data0 or and and data0 data0 data1 and not data1 data0 data1
+and xor data1 and data1 data0 and not or data0 data0 data1
+and data1 xor xor data0 data1 data1
+not or not xor or not data0 data0 data0 data0
+or or xor data1 and and or data1 not data1 xor and xor data1 data1 data1 and not or data0 and not data0 and data0 data0 data0 or data0 data0 xor data1 not data0 data0
+not or or not data1 xor data1 and or data1 data1 data0 data0
+and or data0 xor data0 xor or not not data0 data1 data0 not xor not data0 xor data1 data1
+and and data0 data1 and data0 data0
+xor data0 not or and data1 data1 data1
+and xor or data1 not data0 data1 data1
+xor and and or xor data0 and xor data0 or data0 data1 and data0 data1 data0 data0 data0 data1
+or data1 xor xor data0 xor not xor and or data1 not data0 xor data1 xor data0 and data1 data0 not data0 data1 data0
+xor data1 not not xor data1 or data0 data0
+or data0 and not data1 data1
+xor xor or data1 or not data1 data1 data0 data0
+or data1 xor or data1 xor data1 data0 data1
+xor and xor data1 data1 data0 data1
+not xor data0 and xor data1 xor xor data1 data0 xor data0 data0 not data1
+xor and data0 and data0 data0 xor not data0 or data0 data0
+or xor data0 data0 xor data1 xor data0 data1
+xor xor data1 not or data1 data1 data0
+and and data1 data1 or data0 data0
+or or data0 data1 not xor and or xor data1 or and data1 data1 xor data0 and xor data0 xor or or xor and data0 data1 or xor or or or or data1 data1 data1 data1 data0 and and not data1 data0 data1 data1 data1 data0 not data1 not not data1 data1 data0 data0
+or data1 and not or data0 data0 data1
+or data1 or xor not data0 data0 xor data1 xor not data1 not xor and data0 data0 data0
+xor or or not data1 and xor or xor data1 data0 data1 data1 and or or or data0 and and data0 data0 data1 or data1 and data1 or or data0 data1 data1 data1 data0 data0 data0
+xor not data0 xor data0 xor or data1 data1 xor data0 data1
+and or data1 data0 and data0 data1
+xor not data0 not data1
+or and or not not data1 data1 or data0 or and data0 and %1 : and data1 data1 or data1 and data0 not data1 and data0 %1 data0
+not xor xor data0 and data1 data1 or data0 data1
+and data1 not or data1 not data1
+xor data0 and data0 or xor data0 xor data1 data0 or or data1 or data0 data0 data0
+or xor or xor or or and xor %1 : or data0 data0 data0 %1 data1 data0 or data0 xor data1 not data1 and xor data0 data1 data0 xor not data0 data0 data0
+not xor xor data1 or data0 or not and not and data0 or data0 or data0 data1 data0 and data0 data1 or and data0 data0 data1
+xor data1 not or data1 xor data0 and and not data1 data0 or not data0 data0
+and data0 and or %1 : and data0 data0 and data0 not data1 %1
+or and or not data0 or and data0 data0 and and data0 and data1 and data0 data1 not data1 not data1 data1
+xor not and or data1 or or data0 data1 or data0 data0 xor xor xor not data0 and data1 not data0 data1 or or data1 not data1 data0 or data0 and and data1 or not data1 and not not data1 data1 data0
+and and data1 xor data0 and data0 or data1 data0 or data0 data0
+and not data1 and data1 xor or data0 xor data1 and or data1 data1 not data0 and data0 data0
+xor data1 or data1 or data1 data0
+xor xor data0 xor xor data0 data1 data0 data0
+not xor data0 and data0 xor data0 xor data0 data1
+and data0 xor xor data1 data1 data0
+xor or data0 data0 not and data0 xor not or not data1 xor data1 not data0 data1
+xor not not data0 data1
+or data0 not or and or xor data0 data0 data1 or not or or or data1 xor %1 : xor data1 not data1 not data0 and data1 data1 data0 %1 data1
+xor xor data1 or data0 not data1 data0
+or xor data0 not data1 data1
+xor xor data1 or or data0 or data1 and data0 data0 not data0 data1
+and not data1 or data0 or data1 data1
+not not or and data1 , %1 : or data1 data0 or data0 not and xor data0 and or data0 or data1 data0 data0 data1
+and and data1 and data0 data1 or xor not data0 data0 data0
+or xor xor data1 not data1 data0 xor data1 xor data0 data0
+xor or data0 and data1 xor and data1 data0 data1 and or not or data0 data0 and data0 not xor data1 not data0 and data0 and data0 not xor not data0 not data0
+not and or or xor and and not data0 data1 or not xor and data1 not data0 data0 data1 data0 data0 data1 data0
+and or and xor data1 data1 data0 not data0 data1
+xor data1 and and data1 data1 data0
+or data1 not or or data1 data1 not and not xor or or and data1 data1 not data0 not or data1 not data1 data0 data0
+xor xor and data0 or data1 data0 data1 data1
+or data1 xor and or xor data1 data0 data0 data1 or data0 and data1 data0
+and or data1 not xor xor data1 data1 and data1 data0 xor and data0 data0 data1
+and data1 and data0 xor and xor xor data1 not not data0 data1 not data0 data0
+xor or or not data0 , %1 : and data1 xor data0 or data1 data0 data0 not or data0 or xor and and data1 data1 data0 data1 xor not data1 and data1 xor data0 or data1 data0
+not not xor and data0 and data0 data1 data0
+xor data1 or data0 not data1
+or and data1 data1 and data1 data0
+and data1 or data1 or data1 or data0 xor data1 data0
+xor data1 xor data1 xor or not xor or data1 xor and %1 : or data1 data0 xor data1 data0 xor not data1 data0 or or data0 xor or data0 %1 not data0 not not not data1 data1 and data1 data1
+or xor not or data0 not and or data0 not or and not data1 xor data0 data0 not data1 data1 data0 data1
+or or not not data1 and data1 data1 xor or xor data0 and data1 and data1 data0 data1 data1
+not xor or xor not data1 xor and not not data0 data0 , %1 : or not data0 data0 and not and or not and data0 xor data0 data0 data0 xor not or not data0 data0 data0 not data1 data0
+xor or xor not data0 xor or data0 data0 data0 data0 not data1
+and data0 or or not xor data0 data1 not data1 and or not data0 data1 data0
+and or not xor and data1 data0 data1 or data1 xor xor data0 data0 data1 not not xor data1 data0
+xor and data0 data0 xor and xor data0 xor data1 data0 and data1 xor data0 data1 not data0
+or data0 xor data0 xor data0 data0
+xor xor and and and data1 data0 and or not data1 data1 data1 not data1 not data1 data1
+and and and %2 : or data0 data1 or data1 data1 and or and or %1 : and data0 data1 xor xor xor data1 and xor not data0 not xor data1 data1 data1 not data1 %1 data1 %2 not data0 data0
+xor not or data0 data0 xor data1 or data0 data1
+xor data0 not or data1 data1
+xor xor data0 and or not or and data0 data0 and xor or not data1 data1 data0 data0 and data1 data1 data0 data0
+or data0 and or data0 data1 data1
+not and and not or data1 and not data0 data0 not and data1 data1 xor xor data1 data1 or data1 or xor data1 data0 data1
+or or data0 not data0 data1
+not not and data1 xor data0 data0
+or and not not data1 not xor or data1 data1 data0 not data1
+not xor or data0 data1 xor data1 and and data0 data0 xor data1 data1
+or data0 and xor data0 and data1 xor data1 data0 not data1
+and data0 not xor data1 not data1
+xor not data0 or or or and data1 data0 data1 data0 or xor data0 data1 or data0 xor and data0 not data0 data1
+and xor not not data1 data1 data0
+and and and data1 xor xor xor data0 data1 xor or data1 xor data1 data0 data0 data1 data1 data0
+or data1 xor data1 and and and data1 data0 data1 not xor xor data0 xor data1 and data1 or data1 data0 data1
+or or data1 and data0 data0 data1
+xor and data0 not not and data0 data1 xor data0 data1
+xor data1 xor xor data0 data1 xor data1 not data1
+not xor and and data0 or xor data0 data1 or data0 not data1 and data1 data1 data1
+xor or not data1 xor and data1 not not or data0 or data1 data0 xor data1 data1 data0
+or data1 or not data0 and not data1 data1
+xor data1 xor or not data1 and data1 data0 data1
+or xor data0 data0 and data1 and not not data0 xor %1 : xor data1 data1 or data0 or xor or or or data1 data0 data1 or and data1 or %1 not data1 data0 data0 not data0
+xor data1 xor or and and or data0 data1 data0 data1 data0 data0
+or and and or data1 xor data0 data0 or data1 data0 or xor xor xor %1 : or data0 data1 %1 data0 data0 data0 data0
+xor or data0 not data1 data0
+or data1 not xor data0 data1
+xor not data0 or data0 not xor and not data0 or data0 data1 data0
+xor or data0 and and data1 data1 data1 xor not and or not data0 data1 data0 data0
+or and and data0 and xor or not data0 data0 not or xor data1 xor data1 data1 or xor xor data1 data0 %1 : xor data0 data1 data0 data1 xor data1 not data0 xor %1 data1
+xor or xor not data1 or %1 : xor data0 data1 or or and or data1 data1 data1 and not or data0 and and not or and data1 or data0 not and not not and data0 data0 or data1 xor data0 data0 data1 xor data1 %1 data1 xor and data1 data0 data1 data1 data0 data1
+or data1 xor and not and data0 data1 or data1 not data0 xor xor data1 data0 or data1 or and data0 data0 xor data0 data0
+xor xor xor xor and xor and data1 data1 data0 data1 data1 data1 data1 xor data1 data0
+xor data1 xor data1 not data1
+or xor and data0 data0 data0 or not data0 and data1 data0
+and and data1 xor or data1 data1 not or or data0 data1 data0 data0
+xor xor and data0 xor data1 or data0 data0 and and xor data0 and data0 data0 data1 not data1 data1
+xor and data1 not or and data0 data1 and and data1 data1 data0 not data0
+or xor or data0 data0 data0 data1
+or xor data0 or data1 or data0 and %1 : and data0 data1 data0 xor not %1 or not or xor xor or data1 data0 not data0 data1 xor and data1 data0 and xor data1 and data1 not data0 data0 data0
+and and xor data1 data0 data1 and data0 data0
+and data0 and or or not data1 data1 data1 data0
+and not data0 or not and xor and not xor data0 not data0 %1 : or data0 data0 data0 or data1 and xor %1 data1 not data1 xor data1 data0
+xor data1 and not data1 xor and or and data0 xor or and data0 data0 data0 data0 not data1 data0 data1
+not or or not data0 not data1 data0
+xor data0 or not xor data1 data1 not data0
+xor not and not data1 data0 or data1 data0
+not xor data0 or data0 or data0 not data0
+and or %1 : xor data1 data1 not xor %1 , %2 : xor data0 data0 or and not data0 or data1 xor data0 data0 data1
+xor or xor not data0 xor data1 data1 data1 data1
+and data1 and xor data1 data0 data1
+and and data0 xor or xor and and data0 data0 data1 data1 data1 data1 data0
+xor and data0 data0 not data1
+xor not data1 or data1 or or and data0 data0 data1 or xor or data0 not or and data0 data1 and data1 xor not xor or data1 data0 data1 data0 xor data1 data1 data1
+and data1 xor not xor not data0 %1 : xor data0 data1 or %1 data0
+and xor data1 %1 : or data1 data0 and or %1 or not data0 or or and data1 data0 and data1 and and not data0 data1 or data1 and data0 data0 data1 data1
+and or data0 and data1 or or data0 data1 xor data1 and data1 data0 not data1
+not and or or data1 data1 or data0 data0 and data0 not data1
+and data0 and xor xor data1 data1 data0 data0
+and data0 xor or and data0 not data1 data0 data1
+xor data0 xor or , %1 : data0 not data1 or xor data0 data0 not or data0 not xor data0 not data1
+or data1 and and data0 and data0 data1 data0
+or not data1 xor data1 or data1 and not or data1 data0 data1
+not and data1 xor not xor xor not data0 not or data1 data1 data1 xor not xor data0 or and or or not data1 data1 data1 xor data0 xor data1 not data1 data1 data1
+and xor and data1 and data0 data0 and data1 not data1 data0
+or xor xor and data1 data1 not data0 xor data1 or not data0 data1 not and and data1 or xor and and not data1 data0 data1 xor data0 data0 data1 data0
+or xor data0 xor and data0 data0 xor and data1 data1 data1 and data1 data0
+or xor data1 data1 and or data1 and xor data0 data1 data1 xor data0 or data1 not data1
+and xor xor data0 and data1 data0 data0 data1
+not xor data0 or data1 data1
+xor data0 or data1 or and , %1 : not data0 data0 not xor not data0 data0
+or or xor data1 data1 data1 not or data0 xor data0 data0
+or data1 and xor data0 and data1 xor data1 data1 xor data1 not data1
+xor not or not data1 data0 not data1
+or or data0 data0 or data1 xor xor data0 data0 data1
+xor xor xor data0 data0 or data0 data0 not data1
+or data0 or and or and data1 or data0 data0 data0 data0 data1
+xor data0 xor data1 or not data1 data0
+or data0 not and not not or data1 and data0 data0 xor data1 data1
+or or xor not not xor xor %1 : xor data0 data1 and xor data1 data1 or data1 data1 or and and %1 not xor xor or not data1 %1 data0 data0 or data1 and data1 and data1 not data1 data1 data1 data0 xor data0 data0
+or xor not and data1 data0 data0 data1
+and or or data1 data1 and or xor data1 and xor not data0 data1 and not not data0 , %1 : %2 : and data0 data0 xor data0 xor data1 or and data1 and or data0 data1 data1 data0 and or xor xor data0 data0 or data1 data0 data0 %2 and xor and data1 data1 data1 xor %2 data1
+xor xor not data1 data1 or and data1 data1 and not xor and data1 data0 data1 not data0
+not xor and data0 data1 data0
+and or data0 data0 xor data0 data0
+and data1 not and data1 data1
+and xor data1 data0 not or not and not data1 not or data0 data1 data0
+or not xor data0 data1 data0
+xor and data0 data0 and or not not xor not data1 or data1 data1 data1 data1
+or and or data0 not data0 data1 or data0 data0
+xor and xor and data0 data1 , %1 : or data1 data0 not data1 not xor and data0 or data1 data0 and data1 data1
+xor data0 xor data0 and data1 or data1 or not data0 not or data0 data1
+or xor data1 data1 and data1 and data1 xor data0 or not data1 xor not or data0 data1 not or xor data0 data1 data0
+or and xor data1 data1 and data1 not data1 data0
+and xor and xor data0 xor or not data1 data1 data0 xor data1 data1 data1 data1
+not not xor and data1 and not not and data0 data1 data1 data1
+or not and data1 data1 data0
+or xor or data1 and or data0 xor not xor data1 data0 data0 data0 data0 data1
+and data1 and and data1 data0 data1
+or and not not data1 or and data0 xor not and xor data0 data1 not and data0 not and data1 data0 data1 and data1 data1 data0
+and xor data1 data1 xor or and not data0 data1 data1 data0
+or xor data1 xor data0 and or data1 data0 data1 data0
+xor and data1 not data0 or and xor not data0 data0 data1 data0
+xor not not and and not data0 data1 and data0 or data0 xor and not and data1 data1 or data0 and xor data1 data0 data1 not or or data0 data1 data1 or data1 data0
+and data1 not xor or or not data1 data1 data0 or data1 data0
+xor not or or not data0 xor data0 data0 not and data0 data1 or data1 data1
+xor and data0 not and data1 or data1 data0 data1
+not and xor data1 data0 data1
+or xor data1 data0 data1
+or and data1 or and and xor xor xor data0 and data0 xor and data0 data0 xor or and not data1 data1 data1 data1 data0 data0 data1 data0 data1 data0
+xor data1 or data1 xor and data1 data0 xor data0 xor data0 data0
+and or data1 xor data0 data1 not data0
+xor not not data1 data0
+and data0 and data0 and data1 or not or and or not data0 data0 and not data1 data1 data1 and and data0 and data0 and xor data0 xor data1 not xor data0 and data1 and data1 data1 data1 data0
+xor xor or data0 data1 xor data0 or data1 data1 data1
+xor and not data0 data0 xor data0 and data1 xor data0 xor data0 or or and data0 and or data0 data1 not and data0 data1 data0 or data1 or xor data0 xor data0 and xor data1 data0 data1 data1
+or xor or xor data0 xor or and data0 data0 data1 or data0 or data0 data0 data0 data1 data1
+or or data1 xor data1 data0 data1
+xor or data1 not not data1 data1
+xor data0 and and xor xor xor or not data0 data0 data0 data0 or and xor data1 not xor data1 data1 data1 and data1 data0 data1 xor data0 data0
+or data0 and and data1 data1 and data0 data1
+and xor xor data0 or xor data1 data1 or or data0 not data1 data0 xor or xor xor data0 and or or not data1 not data1 data1 not data1 and or data1 not data1 data1 data1 data0 data0
+or data0 or or not and or %1 : xor data1 data0 not and data0 or data1 data0 and xor data0 not data0 data0 data1 %1
+xor xor data1 not data0 or or data0 data0 xor or not data1 data1 or data1 data1
+or not data1 and or data0 data1 data1
+not or data0 not or data0 data0
+or xor data1 xor data1 and and xor or data0 data1 not data0 data0 xor not data1 data0 data1
+xor data1 or or not data1 data0 not xor not data0 data0
+or xor and xor data0 data0 or xor xor xor data0 not xor not data1 data1 data1 data0 data1 data0 xor or data1 and data0 data0 data0
+or and %1 : or data0 data1 or or %1 not data0 not not data1 data1
+or and data0 data1 not or not data1 data0
+xor data1 or data1 not or data0 xor data1 not data1
+xor data1 and not data1 not data1
+and not data0 and and and xor not not data0 data0 data1 and data0 or data0 data1 xor and data1 data0 and data1 xor data1 data1
+and xor data0 xor data0 data1 or data0 data0
+xor data1 not not xor data1 data1
+xor and xor xor data0 data1 data0 data0 data1
+xor data0 not or and data1 and data1 data0 data0
+xor not not or data1 data1 and data1 data0
+xor data1 or xor data1 data0 not xor xor data1 or and and data1 xor xor data0 data0 data0 data0 data1 data0
+not or or data0 data1 data1
+not xor and or data0 data0 data1 data1
+xor and xor data0 data0 data0 data0
+xor or not and or data0 data1 not data1 or and data0 or data1 data0 data0 data1
+xor or xor data0 data0 data1 data1
+and and data0 data0 xor data1 and data1 not not data0
+not and or or data1 data0 not data0 data0
+or not and or or data1 data1 data0 data1 not and data0 data0
+or data0 and not data0 data1
+or or not data0 not data1 data1
+and not xor xor data1 data0 xor data1 or data1 data0 data0
+not xor data1 not or not xor xor xor data0 data1 data0 data0 or not or or and and or and data0 or data0 data1 or not data1 data0 data0 data0 or or or data1 data0 data1 data0 data1 data0
+and data1 xor or or %1 : xor data1 data1 xor and or data0 data0 not data0 and data0 xor or %1 data1 data1 data0 data1
+or and data1 xor not data1 data1 not data0
+or or data0 and data0 data0 data1
+not not and data1 data0
+xor not data0 xor not xor data0 data0 data1
+xor and xor and not xor not xor data0 xor data1 data1 not xor or xor data1 xor data1 data0 data1 data0 data1 or data1 data1 and data1 data0 data1
+not and xor or data0 and data0 and data0 and data1 data1 data0 data0
+or or xor data1 data0 data0 xor data0 data1
+or xor data1 xor data0 or and and data0 not data0 xor data0 data0 xor not data0 and and or and data0 xor data1 data0 or data1 data0 or or or or or data1 or data1 or data0 xor %1 : xor data1 data1 data0 %1 and data0 data1 data0 data1 or data0 data0 not data1
+or not xor data0 data1 and or data1 data1 data1
+or and or data1 data0 and and data1 xor or data1 data1 data1 data0 xor data0 data0
+or data0 xor and and data1 xor xor data1 xor data1 data0 data0 data0 not data1
+not xor data1 and data0 data1
+xor data0 and data0 xor xor %1 : and data1 data0 xor data0 not %1 data1
+not and data1 not not or data0 data0
+xor not and data1 data1 not and data0 or data1 not not not data0
+and not and data0 data0 xor data0 data1
+or or data1 data1 xor data0 and data0 data1
+and data1 or data1 not xor data1 data0
+xor or data1 or and data0 data1 data1 data0
+xor not or data0 or and data1 and data0 , %2 : and data0 data0 and not data1 xor not or or and data0 and data0 data1 and data1 data1 , %1 : xor data1 data1 xor or data1 data0 xor xor not not and or data0 or not data1 xor data1 data1 or data1 not and data0 data0 data0 xor data0 or data0 data1 data0
+and and not and data1 not or and data1 data1 or xor xor or xor data0 or xor data0 data0 data1 data0 xor not not data0 data0 data0 or data1 data1 data0 data0
+xor not not data1 or xor data0 xor data1 data0 xor or data0 data1 xor data0 data0
+and and xor not data1 data1 data1 data1
+and xor data1 and and or or data0 xor data1 or and or xor or and data1 and xor data0 data0 , %1 : and data0 data1 data0 data0 not data0 data0 data0 xor data0 and data0 data1 xor or or xor data0 not xor or not xor data1 data1 data1 data0 not data0 data1 or not data1 data1 data1 data1
+or data1 and data1 not data0
+or and not data1 xor not xor data1 xor data1 and data0 and xor or xor or data1 xor or xor %1 : xor data0 data1 xor not data0 and xor or xor data0 or data1 data0 or data0 data0 not data1 and data1 data1 data0 xor and xor data0 not and data0 %1 data1 and data1 or data0 not or data1 or data0 data1 data1 and data1 data0 data1 data1 xor data0 data0 data1
+xor or data1 not not or data0 data1 data0
+xor and not xor data0 and xor data0 not data1 data1 and or data0 data1 data0 not data1
+and data0 or or not data0 or or or data1 xor data1 xor data0 data0 not data1 and xor not data1 data0 not xor or %1 : or data1 data1 xor and data0 data1 %1 not data0 data0
+and xor data1 data0 xor and data1 xor data1 data1 not data0
+and or and data1 or data1 data1 data0 data0
+or not xor xor data1 data0 xor data0 data0 data1
+xor and data1 or not data1 xor not or or data1 data1 not data1 data0 data0
+not or xor data0 not and and data0 data1 data0 not data0
+xor and data1 data0 or xor data0 and data1 and data0 data0 data1
+or data0 not and data0 not data0
+and or data1 data0 not data1
+or or or data1 xor data1 data1 data0 data1
+xor and data1 and or not and data0 xor data1 data0 and xor or data0 or data0 data1 and data1 and data1 data0 data0 and not data0 not data1 data1
+not xor data0 and not data1 data1
+and and data1 not and not or data0 and data0 xor data0 and data1 xor xor data1 or data0 data1 data0 data0 data1
+and data0 and or not and data1 data0 or xor data0 data1 data0 or data0 data0
+xor data0 or or not and not xor data1 and data1 data0 or not data0 data0 and or xor data0 not data1 data1 not data0 data1
+xor not xor xor and or and or data1 xor and data0 data0 data1 , %1 : xor data1 data0 or or data0 xor data1 data0 data0 xor data0 data1 data1 not xor data1 data1 or data1 data1
+or xor or xor data1 or not xor data0 %1 : and data0 data0 and data1 data0 data1 data0 and data1 and data0 and not xor %1 data1 data1
+or and xor and data0 data1 not xor data0 not data1 data0 data1
+xor or and and not data1 , %1 : xor data1 data1 xor data0 or not data0 xor data1 data1 xor and data1 or data0 not data0 and data1 and data0 data0 data0
+and or xor data0 xor and xor data0 data1 or data0 or data1 data0 and or not or data0 data1 xor data0 and data0 or data1 xor data1 data0 not not data1 data1 and xor data1 data1 xor data0 not data1
+and or xor data0 data0 data1 xor not data0 data1
+and and data1 data1 and data1 data0
+or and not and xor and data0 data1 data1 data1 or data0 data0 data1
+or data1 or data1 xor data0 data0
+or data0 xor xor xor not or not or data1 data0 and data0 not data1 and data1 data1 or not data0 data0 data1
+or xor data0 not data1 xor xor data1 data1 or data1 xor data1 not data1
+and and and data1 data1 xor or or data0 or data0 not data1 data0 data1 data0
+xor xor or data0 data0 data1 and data1 or data0 data1
+or data1 and xor data0 xor and xor data0 or and data1 data1 xor data1 or data1 xor data0 not or data0 and or data0 or data0 data0 data1 xor and data0 data0 or data1 data1 not and and data1 data0 data0 data1
+or data1 or or data1 data1 data1
+and or or data1 not not data1 and xor xor data0 data0 data0 data0 not xor data0 and and xor data1 and and data1 data1 data0 data1 data1
+and xor or data1 or and or and data1 data0 data1 not data0 data1 data1 data1
+xor data1 and data0 data1
+xor or data1 xor data1 data1 data1
+not and xor data0 or and xor data0 data0 data0 data0 data1
+and or not data1 or data0 data1 data1
+xor data0 xor and data1 not xor data1 data0 xor not data1 data0
+and data0 and or xor data0 and data0 and data1 data1 or xor data0 xor data1 xor data0 not or data1 xor or data0 data0 and data0 data1 not and not xor not data1 data1 xor data0 xor data1 data0 data0
+xor not data1 xor data1 or data1 not data1
+xor not data1 not data1
+xor data0 and or data0 or xor data0 not xor data1 data0 or not data1 or data0 data0 data1
+xor xor not data1 not not and xor data0 and data1 data1 not data0 xor data1 not data0
+and xor xor xor not data1 not data0 data0 data0 not data0
+or data1 or or and data0 data1 data1 and xor and data0 data0 and not data0 not and and or or data1 data0 data1 or data0 xor data1 data1 data1 data0
+and or data1 and data0 data1 data1
+or data0 or data1 or and data0 data0 not data0
+and not data0 xor data1 data1
+or data0 or data0 not data0
+and xor or xor data1 and data1 and xor data1 data0 not or data0 data0 or data1 data0 and and data0 or data0 data1 data0 and data1 data1
+xor data1 and and or data0 data0 xor not xor data0 data0 data0 and data1 data1
+or data0 and data1 and and data1 data0 data0
+not xor data1 and data0 or data0 data1
+or and or data0 xor data1 not not data1 not data1 data1
+and or data1 data1 data0
+and and and data0 and data1 data1 or xor and xor and or data1 not or data1 data1 or not data1 data1 data0 or data0 data1 xor data0 not or data1 or data1 not data0 data0 data1
+and xor data0 xor data0 xor xor and and xor data0 data1 xor data1 not data0 data1 data1 or not data1 data1 data1
+and data0 not xor data1 data0
+or or data0 and data1 data0 or data1 data0
+and data1 or and %1 : or data0 data0 data1 %1
+and not xor data1 xor data0 data0 xor data0 and data0 and and data0 data0 data1
+xor or data0 data1 xor data1 data1
+xor and xor xor data0 xor not data0 data0 xor or not xor data0 data1 data1 data1 and data0 or data0 data0 data0
+xor data1 not or data1 and not data1 not data0
+xor data0 and %1 : and data1 data0 or data1 or or data0 data1 %1
+xor not xor data1 and data0 data0 data1
+and xor not and data1 xor data1 xor data1 and data0 xor data1 not xor data0 or data1 not data1 xor not data1 data0 xor or or data1 not data0 data1 xor data0 xor data1 data1
+not and data1 and not data1 or data1 or or data0 or data1 and xor xor data1 data1 or and not or not xor and data0 data0 data0 data0 or data0 data0 data1 data0 xor data0 or not not data1 data1
+and not data1 xor data0 data0
+xor data1 xor data1 not and xor and data1 xor data1 data1 or data1 xor or data0 xor data0 data1 data0 data1
+or xor and and or data0 data1 and and data1 xor data1 data1 not data0 data1 and data0 data0 and data1 data0
+xor and data0 data1 not and not xor xor data0 data0 or not xor data0 not data1 xor data1 data1 data0
+xor data0 not or data1 not and data0 not data1
+xor data1 or data0 not or not data0 data0
+and data1 not or xor or not data0 data0 or data0 not data1 not data0
+or and not or or data1 data0 data0 not data1 xor xor data1 xor or and data1 data1 and data0 data1 not data1 xor data0 data1
+xor not or data0 not data0 data0
+and xor data1 data0 and data0 data0
+not or and data1 and data1 or data0 not or data0 data1 data0
+and data0 and data0 not data0
+not and xor data1 not data0 and data0 data0
+xor not or and data0 and not data1 or xor data0 data0 data1 or and xor and not xor data0 not not data1 or data0 or or data1 and not or not data0 , %1 : and data0 data1 xor data1 data0 data0 , %1 data0 data0 data0
+and and data0 data0 or data1 data0
+or not data1 not or data1 or data0 not or data1 not or data1 and data1 xor not data1 data1
+and and xor data0 data1 xor data1 data1 data0
+or data1 and not or or not data0 xor data1 data0 and or data1 or data0 data1 or data0 data0 not data0
+and data0 or or xor and xor and data1 or xor data1 xor data0 data0 data1 and data0 not xor data1 xor data1 data0 %1 : xor data1 data1 not xor data1 not xor and xor not data1 or data1 data0 and not data1 not data0 xor not or and data1 data1 data0 data1 xor not and data1 xor data0 data1 or %1 xor data1 and data1 or data0 data0 data1
+xor data0 and data1 and data0 not not and data1 data1
+xor data1 and or and and data0 data0 data0 data1 or not data0 or xor and data1 xor xor data1 data1 xor data0 data1 and xor xor data1 data0 data0 data0 or and data0 not data1 data0
+and or and , %1 : not data0 data1 data1 not and data0 not xor or and xor data0 not data0 data1 and or not xor or not data0 data1 xor data1 data0 data0 data0 data1
+not and or data0 and not and and not not data1 %1 : and data1 data1 data1 and %1 data0 data1
+or and and data0 and data0 data0 data1 xor and and not data0 or data1 not and and xor data0 data0 data0 data0 or data1 data1 data0
+xor xor or data1 data1 or xor data1 or data1 data0 not not not data0 data0
+or and data1 data1 xor xor xor data1 and xor xor data1 data0 data0 data0 xor and data0 data1 data1 data1
+or not and data0 data1 not data0
+not or data1 and data0 data1
+and data1 xor or data0 data1 data0
+and or data0 xor data1 data1 xor and data1 or data1 data0 data0
+not or not and data0 data0 xor data0 xor xor data1 and not not data1 data0 data0
+xor %1 : xor data1 data1 and or data0 xor xor and or xor data1 and data0 not data0 xor and data1 data1 data0 data1 data1 and %1 not data1 data1
+xor not xor data1 data1 or data0 data0
+xor and data1 data1 data1
+not or and data0 or data1 not data0 data1
+xor not or or data0 data1 data0 not data1
+xor not data1 not not data1
+and data0 or xor and not and data0 data1 data0 data0 or data0 not data1
+xor and xor data1 or xor data0 or data0 xor or data0 data1 or xor not or data1 data1 not data1 data0 xor data0 xor data0 xor not data0 or data0 xor and not or data0 xor or xor not and data0 or or and not not data1 not data1 not data0 data0 or not xor data1 data0 xor data1 data1 not xor and data1 data0 not data0 not xor data1 not data1 and data0 data1 not data1 not data0 data0
+and or xor not or data1 data0 or or data1 and data1 %1 : xor data0 data1 xor not data1 and not data0 and data1 data0 data0 or or xor %1 data0 data0 data1
+and or xor and not , %1 : or data1 data1 data0 and xor and xor data1 data1 or data1 data0 or data1 data1 data0 and not and data0 and or data0 not data1 data1 not not data1 data0
+or data0 not xor not data0 xor xor data0 data0 xor data0 data1
+not or xor not and or data0 not data0 not xor data0 and or and and and %1 : xor data0 data1 data0 data1 %1 not or data0 and xor data0 not not data1 or or data1 and data1 or data0 data0 data0 xor not not data0 not data0 data1 data0
+xor or data0 and data1 not or and or xor data0 not data0 data0 and and and data0 and and data1 and %1 : and data1 data1 data1 %1 and and data1 or and not data0 data1 not data0 data1 xor data1 and data1 xor and data0 data1 data0 not and data0 data0 data0
+or or not data0 not data1 data0
+or data0 or and data0 not data0 or data1 data0
+or and data0 data1 not xor and data1 or or not data0 data0 or not data0 , %1 : or data1 data1 and data0 or data0 xor and data0 or data1 data1 not data1
+and and or data1 data0 data0 data0
+and and and and , %1 : not data0 data1 and or xor data1 not not data0 data1 or not data0 data1 data1 data1
+xor data1 and not data1 data0
+or or xor xor data1 not data1 data1 data0 data0
+xor data1 and data1 or and data0 data1 and data1 data1
+and or and and data0 data1 data0 data1 or data0 and data0 data0
+xor xor and data0 xor data1 data1 data0 data0
+and xor data1 not data1 data0
+xor not and data0 data1 and data1 data0
+and or not data1 and or or data0 data0 data0 data0 data0
+xor and not data0 and data0 not data0 and data0 not xor data1 data0
+xor data1 or data0 not xor data1 data1
+and and data1 data1 and data0 xor and data1 xor not not data0 or data1 not data1 data1
+or not or and data0 and data1 xor xor data1 or data0 not xor data0 data1 data1 or data0 xor or not data1 and and not data1 data1 data0 xor or and data1 data0 not data1 data1 not data0
+xor or data0 data0 and data1 data0
+or data1 or or xor data1 not data0 not and or data1 data1 data1 xor or not data0 xor data1 or xor data1 data0 data0 data1
+and or not data0 and data1 data1 data0
+xor not or xor data0 data0 data0 data0
+not xor and data1 xor or not not and data0 xor and or not data0 data0 and data1 not data0 data1 data0 xor data0 data0 data1
+xor data1 and and xor data0 xor xor or and data0 data0 data0 data1 or xor data1 and data1 xor or data0 xor data0 data1 data0 not data1 data0 data1
+or data1 or data0 not data1
+and data0 xor data0 xor data0 data0
+and or or not data1 data0 or data1 or or data1 data1 or and data1 data0 data0 data1
+not or xor data0 data0 data0
+or data1 and xor data1 data1 data0
+xor not and xor not or data0 not not data1 data1 data0 data0
+xor or not data0 and data1 data0 data0
+and not xor data1 or data1 not or data0 data0 data1
+not xor or not and and data0 or data0 not and data1 data0 and xor not data1 data0 not data1 xor data1 or xor data1 data0 data0 data0
+xor not not data0 and data1 data0
+and data0 or data0 or data0 data1
+and not data1 or data1 xor data0 or data0 data0
+xor or data0 data1 xor data0 data0
+xor xor data1 and and and data0 and not not data1 data0 and xor data1 data0 data0 data0 data1
+or or xor not xor data1 data1 data0 data0 data0
+xor xor data1 xor not or not data1 data1 or and or data0 and data1 data1 data0 data1 data1
+xor xor data1 and xor data1 or xor not data0 and or xor data0 data0 and not data1 or data1 data0 or data0 or data1 data1 and data1 data0 data1 data1
+and data1 xor %1 : xor data0 data0 or data0 or or %1 xor or data1 data1 data1 data1
+and or xor data0 data0 data1 xor data0 data1
+and and data1 xor not data0 data0 and xor data1 data0 xor data1 data1
+xor or xor and not data1 or data0 and or xor data0 data0 data0 data1 data1 not xor data0 data1 or data1 data1
+xor not data0 not and not data1 or data0 or data1 data0
+xor xor and data0 not data1 not data0 data1
+or data1 not xor data0 not data0
+xor or data0 data1 or data1 data1
+xor or data1 or not data0 or and data1 data0 data0 not data1
+or data0 or or or data1 data0 data0 not data0
+xor not not data0 or or data0 data1 or or data0 data0 data0
+or or or not and data1 data0 data0 data0 data1
+xor data1 or data0 or not and xor data1 data1 not or xor data1 xor not xor not data0 data1 data1 data0 or data1 data1
+or and data0 not or data0 xor data0 not data0 or or and data1 data1 data0 xor data0 data0
+not or or or data0 data1 data0 data0
+and and or xor data0 data0 data1 data1 data0
+xor and data0 xor and not xor or and and and data1 data0 data1 data0 data0 data0 data1 not data0 data0
+or data1 not and data1 data0
+or and data0 and not or not and and data0 data1 data1 data1 data1 or data0 data0
+and or and not or data1 data1 , %1 : and data0 data1 or data1 or data1 and or or data0 and data1 or xor data1 or and data1 data1 data0 data1 or data1 or or or xor data0 data1 data1 data1 and data0 data1 data0 or or xor data1 and data1 not data0 data1 and data0 data1
+not or data1 not data1
+and xor data0 xor data0 data1 not data0
+and not data1 and not or data0 data0 or data1 and data0 data1
+or xor not data0 data1 or xor xor xor or and or xor not data1 data0 or data0 data0 data0 and data1 and and or or not data0 xor and and or not data0 xor data1 data0 xor or not data0 data0 data0 data0 data1 or and data1 data1 xor and data0 data1 data1 not data0 data1 data0 data0 not not data1 xor data1 data1
+or not xor data1 xor data1 data0 data1
+or data1 or xor data0 data0 or data1 or data1 data0
+xor data0 not xor data1 data1
+xor and data0 not and data1 not data1 data1
+or data1 or data1 or xor xor data1 data0 and data1 data0 data0
+xor and or or data0 data1 data0 and xor or xor and data0 or data1 data1 data0 data0 data1 data0 data1
+xor not not data0 and data0 data1
+xor xor data1 xor data0 data1 xor data1 data1
+or and not data1 not data1 data1
+and and data0 data0 xor data0 data0
+xor xor and data0 not data1 data1 data1
+and and or data0 data0 data0 data0
+or and xor data0 and or data1 data0 data1 data0 or data0 data0
+xor %1 : or data0 data0 xor data0 not xor or data1 or data0 data1 %1
+or xor and not or not data0 data0 not and data0 data1 data1 data0
+not xor not and and data0 and or data1 data0 data1 data0 data0
+and data1 and or not data1 data1 xor not xor not data1 data0 and data1 and data0 xor data0 data0
+or and and data0 data0 or and %1 : and data1 data0 or xor and %1 data1 %1 data0 data0 data0
+or or xor data1 data0 data1 not data0
+or and data1 or data1 data0 xor or data1 or %1 : xor data1 data1 not not data0 %1
+and data0 not or data1 and or data1 or data0 xor data1 data0 data1
+not and xor data0 data0 not and data1 not not or not data1 data0
+or data0 or xor data1 data1 data1
+and or data1 xor and data0 not data0 or or not not not not data0 xor or not and data1 data1 data1 data0 data1 data1
+and or data1 or data0 or data0 not data1 data0
+or data0 and data1 not data1
+or or data1 data1 not data0
+or and not data1 or data1 data0 data1
+and data1 and and data0 data0 data1
+and and not data1 and data0 xor data0 data0 not data1
+or and data1 data0 or and data1 not xor or data1 data0 data1 data1
+xor xor or and or data0 not xor xor data1 and data1 data0 data1 data1 data0 data1 data0
+xor and data0 data0 or data0 xor data0 data1
+or xor data1 %2 : or data0 data0 xor data0 not xor data0 or or not xor or and xor xor data0 or data1 data0 data0 and and and data0 data0 data0 data0 or not data0 %1 : xor data0 data0 data1 data0 or %1 xor or and data0 or not and data1 xor and or %2 data0 data0 not data1 data0 data1 and not or data0 data1 data1
+not and data0 and data0 and data1 data1
+or or and not data1 data1 data1 data1
+or xor or or xor data0 data1 data1 data0 data1 xor or data1 and data0 xor or data1 data0 data0 data0
+xor not data0 and not xor or data0 data0 or or xor xor not data0 data1 data0 not data0 and or data0 data1 and and not data1 data0 data0 and data0 data0
+or and data1 or and data1 data0 data0 data1
+not and or or data1 data1 xor data0 data0 data0
+or xor xor data1 data1 not data1 data1
+and data0 not and data1 or data1 data0
+xor or data1 and not data0 data1 and and data0 data0 data0
+xor not and and data1 data1 data0 data1
+or xor and or data0 and data0 xor not not data1 data0 data0 data1 data0
+xor xor data0 and data1 data0 and data1 xor not data0 or data1 data1
+not or xor not data1 data1 and data0 data1
+xor not xor and and data1 and data0 data0 data1 data1 data1
+xor or or or data0 data1 data0 data0 and or data0 not data0 xor or data1 and data0 data0 data1
+and or and not or data1 or xor or data0 not data0 data1 data0 data0 or data0 data1 and data0 data1
+or not or data1 data0 data0
+xor data0 xor data1 xor and xor data0 data0 data0 data0
+xor and xor and data0 data0 or data1 or data0 not or data0 xor %1 : and data1 data1 data0 xor xor data1 data0 data1 %1
+or not and data1 data1 or xor data0 data1 data1
+xor data0 or or xor xor data0 and or data0 data0 or data1 data1 data0 data1 data1
+xor data0 or xor xor or and not and data0 data1 data0 or data1 not data1 not data0 not data0 or data0 data0
+or or data0 data0 not data0
+not or and or or data1 xor or data0 data1 data0 data1 data0 or data1 data0
+not and data0 xor or data0 and not data1 data1 data1
+not not and not and or data0 data1 data1 not data0
+xor xor data0 or data0 data0 data1
+and not not data0 xor data0 data1
+xor xor not data0 data0 data1
+and or not and or data0 data1 xor data0 data1 data1 data1
+and data1 or or not or data1 and data0 xor not and data0 data1 data1 not data0 data1
+and or data0 and xor data0 data0 and and not xor data0 data1 not data1 data0 data1
+and xor not data0 data1 not and data0 or data0 data0
+or data1 not xor not and or data1 data0 xor data1 data0 xor data1 or xor and and xor or xor data1 or data1 or data0 , %1 : or data1 data1 not not data1 data0 not data1 or data1 and or data0 not and and data0 and data0 data0 not or data1 data1 and data1 data1 data0 data0
+xor and not data1 data1 xor data1 xor xor data1 data1 data0
+and and data1 or data1 or xor data0 data1 or data1 data0 data1
+or xor data0 and and or not xor data0 data0 and or not data1 xor or xor data0 xor data1 data1 not xor %1 : and data0 data1 %1 data0 data0 data0 xor data0 data1 data0
+and xor and or and or or data1 data0 data1 data1 data1 not data0 data1 or data0 data1
+and or or data1 or data1 data0 data1 data1
+not or and data1 data0 not xor data0 data1
+xor or xor data0 data1 and %1 : and data1 data0 not %1 data1
+and not data1 or data0 data0
+and or data0 data1 not xor or data1 data0 data0
+xor and or and xor %1 : and data1 data0 xor and or data0 xor not and or not not %1 data0 data1 data0 data0 data0 and data1 xor data1 xor not data1 xor data1 xor data1 data0 and data0 data0 or data1 xor data0 xor data0 xor and xor data0 data1 and not not xor data0 data0 data1 data0 data0
+or data1 not or or and not data0 data0 data0 or xor data0 data1 or data1 data1
+or data1 xor data1 xor and not data1 data0 data0
+or xor or data1 not data0 or data1 data1 xor data0 data1
+or xor data0 xor not and data0 or data1 data1 data0 data1
+or and not data0 data0 or xor xor or or not or data1 xor or data1 data1 and data1 data1 data1 and data1 or data0 data0 data1 data1 data1
+and xor not data1 data1 and or data0 data0 or not data1 data0
+not and xor data1 data1 xor not data0 data1
+xor xor data0 not data1 data0
+and xor and data1 or data1 not data1 data0 xor or xor data0 xor or data1 data0 data1 data0 data1
+and xor data1 or not data0 or and data1 or data0 xor data1 data1 not and or data1 data0 data0 data0
+and and not data0 and data1 data0 data0
+and and xor not or data0 data1 data1 xor data1 data1 not data0
+not xor xor data0 xor data1 data0 data1
+or not or data0 not and xor data0 data0 or not data0 data0 data1
+or data1 or not data1 xor or data0 data0 data1
+and xor not xor %1 : xor data0 data0 xor or data1 data1 and data1 data0 xor and or not or data0 or data1 or and xor and or %1 and and not , %2 : xor data1 data0 xor and data1 and or data0 xor xor , %3 : not data0 data0 not data0 data1 data1 and data0 or xor data1 not and data1 and data0 data1 data1 not and data0 or xor not , %4 : %1 xor data1 data0 data0 or xor data1 not data1 data0 or not data0 data0 data0 xor not not data0 xor data1 data1 xor or data0 data0 data0 not xor and data1 xor not or or data0 or data0 data1 data1 xor and not data0 data0 data0 %1 or and data0 xor or data1 or data0 not data0 data1 data1
+or data1 and data0 or and data0 data0 data1
+and data1 not xor data0 data0
+xor or not data1 data0 not or and not data1 data1 not and data0 and data1 or not data0 or xor xor data1 data1 xor not not data0 xor xor data1 data0 or data1 and data1 xor data0 data1 data0
+and and data0 or data0 xor data1 and or data0 or data0 xor and data1 or %1 : and data1 data0 not data1 and xor data1 and and data0 data0 and and data1 %1 not data1 data0 and xor data1 data0 data1 xor xor or or data1 data0 and data1 not or not data1 data0 data1 data0
+or data0 xor and data1 or data1 data0 data1
+xor or and %1 : xor data0 data1 data0 xor data0 %1 data0
+or xor and not xor data1 data1 or data0 data1 data1 or data0 data0
+or and data1 not data0 data1
+and data1 or or data1 xor xor data1 data0 xor data1 not data1 and data1 data0
+or data0 or not data1 not data0
+or or data1 xor data1 xor data1 not data0 xor data1 data0
+and xor not data1 data0 and or xor data0 data1 data1 or data0 or xor data1 or data1 or or data0 data1 data0 not or data1 not data1
+or data1 xor xor or data1 and data1 not xor not data1 or not data1 not not xor data0 or and %1 : xor data0 data1 xor data1 xor data0 %1 data0 data0 and data0 data1
+and and data1 data0 and or data0 xor data1 not data1 data0
+and xor %1 : or data1 data0 not xor or or data1 xor %2 : or data0 data0 data1 and and not or data0 data1 data1 and data1 data1 not or data0 xor and data0 data1 or xor data0 %1 or data1 %2 and data0 not data1
+and xor data0 data0 or data1 not data1
+xor data0 xor xor data1 xor data0 and or data0 or or data0 data0 data1 data1 data1
+and data1 xor or data1 data1 data1
+and xor data0 data0 or data1 data0
+and and data0 and data1 data0 data1
+xor and data1 not data1 data0
+and and data0 and data1 data0 or data0 data1
+and data0 xor not xor or data1 data1 data0 xor data1 data1
+and or xor not data1 and data0 data1 and data0 data0 data1
+and data0 and or data0 data0 data1
+and not and data0 or data1 data0 and not data1 data0
+xor xor or data0 data0 data1 data1
+and not or not and data0 data0 or xor data0 and data0 or or data1 data0 not not data1 not data1 and and and or data0 and data0 and data1 data0 data0 xor data0 data1 data0
+not and not xor data0 data0 xor xor and data1 or data0 data0 data0 data1
+not and not data0 data1
+or data0 or and data0 data1 data1
+or data0 or not xor data0 xor or data1 data0 not data0 data0
+and and or data1 data1 xor data1 data0 and data0 or xor data0 or data0 data0 data0
+not and xor data0 or data1 data1 data1
+or xor or xor data0 not or or and data0 xor xor data1 xor xor data1 xor or and data1 data0 data0 data0 data1 data1 or data0 and data1 data1 data1 data0 not and xor xor data0 data0 data0 data0 data1
+xor and data1 or not data1 or not data0 data1 data0
+and data0 xor xor not xor and data0 xor and data0 and not data0 data0 and xor data0 or data1 data1 data1 data0 data1 data1
+and or data1 or data1 data0 data0
+or data0 or and data0 data0 data0
+and data0 not not or data1 data1
+not xor xor data1 data0 or and or data0 not data1 data1 data0
+and data0 or and not data1 or and data0 and data0 data0 data1 and data1 data1
+xor data0 and or data0 data1 or and xor data0 not and not xor data0 data1 not data0 data1 data1
+xor and data0 and %1 : xor data1 data0 and or data0 xor not data0 data1 data1 %1
+xor and xor data0 not data0 and not or not not not and xor data1 and xor or , %1 : not data1 data0 or data0 xor and data0 data0 data1 data0 xor or data0 data1 and not data1 data0 data0 data0 data1
+and data1 not xor data0 and and not data0 or data0 data1 data1
+and xor xor data0 data1 or not data1 data0 data1
+not xor xor data0 data1 data0
+xor not and not data1 or data1 data0 data0
+or data0 or data0 and not or data0 or and data0 xor or not data1 and and data0 not data0 data1 data0 xor not data1 data1 and xor data1 data1 data0
+and or not data0 data1 data1
+xor and data0 and data1 data0 xor data1 xor not data0 data1
+or data0 or or data1 data0 not data1
+or data0 xor not or data1 data1 data1
+not and not data1 data0
+xor or data1 or data0 data0 data0
+and or not or data1 data1 data0 and data0 data1
+xor or data1 data0 and or data0 data1 data0
+not and data1 and data1 xor data0 data1
+xor xor data0 data1 and data1 or data1 data0
+not xor and or not data1 data0 data0 data0
+and data0 and data0 and xor data1 data0 data0
+not not and or or data0 or data1 data1 data1 data1
+and data0 and data1 xor data0 not not data1
+and not data1 or and or data0 and xor not not or data1 data0 data1 data1 data0 data1
+xor or data1 data0 and data1 or not data0 data0
+xor and or data1 xor data1 data0 xor data0 and data0 data1 or data0 not data1
+and data1 or data0 xor data1 data1
+not xor or not or or and not data0 data0 data0 data1 or xor not data1 and data1 data0 data1 or data1 data0
+not or data0 or data0 and not data1 and and data1 data0 data0
+xor xor or or xor or and data1 data0 data1 data0 data1 xor data0 data1 data1 xor not and data0 xor and data0 data0 data1 xor data1 xor data1 data0
+or or not data0 not xor or data0 not data1 data1 not data1
+or data1 and data0 or data1 data0
+xor data1 and not xor data0 data1 data1
+and data1 not and and data0 data0 data0
+xor or data0 and and data0 data1 data1 data0
+or not and data1 data1 data1
+or xor data1 data0 not data1
+and data1 xor and data1 data1 not data1
+xor or and not data1 and data1 data1 data1 not data1
+xor not or not not data1 and xor data1 data1 and or data0 data1 data0 or or xor xor not not data1 data0 data1 data1 data0
+and or or not data0 and xor data1 %1 : xor data0 data0 or data0 and and data1 not xor or data0 data1 or and %1 data1 and and data1 data0 data0 not not and data0 not data0 data0 data1
+or and and data0 data0 xor xor or not xor not %1 : or data1 data1 data0 or not and or not data1 data1 or and and %1 data0 data1 data0 not not data0 data0 data1 not data1
+not and data1 and and or or data0 data1 and xor data0 or and and data1 and data0 or data1 xor or data0 and or data1 data0 data1 data1 data0 data0 data1 data1 data1
+not and or data0 data1 data1
+or and data1 not data1 or or data0 not not data0 or data0 data0
+or and or and data0 or and data0 xor or data0 and not or not data0 , %1 : or data1 data1 data0 data1 not data0 not and and data1 or or xor data1 and not data1 and or data0 xor data0 data1 data0 data0 data1 data1 and xor data0 or data1 data1 or not data0 or data0 data1 data0
+xor xor or or not data0 data1 data1 data0 xor data0 xor data1 and data1 data1
+xor or and data1 data0 data1 data1
+or data0 and or xor xor data0 data0 xor or data1 data1 data0 data1 data1
+or not xor and xor data0 data1 not data0 or not data1 data0 not or data0 data1
+or xor data0 data0 and data1 xor data0 and data1 data0
+and data0 and or data1 data1 not or data1 xor data1 or and and xor data1 data0 xor not and data1 and data0 not and and xor and or data0 xor data1 data1 data0 xor not and data1 data1 data0 data1 data1 or and data1 or xor or data0 data1 data0 data1 data1 xor data0 not xor or and data0 data1 data1 data1 data0
+and and data1 not and data0 data0 data0
+and data1 and not or data0 xor data0 data0 data0
+and not xor data0 data1 or data1 data0
+xor or xor data1 data0 data0 data0
+and or not or not data1 data1 and data1 data0 and data1 and and not not data1 data1 data0
+not and and and data0 data0 xor data0 data0 and xor xor data0 data1 not xor data1 not data1 and and data0 data1 data1
+and and data0 or xor data0 not data1 data0 xor or data1 and xor data1 xor data0 data0 data0 xor and data1 or not or data0 data0 not data1 data1
+xor data0 or xor data1 or data1 and data0 or not data0 not data0 data0
+xor and and data0 or not data1 data1 xor data0 data1 data0
+xor data1 or and xor not data0 data1 or data0 data0 not data0
+xor data1 not or not or xor or not data0 xor and data0 xor data0 or xor data0 data0 data0 or or data0 data1 data1 xor xor data0 data1 not data0 data1 data1
+xor xor not data0 or and not data0 or not data1 not data0 data0 not data0
+xor not data1 or data0 not data1
+and and and data1 data0 data0 data1
+and or data1 data0 xor data0 not data0
+xor data0 or not data1 not data0
+xor and data1 data1 or data0 data1
+and and or data0 data0 not not data1 data1
+xor or not data0 data1 xor data0 not data0
+xor or and or or data0 data0 data1 data1 or data1 data0 data1
+and and or data1 data0 data0 data1
+or not not data1 xor or data1 not data0 xor data0 or data0 and data1 xor data1 xor data1 data1
+not not and or not data1 data0 or data1 or data1 not data0
+xor data0 not or not data1 and and data1 or data0 xor data0 data1 data1
+or not or xor data1 or data0 data1 and data1 xor xor not data0 and or data1 data1 data0 data1 xor xor xor xor data1 xor data1 data0 xor xor data0 data0 not data1 data0 data1
+and not data1 and not not and data1 data1 data1
+xor and data0 data1 not data1
+xor xor or xor data0 not data1 not data0 xor xor data1 xor not or data1 data1 xor and data0 data1 data0 xor data1 not and not not data1 not data0 data0
+and data1 and or xor data1 or or data0 data1 not data1 and data1 or xor data1 data0 xor data0 not not or or xor data0 data1 not data0 or data1 and %1 : or data1 data0 data1 and %1 data0
+and data1 and not or or data0 or data0 data0 data0 xor data0 data0
+xor and xor data1 data1 data0 xor xor data0 data1 or data0 data0
+not and xor and xor data1 and or data0 data0 data1 not data0 not data1 or and data1 data1 data1
+xor and data1 not data0 data0
+not xor data0 not data0
+not xor and xor and data1 or not not data1 or data0 data0 or data1 and data0 or data1 not not data1 data1 data0
+xor data0 or or data1 data0 not not data1
+and data0 and and data1 xor not data0 not not data1 not not and xor data1 data1 data0
+and data0 and data0 or data0 not xor xor and xor xor xor data0 xor data1 data0 data0 data0 data0 and data0 data1 data0
+xor data1 or data0 and data1 data0
+and data1 and not data0 xor data1 data1
+and and not data0 data0 data0
+and data1 and data1 xor data1 not data1
+or or data1 data1 or data1 and or data1 or and data0 data1 data1 not data1
+xor data0 and xor xor data1 data0 data0 data0
+or and data1 or not data0 data0 or and data1 data0 and data0 data0
+or not and xor xor data1 xor data1 data0 or data0 xor data0 data1 or data0 or data0 data0 data1
+not or data1 and and data1 xor or data1 data0 data1 data1
+not and or and data1 data0 or data1 data0 not not and data0 xor data1 data1
+or and data0 xor and data0 xor data0 data1 data0 data1
+and data0 xor data0 and data1 data0
+or data1 or or xor xor data0 xor data1 data0 not data0 data1 data0
+and or and and data1 data1 data0 not data1 data0
+not not xor data1 or xor data1 data0 not data0
+not not xor data0 or data0 data1
+xor data1 xor data0 data1
+and and data0 xor data1 or data1 data0 xor data0 data1
+or data1 not not and xor data1 not and %1 : or data1 data1 xor data0 not , %2 : and data1 data1 and or xor data0 data0 data1 or and or data0 not and and not data1 xor data0 %1 and not data0 not data0 and data1 not and data1 or data0 not data1 and data1 data1
+and or or data1 xor data1 data1 data1 not data0
+and or data1 or data1 data1 data0
+xor data0 xor not data1 data0
+and data1 xor data1 or not data0 data0
+xor xor data0 data0 or data0 data0
+or data0 xor data0 data1
+and data0 and data0 xor and data0 data1 data0
+or not or or data1 not data0 not not data1 data1
+xor not xor data1 and data0 data1 and data1 data0
+and data0 or data1 xor data1 and data1 data0
+xor data1 or data1 not data0
+xor data0 and data1 or data1 not or data0 data1
+or or data1 data1 or data0 data1
+xor xor xor data0 xor xor data0 not data1 data0 data0 data0
+xor data1 or xor data0 or data1 data0 xor data0 data1
+xor data1 xor and data0 or data0 data0 data1
+or data1 xor data1 and and and data0 and data0 %1 : xor data0 data1 data1 xor data0 and %1 or data1 data0
+xor xor data0 data0 or data0 not or data1 xor data1 data0
+and or data1 data1 or data0 data1
+xor and or data0 xor and data0 data1 xor data1 data1 xor or and data1 or or data0 and data1 and data0 not xor not data1 data1 data1 data1 data0 xor data0 data1
+xor data1 not or data1 data1
+xor and not xor not not and not xor data1 and data1 data1 not not data1 data0 data0 data1
+xor or and and data1 data1 or data0 data1 data1 and data1 xor data1 xor or data0 not or xor data0 data0 and data0 xor or data0 data0 data1 data0
+and xor data1 data0 or data0 data1
+xor data0 xor not data0 data0
+not xor xor data1 data1 data1
+or or data0 and data1 data1 or data1 data1
+and or data0 xor not or data0 data1 data1 xor not or data0 not data0 data1
+or xor not or data1 xor data0 data1 data1 and not xor not or xor data0 and data0 not xor data1 data1 data0 data0 data1
+xor or data1 data1 or data0 not data1
+and or data1 xor xor xor data1 and data1 data1 data1 data1 data0
+xor not or and data1 or or and data0 xor xor data1 xor data1 or data1 data0 data1 data0 data1 data0 xor data0 xor not data1 xor data0 data1
+and and not data1 data1 or and and not , %1 : xor data0 data1 , %1 data1 data0
+xor or and data1 data0 xor data0 not data1 xor data0 data1
+xor and data0 not and data0 data0 or data0 data1
+and data0 xor not data0 data1
+xor not and data1 data0 or data0 and and xor data1 not or data1 and data0 data1 %1 : xor data1 data0 xor data1 or xor data1 and %1 data0 not data1
+or or not and not data0 data1 data1 data0
+and xor data0 or not data1 or and and data0 data0 not data1 xor data0 and data0 or or data0 not not or data0 data0 data1 data0
+xor xor data0 not data1 data1
+and or and data0 data0 not data0 data1
+or not or data1 data0 xor data0 and data0 or xor and data0 data1 data1 data0
+and and and data0 not data1 or data1 data1 data1
+or or xor data1 data0 not data0 and and data1 and and data1 and and and and or or %1 : xor data0 not data1 not data0 data1 and data0 data0 and xor %1 data1 data0 , %2 : or data0 data0 not data1 not data0 , %2
+xor xor or data1 and data1 or data0 data0 data0 and data1 or and not or and xor data1 or and data1 data0 xor not data1 not data1 xor data1 data0 and data0 data1 data1 or and data0 and and and data1 or or data1 data1 not data1 or not data1 data0 data1 not data1
+xor data1 xor data0 not data1
+or not data0 xor data1 and data1 data0
+or data0 and or xor xor data0 data1 data1 data0 data0
+and or not not data1 data1 and or or data1 data1 data1 data0
+or xor data1 data0 not data0
+and xor or data1 or data0 data0 xor data0 data0 data0
+not xor xor data0 not xor data0 data0 data1
+xor data0 not xor xor xor %1 : and data1 data0 xor data1 or and data1 data1 not and xor %1 not or not or data0 xor data1 or data0 not data1 or xor or xor data1 or data0 data0 xor xor data1 data1 data0 data1 data1 and data0 data0 and data1 not data0 or data1 data1
+or or or data1 and xor data1 data1 or data0 not data1 data0 not data0
+xor data1 not or and data1 not data1 data0
+or data0 xor or data1 data1 xor data1 not or xor data1 data1 data0
+and xor or or not data1 and not data1 data0 data1 data0 not and data0 and data0 data0
+or not or data1 data1 xor data1 and not and data1 data0 data0
+and and or data0 data0 xor xor data0 not and data1 xor not data1 or not data0 and data1 data0 data1 data1
+not and xor not not and data1 or not xor or data0 data0 or not data1 xor data0 and or data0 xor data0 data1 data0 and data1 or data0 or and xor data1 or data1 data1 not data0 data1 data1 not data0
+and xor data0 not data0 not not or and xor data0 data1 data1 data0
+xor and data1 data1 or not data1 data0
+and xor and data1 data1 data1 data1
+not xor xor not and data0 xor or data0 xor or data1 not data0 not and data0 data0 and data0 not data0 xor data1 data1 data0
+or or xor data1 xor data0 data1 data0 and and not not data0 not xor and data1 xor not data0 data1 not data1 data0
+xor data0 xor xor data1 data0 or not data1 data0
+and data1 xor xor xor and %1 : and data1 data1 or data0 xor or %1 %2 : or data0 data0 data1 data1 xor and %2 data0 xor xor data0 data1 data0 data1
+not or xor and data0 data1 data0 data1
+and xor not and data0 data0 data0 data0
+xor and data1 and data1 data0 data0
+xor data1 not xor data1 data1
+and xor data0 xor xor xor data1 or xor xor and or data1 not and or data1 and data1 data1 data0 data0 , %2 : or data1 data1 not data1 data0 data0 and xor data0 and data1 %1 : xor data1 data1 xor xor or data0 xor and %1 not or xor data0 and data1 xor and or not data1 or and data0 data0 data1 data0 or data0 or xor data1 not or data1 data1 and not data1 not and and xor and data0 data1 or data1 not xor data1 not not data0 data0 or data0 data0 data1 and not data1 data0 not or data0 data1 data1 data1
+or xor not data0 or xor not or data0 data0 data1 data0 and data1 data0
+and and xor data0 or data0 xor data1 data1 data1 and xor xor data1 data0 or not data0 and or data0 not data0 xor data1 xor data0 and not data0 data0 xor data0 not data1
+xor not data1 and not data1 or data1 data0
+or or or data0 and or data1 not data0 data1 data1 and data1 xor and data1 xor and and data0 data0 xor data0 data0 or data1 or data0 not data0 data1
+and data0 or data1 not data1
+and data1 and data0 or data1 xor or data0 or data0 data1 data0
+xor data0 xor data0 data1
+and xor xor or data0 data0 or data1 and and xor data1 and data0 and and xor not data0 data0 data0 not not xor data0 not or data1 not not data0 data0 or data1 and data0 data1 and not and or not data1 or data1 or data0 and data1 data1 data0 data1 data1
+and or or data1 not and data1 data1 or or data0 data0 data0 data0
+xor data1 or data1 and data1 data1
+or and data0 not data1 data0
+and not xor data0 or data0 data0 not or not data1 data1
+not xor or data0 data0 data1
+not not or xor data0 data1 data1
+xor xor data1 xor data0 data1 not data1
+xor %1 : or data1 data0 %1
+and or and data0 data1 data1 data1
+not and xor data1 xor data1 data0 data1
+xor xor and data0 not data1 data0 xor not data1 data1
+xor and and data0 data0 or data0 data0 and data1 data0
+xor data1 xor data1 and and data1 data1 data0
+xor and data1 and data0 xor data1 or data1 data0 and data1 data0
+and data0 and data1 not data0
+and not data1 and data0 xor data0 xor xor data0 data0 data1
+xor xor xor xor data0 data1 data0 and not data1 data0 data0
+xor %1 : and data1 data1 %1
+or and data0 data0 not or data0 data0
+and and xor data0 data0 data1 or data0 xor and or xor xor data0 not not data0 not or data0 xor data1 and xor data0 and or not and data1 or data1 and data1 or data0 data1 data0 or data0 and data0 data1 data0 data1 data1 data0
+not or data1 and xor not not data1 data1 and xor xor data1 not or data0 not xor data0 data0 data1 xor data0 data1
+and not and data1 data1 or or data0 or data0 xor data1 not not data1 data1
+and data0 and data0 and and data1 data0 data0
+xor and data1 data1 and data0 xor data1 xor data0 and not data1 data0
+or xor data0 data0 xor data1 data1
+or xor xor not or or and not data1 %1 : or data1 data0 or data0 or not xor and data0 or data1 and xor xor xor not data1 data1 data1 data0 data0 not data1 or xor %1 xor data0 data0 data0 xor or not data0 or and data0 data0 and data1 data0 not data0 data0 data0 and data0 xor and or xor or or data1 or data0 data0 and not or xor data0 data1 data1 data1 not data1 data1 and and data1 data1 data1 xor data1 data1
+xor and data0 data0 not xor data1 data1
+or data1 xor or xor not and data0 xor data0 data0 data1 and data0 data1 data0
+or and data0 data0 xor data1 xor data0 data0
+and not data1 or xor data1 data1 data0
+or data1 xor not data1 data1
+xor or and data0 data1 and data0 not and data1 data1 or data0 data1
+and or data0 and or xor xor data0 data1 data1 data0 data0 data0
+or data0 or xor not or data0 not data0 data0 data1
+or and not data1 or and and data1 xor data1 data0 xor and xor data0 data1 data0 or not data1 data1 and data1 data0 data0
+xor or and not and data0 data0 data0 xor data0 data1 and data1 and and and data1 data0 xor data1 data1 data0
+or data0 xor data0 xor data0 data1
+not and data1 xor data1 xor or data0 data0 data0
+or data0 xor not data0 data0
+or data0 or %1 : and data0 data0 and data0 xor or and data1 not or data0 xor data0 data1 or data1 xor data0 or not %1 xor data1 and data0 and and not data1 data0 data1 data0
+and data0 xor or data0 xor data1 data0 xor data1 and or data1 data1 data1
+and data1 not or data0 data0
+or and and data0 or or data1 data0 data1 data1 data0
+or not data0 and data0 xor not or data1 or data0 and and and data1 data1 not data1 not not data0 data1
+xor not data0 xor and not or not or data0 data0 data0 or data1 data1 not data0
+and and not or data1 and or xor and data0 xor data1 xor or data1 not data1 data1 not data1 data1 data1 data0 data1
+xor xor data1 or not data1 data1 data1
+or data1 or not data1 not not data0
+not xor xor or xor data1 data1 data1 data1 data1
+not not xor xor data0 not data1 data1
+or xor xor and data0 not xor data0 data1 data1 data0 data0
+xor or and data0 data0 or data1 data1 data0
+xor or not data0 not xor data0 data1 data0
+xor xor or data1 or or not data1 and data0 data1 data1 data0 or data1 or and data0 or data0 data1 xor data0 not not data0
+or not or or or not or data0 data0 data0 data0 xor not data1 or xor data0 data1 xor data1 or data1 and data1 data0 or data1 data1
+or data0 xor and not data1 data0 and xor data0 or or xor not data0 xor data0 data1 data0 and data0 data0 data1
+and xor data1 data0 not data0
+and data1 xor data1 xor data0 data0
+xor not xor data1 not data1 data1
+and and data0 not data1 data1
+or and data1 data0 not data0
+and or not data1 or xor data0 data1 data0 xor or data0 data0 or data1 data0
+or and data1 or or data0 data1 or xor data1 data0 data1 data0
+and data0 or not xor and data1 data0 data0 and or and not xor or and data0 xor xor and xor data0 data0 data0 xor not data0 and xor xor or data1 data0 , %1 : and data0 data0 data1 xor xor data0 or data1 and data0 data0 data1 data1 data1 and data0 or data1 data1 data0 or data0 xor data0 data1 data1
+xor data0 xor or xor xor data1 data0 data1 data0 data1
+or and or data1 data1 data1 xor or and data1 data0 or or and data0 data0 data1 data0 data1
+or data0 xor and data0 or data1 and data0 data0 data1
+not and data1 or data0 data0
+not or data0 not data0
+not not not xor data0 and data1 or data0 and not and not data0 data0 and data0 data0
+or data0 xor not data1 data1
+and xor data1 xor data0 data1 not not data1
+xor data1 and data0 data0
+xor xor data0 data0 not data1
+xor or and not data1 data1 or data0 data0 xor data0 not data1
+xor %1 : not xor data0 data1 and not %1 data1
+not and data1 or or not data1 data1 data1
+or data0 or and not not and data1 and data0 data1 xor data0 and data0 not data1 data0
+and xor data0 data1 not data1
+and xor data0 data0 and data1 data1
+or xor xor or data1 data0 data1 and xor not data0 not xor data0 data0 and data0 and and xor data0 or or or data1 or data1 and data1 data1 data1 data0 and data0 data0 data0 not and and xor or not data1 and not data0 data0 data1 or data0 data0 data0
+xor and data1 , %1 : or data0 data1 , %1
+or data0 xor data1 and or or xor and or data0 xor xor or or data0 %1 : xor data0 data0 xor data0 xor xor data1 xor xor data0 %6 : xor data0 data1 or or %2 : and data0 data1 not data1 data1 and or data1 xor or not data0 data1 data0 data0 xor data0 or or data0 xor data0 xor data1 and data1 and %1 , %3 : %2 xor or data1 data1 xor or and data0 %4 : or data0 data0 data0 not data0 not and or data1 data0 %2 data0 xor data1 xor not or and %5 : and data1 data0 not not and data1 data1 xor not data1 and %4 %5 data1 not xor data1 not data0 xor data1 data0 and and data1 and %6 data0 data0
+or and xor not not data0 data1 and data1 or data0 not data1 data0
+and data1 not xor data0 xor or data0 or data1 data0 data1
+or not not data1 and data1 data0
+or data0 and data0 not data1
+not or and not xor not data0 data1 or and data1 not xor or data0 xor data1 data0 not xor data0 not not not data0 data0 data1
+xor data1 or and xor or data1 data1 not data0 and or xor data0 data1 not data0 or or data0 and not data1 and not data0 data1 not data0 data0
+xor or data0 xor data1 data1 data0
+xor or not data1 data0 data0
+xor xor and or not data0 or data0 xor not data1 data0 data1 xor and %1 : or data1 data0 or xor data1 not or or xor not xor or xor not data0 , %2 : %1 and data1 and data1 and and data0 data1 data0 not not and xor or data0 %1 or xor data0 data0 data0 data1 data1 data1 data1 or and data0 not data1 data0 data0 or not data0 data0
+or and data0 data0 or or data0 and or data0 not data1 data0 and not not xor data1 data0 data0
+and xor data1 data1 and not data0 or or data1 or data0 xor or xor data1 and data0 data1 data0 data1 data0
+xor not or data0 not not data1 data0
+and data1 or not data1 data1
+and xor data0 xor not not data1 data0 xor data1 xor data0 xor data1 data1
+xor xor data1 or data0 data0 and data1 xor data1 and not data0 and data0 not data0
+and or xor not data0 data0 and or data1 data0 data0 data0
+xor or data0 not not or data0 data0 data0
+and or xor not data1 data0 data1 data0
+not and data1 or data0 or and and and data1 and xor and data0 data0 not and data1 and or data1 and data0 or data0 xor not data1 data1 xor and data0 data1 data0 xor not data0 data1 data0 data0 data1
+not or or data1 or or and or data1 data1 data0 data1 data1 data0
+and data1 and data1 not and or data1 data1 data0
+and and xor data0 or %1 : or data1 data1 or and data1 or xor data1 and xor xor xor and data0 or and data0 data0 data1 data0 xor data0 or data0 %1 data0 and data1 data1 data1 xor data0 data0 data0 data0
+not and and not not xor xor data1 and data0 or data1 data1 and and not data1 and data1 xor data0 data0 data1 data0 data1
+not xor and not xor or data1 xor and data0 data1 not data1 data0 data1 data1
+and or data0 xor data0 and data1 xor data0 data1 not data0
+or or data0 and not and xor not and data1 not xor data1 xor and xor not or data0 or xor xor xor data1 , %1 : xor data0 data0 xor or or data1 data1 xor data0 data0 data1 , %2 : and data0 data1 data1 or or or data1 data0 and xor data0 and not data1 and data0 and data0 data1 %3 : or data0 data1 or xor %3 xor data0 data0 data0 data1 data1 data0 xor data1 data0 data0 data1
+not or or data1 data0 and and data1 data0 data1
+and or not data1 data0 data0
+and or data1 data1 or data1 data0
+not and or and data0 data0 or or not or or not data0 not data1 and xor data1 data1 data1 or and xor not or not data0 data0 data1 data1 data0 and data1 and xor data0 or data0 data0 data0 data1
+xor xor data0 data1 xor and data0 xor data0 data0 xor and data0 xor data1 data0 data1
+not or data1 and data1 data1
+xor xor xor data0 and data1 data0 data0 not data1
+xor or not data1 or xor data1 data1 xor or not xor data0 data1 or data1 or data0 data1 data1 data1
+xor not data1 and or and data0 data1 or and and xor data0 data1 and data1 and and not data1 data1 or or not and %1 : or data0 data0 not data0 data1 or or data0 not or data1 xor data1 data0 or not not data1 data1 data0 not and not or not %1 or or data0 or data1 not and xor xor and data1 data0 and and xor data0 data0 and and data1 xor and and data0 or or not data0 data0 data0 data0 , %3 : not %2 : or data0 data1 data0 or data1 xor not data0 data1 not data0 and data0 and xor and data0 or data1 and %2 and xor data1 not data0 data0 data1 and data0 not %2 or data1 data1 data0 data1
+and not and xor data0 not not data0 data1 data1
+xor xor or xor xor xor data0 and data0 and and or data1 data0 not xor xor xor and data1 data0 data1 data0 or data0 xor not data1 , %1 : or data1 data1 data0 and data1 data1 , %1 data1 , %1 xor data1 not data0
+xor data1 xor %1 : or data0 data0 or data0 or data1 %1
+not xor or data1 data1 data0
+or data0 or not and or xor data1 not and xor data1 data0 data0 data0 data1 data0
+xor xor xor and or xor xor data0 not or data0 data0 data0 not data1 data1 or data1 data0 data0 or data0 and data0 or data0 or xor data1 data1 xor or data0 and data1 data0 data1
+or or xor xor data1 not data0 data1 and data0 and data0 or data0 data0 data1
+or and data0 data0 xor data1 and data1 data0
+xor xor xor data0 data0 xor xor xor data0 or not not or and data0 data1 or not data1 data1 not data1 and data1 not data1 not not or or xor and data0 data0 xor or data0 data1 data0 data1 data0 and data1 data1
+not not xor or data1 not data0 data0
+and or xor data0 not data1 and and xor xor data0 or or not data0 not data1 data1 data0 and data0 data1 xor or data0 data1 data0 not data0
+xor or data1 or data1 data0 data1
+or not and data0 xor data1 and data0 data1 xor data1 data1
+not xor data1 xor not data1 or or data1 data0 or data0 data1
+and and data1 not xor data0 data0 data1
+xor data1 or data0 and data0 data0
+and data1 xor and xor data1 or data1 data1 data0 not data0
+and not data1 not data1
+not or and data1 not data1 or data0 not data1
+not not xor data1 not data1
+or not xor or data1 data1 data1 and or and data1 data0 or data0 not data1 data1
+or and or xor and or and data0 data1 or xor data1 or data0 data1 data0 and data0 data0 not data1 data0 not or data1 not data0 data1
+xor data0 not xor not data0 data0
+or xor not or data1 data0 not xor not data1 data1 and not data1 data0
+and xor data0 xor data0 data1 xor data0 data0
+and data1 xor data0 not data1
+or or not data0 data1 data1
+or and data0 data0 xor data0 data0
+xor or data1 data1 data0
+and not data0 or not data1 data0
+not or data1 or data0 not not data1
+not and not and xor data0 data0 data1 data1
+or or data1 data0 not xor xor data0 or data1 data1 not data1
+xor and and %1 : and data0 data0 and data0 %1 or data1 and data1 xor data1 or data0 not and data0 not not xor xor data1 data1 not data0 data0
+xor and data1 or not data0 data0 data0
+xor %1 : or data0 data0 %1
+or and or data0 data0 data0 data1
+or xor or data0 data1 data1 data0
+or and and data1 or data1 data1 xor data1 data1 or data0 and data0 data1
+xor and data0 and data0 data0 xor not data0 and data1 data0
+xor and or and data1 data0 data0 xor data0 and data0 or data0 xor data1 or data0 data1 data1
+xor data1 and data0 or and not or data0 data1 and data1 data1 xor data0 and not data1 or data0 data0
+xor not xor xor not and data1 data1 data0 data0 data0
+xor or and or data1 or data1 not and data0 data1 , %1 : or data0 data1 or and data1 data1 data1 and xor data1 data1 or data0 data1
+and data1 or or xor not and xor data0 and not data0 data0 data0 xor data1 data0 or or data0 xor data0 or not data0 or data0 xor not and data1 data1 xor not xor xor or data1 data0 data1 data0 data0 not data1 xor or xor data0 data0 , %1 : or data0 data1 , %1
+xor or and and data0 data0 data1 data1 data0
+or and data1 data1 or data1 data1
+not and data1 not or data0 data0
+xor and not data1 data0 and data1 data1
+and or or and data0 data1 data0 data0 data0
+or or xor data0 or data0 not data1 or or not data1 data1 data1 data0
+and not or data1 data1 data0
+and data0 or not data1 data1
+or and not data1 data1 data1
+or data0 and or data1 xor data1 and xor data0 xor not and data0 and data1 data0 data0 xor data1 data1 data1
+and data1 and not not or data1 or not not not data1 not data1 data0
+and and xor data0 data0 data0 data0
+or xor and or and data1 data1 not data0 data1 data1 data0
+not and and and data1 and or data1 data0 data1 data0 xor or data1 or or or not data0 or not data0 data1 xor data0 data1 xor data1 or data0 data0 and xor data0 data0 not data0
+or xor xor not xor data0 not data0 data0 data1 xor data0 or not xor data0 data1 and data1 data0
+and not xor or and or data0 data1 not data0 data0 data1 data1
+not xor or not not data0 not data1 or or and data0 data1 and data1 data0 data1
+or and %1 : xor data1 data1 data0 and data0 %1
+not xor or data1 data0 and data1 data1
+not and data1 or data1 xor or or data1 data1 data1 not data1
+not and and data1 data0 data1
+and data0 and or data1 xor and not data0 data1 data1 not not xor data0 not xor data0 data1
+xor data1 or or or data1 not data0 data1 data0
+not not and data0 or or not data0 or and data1 data1 xor data0 data0 data0
+not xor or data1 data0 data1
+not xor data0 and data0 data1
+xor data1 xor or data0 data0 not not xor or data1 data1 not xor data1 data0
+xor xor data1 not not data0 data1
+and xor not data1 or not data1 not or data0 or data1 data0 and data1 and data0 data1
+or xor data1 data0 xor or data1 data1 data0
+or xor or and data1 data0 data1 and data0 and data0 and or data0 data0 or data1 xor xor data0 data1 and data0 xor data0 xor or data0 and data0 data0 not data1 or not not data1 data1
+and or xor data0 and or or data0 xor data0 data0 data1 data0 xor data0 data1 data0
+xor or and not data0 and or data1 data0 data0 data0 data0
+not not xor data1 data0
+not or data1 xor and and data1 or and and not or data1 data1 xor xor data1 not and or or data0 data0 not data0 data1 or and data0 data1 data1 or data0 data1 xor data1 data0 data0 xor or data1 not data1 data0
+xor or and data0 and not data0 xor data0 xor or data0 not data1 data0 data1 xor and xor data0 data0 or xor data1 and data1 data1 xor not and not data0 data1 data0 data0
+and data0 not or xor data0 data0 data1
+and or data1 xor data0 data0 data1
+or data0 or data1 not or data1 or and data1 xor or xor or data1 data0 xor xor data0 xor and not data1 data0 data0 data1 or or data0 data1 data0 or not data1 data1 data0
+and data1 not not xor data0 data0
+not not not or data0 xor data1 data1
+or not xor data1 data1 and data1 xor data0 data1
+or or not data1 and data0 not and or not and or and data1 not or not data1 data0 data0 data0 data1 and data0 data0 data1
+and and or data0 data1 data0 data1
+not and or and data1 data1 not not or data0 data1 xor data1 data0
+or or data0 xor and data1 data1 data0 data0
+and data0 or xor xor data0 data0 data0 not data1
+not and data1 or or data1 not and and not data1 data0 data1 data1
+xor and data1 or and or or xor data0 xor or xor data1 and xor xor data0 or data0 or xor xor data1 data1 data0 data0 data0 data1 or data0 not data0 data1 not data0 data1 and or data1 or data0 data1 xor or or data0 not data1 data0 data1 xor or and or not data1 data1 not data1 not data0 xor data1 data0 data0
+and not xor data0 data1 data0
+and xor data0 or or data1 data1 and xor and data1 and not and data0 data0 data0 not or not or data0 data1 data1 data0 data1
+and xor data0 xor and data0 data1 xor data0 data1 data1
+xor not and and not data0 data1 data1 data0
+or xor xor not data1 data0 or data1 not data0 xor data0 data1
+or not and data1 data0 not or data1 data1
+and not data0 xor data0 data1
+and not data0 or xor not not data1 data0 data1
+and and data0 data1 and not not data1 data0
+or data1 xor and data0 data1 data1
+xor data0 xor and xor data0 xor and data0 data1 data0 data0 data1
+or or or data1 data1 data0 data1
+xor data0 xor xor not not data1 data1 data0
+and and and data1 data0 data1 not data0
+xor and and data1 data1 data0 xor data0 data0
+not or data0 or not and and data0 data1 and data1 not and and data1 not xor data0 data0 data1 data1
+xor data1 and or data1 and data1 data1 and xor data0 and data1 or or or or not data1 data0 data0 data1 and data0 xor or and data1 data0 not or data1 data0 data0 data1
+or data0 or data0 data0
+or not and and data0 not data0 and or data0 and and data1 data1 and or data0 data1 and data0 data1 or not or data0 data0 data0 data1
+and or data1 and data1 or data1 data0 data1
+or or data0 and data0 data0 xor data1 data0
+and or data1 and data0 data1 xor and data0 or and or xor not data1 xor not data0 data0 data0 data0 data1 xor not and xor or data1 data1 data0 or xor data1 and data1 data0 data0 not data0
+and not or not xor data0 and data1 data1 data1 not data0
+or not or data1 or and data0 data1 data1 data1
+or data1 not xor data1 not and xor xor data0 data0 and xor data1 data1 data1 xor and data1 or xor data0 data1 not data1 not and xor or not data0 data0 data0 data0
+or or or data1 data1 and or not data0 data1 data1 data0
+xor and not data1 and xor and data1 xor data0 not data1 data0 data0 data0
+and not and xor data1 xor and not data1 or data0 data1 data0 data1 data1
+or xor and data1 data0 xor data1 data0 xor not xor not or xor %1 : xor data1 data1 %1 data1 data0 data1
+xor xor xor not not data1 data1 data0 not or data1 data0
+and and not data1 or data1 data0 xor xor data0 data1 data1
+or xor data0 or and xor not not data1 xor or and data0 or not data0 data0 data1 data0 data1 data1 and not data1 not or data1 data0
+or and not and data0 %1 : or data0 data1 data1 xor not and xor and %1 xor data0 xor data1 data0 data1 data0 data0
+xor xor or and not %1 : and data1 data1 and data0 or data0 or %1 and data1 data0 data0 data0 data1
+xor data0 xor xor and not data1 data1 data1 data1
+and data1 xor not data0 not data1
+and data1 and or data1 xor xor xor data1 data1 data1 xor data1 not not data1 data0
+xor and not and data0 data0 data1 data1
+or data1 or not data0 data0
+xor or data0 xor data0 data0 not data0
+or data1 and and data0 xor data1 or data1 xor data1 data0 data1
+xor not or data1 data0 data0
+xor or and data1 not not and data1 data0 data0 data0
+not or data0 or not data0 data0
+xor xor data0 data0 xor data0 and data0 data0
+and and and and data0 data0 data0 data0 data1
+or and data1 xor data1 or xor not or data0 data1 not xor or data1 data0 and data1 data0 or data0 not data0 not data0
+or data0 or xor data1 data0 data1
+xor xor data1 data0 and data0 data0
+xor data0 or and and and data1 data1 data0 not data0 data1
+or data1 and data0 and data1 data0
+not and not xor and data1 data0 data0 or data0 data1
+xor or or data0 data0 data1 data0
+xor or xor data0 data1 data1 data1
+xor or data1 xor and and , %1 : data0 not data0 not or or data0 data0 data0 or and data0 or data0 xor data0 not data0 data0 or or xor and data0 data0 data1 data1 data0
+xor or not data1 xor data0 data0 not data1
+xor or data1 xor xor data1 not data1 data0 data0
+and xor data0 or data1 data0 or data1 or and and data0 xor data1 not data0 data0 data0
+or or data1 data1 or data1 data0
+and xor not data1 data1 data1
+and or or data1 data1 data0 and data1 data1
+or data1 and or or data1 xor data0 data1 data1 and or data0 data0 data1
+and data1 and xor data1 data0 data0
+and data1 and not data0 xor or data1 data1 or or data0 not and data0 data1 data1
+and data1 xor or data0 data1 data1
+not xor and data0 data1 and data1 data0
+xor and or data1 data0 and or not or and data0 data1 data1 not or data0 or not data0 xor not xor data1 data0 data1 or data0 data0 data0
+or or data1 or data0 %1 : and data0 data0 or data1 or data0 not xor %1 data1
+not xor or data1 or or data1 data0 data0 data0
+not xor not data1 data0
+or data1 not and not xor xor not or data1 data0 xor or data1 and and data0 data1 data1 not data1 data1 data1
+xor xor data1 xor not and data0 data0 not data1 xor or xor data1 not xor not not data1 data0 data0 data0
+xor and data0 xor xor and not or data1 data1 data1 or data1 xor data1 data1 xor or data1 and data1 data0 data1 or and and and data1 data1 data0 or data1 data0 data0
+or or not not and data0 xor xor data0 data0 data1 not or xor or data1 xor and data0 or or data0 , %1 : or data1 data0 and not data1 data0 data1 or xor and not data1 data1 or data1 data0 data1 data1 xor data0 data1
+and not data1 xor data1 not and xor and %1 : and data0 data0 or data0 or %1 data0 xor data1 data1 data0
+or or xor data1 and or data0 data0 data0 not data0 xor data1 xor data1 xor data1 data1
+xor not and data1 xor not xor data1 data0 and xor data0 not data1 data1 data0
+and data1 or not data1 and data1 data0
+and not and data1 data1 data0
+xor and and data1 data0 or not not data0 data0 and xor data1 data1 and data1 and or data0 or data1 and or data1 data1 or data1 not xor and data0 data0 xor not data0 or data1 data0 or xor data0 data1 data1
+xor and not data0 and data0 data1 xor or not data1 data1 data0
+or and xor not data0 not not data1 data0 xor xor data1 or not xor not or not data1 xor data1 data1 , %1 : and data1 not data0 xor not and data1 not data0 data0 not data0
+or data1 or and or data1 data1 data1 not xor xor data0 data1 data1
+or and data1 xor data1 data0 data0
+or and or data1 or xor data0 and xor data1 data0 and or data0 or data0 data1 data0 xor data0 data0 xor or or and data0 and or data1 not data1 data0 and data0 data1 xor data1 not and %1 : xor data1 data1 data1 or %1 data0 not and data1 data0
+and data1 xor and data1 data1 data1
+not and or data1 xor data0 data0 data1
+xor xor not not xor data1 data1 data1 or or data0 data1 xor and data1 data1 data1
+or or data1 and or data0 xor xor data0 or or data0 data1 data1 data1 data1 data1
+and and data0 data0 not and data1 data0
+and and and xor xor and data1 xor or data1 data0 data0 data1 and or data0 xor not data0 data0 xor data1 data1 data0 data0 data0
+xor not data0 xor not data1 not and data1 data0
+not or xor and not data1 xor or or or data1 data1 data1 data1 data1 data1 data0
+xor and data0 data0 or data1 xor data1 and and data0 data1 data0
+or xor data1 data1 and and not data0 data0 data1
+and or and data1 not data1 data0 data1
+and or xor or xor data0 data0 data1 data0 and or data0 and data1 not data0 or data0 or data1 data1 data1
+xor or and and xor data0 data1 data0 data0 data1 not or data1 data1
+xor data0 or and not data1 data0 data1
+and not or xor or and data1 data0 data1 data0 data1 and data1 not and data1 not data1
+or not not not xor data1 and not data0 data1 and data1 data0
+and not xor xor or data0 data1 not data0 and data1 and data0 or data0 xor data1 data0 not not data1
+or or data1 data1 or or data0 and data1 data0 and data0 data0
+and data1 and xor data0 or data0 data0 or data1 or data1 data1
+or and or or xor data0 and data0 , %1 : or data0 data1 data1 , %1 data1 data0
+or not data0 not and or or data1 data1 data1 data0
+or data1 and or not data0 xor data0 data0 data1
+and not not data1 data1
+and data1 xor not and data1 data1 or data0 data0
+xor not data1 and data1 data0
+or data1 xor data0 or not data0 xor data0 data1
+not or data0 xor or data1 and and data1 and data0 and data0 or or data1 and or and not and data1 data1 xor data0 data1 or xor not data1 and data1 data0 not data1 data1 data1 data1 not or data0 data1
+xor or data1 xor data1 and data0 xor data0 xor data0 or data1 or not data0 not not xor data0 or data0 or and data0 data0 xor data1 data0 data1
+xor data0 and or data1 data1 data1
+and or or data0 data1 data1 data0
+and and xor or data1 data0 not or not data0 data0 or or or data0 %1 : xor data0 data1 data1 xor data1 and and or data0 data1 data1 data1 not and %1 data0
+or or data1 and data1 data0 data0
+xor data1 xor or not xor not data0 xor and data1 data1 data1 or data0 and data0 not or or data0 and data1 not xor data1 xor and xor or xor data1 or data0 data1 data1 or and or not , %3 : %2 : and data0 data1 data1 or data0 data0 data0 and data1 %1 : and data1 data0 or %1 or %2 %2 xor data1 not data1 not not data1
+and data0 or not data1 and data1 data0
+or data1 and or or data1 data1 data1 not xor data0 not data0
+xor not and or data0 data0 data0 or data1 data0
+not xor or data0 or xor or or and data1 or not or data0 or data1 or data1 xor data1 not or data0 data1 or not data0 data1 data0 not data1 data1 data1 or data1 data0
+not xor xor data1 data1 not data1
+or data1 and data1 and data0 xor xor data0 xor or data0 data1 not data1 data1
+or not data1 xor data1 or data0 data1
+or data0 and data0 or or and data1 data1 data0 not data0
+xor data0 and or xor or data0 xor data1 xor and and xor data1 data0 or not data0 data1 xor data0 data0 not data1 data1 and or data0 data0 data1 data1
+or or and data0 or or data0 or data0 and not data1 not xor data0 data0 data1 not or or data0 data0 data1 not or data0 not data0
+and and data0 data1 not not data0
+and not and data0 not data0 data1
+not and data1 or data1 data1
+or xor not data0 data1 data1
+not xor %1 : xor data1 data0 not or data0 or %1 xor or and data0 data0 data0 data1
+not xor and data0 data1 xor xor data0 or data1 and xor data1 and data1 data1 or or and data0 data0 xor data1 not data1 data1 data0
+or and xor data1 data1 data0 data0
+not not xor data0 data0
+xor and data1 data1 not not xor data1 or data1 or xor or data1 data1 data0 not data0
+xor xor not and not not data0 data0 data0 not or xor not or xor and data1 data1 data0 data0 data1 and data0 data0
+xor not or data1 data1 data0
+xor xor and xor data1 data0 data1 data0 xor data0 not data1
+or or data0 not and data0 and data0 and data1 data0 data1
+xor data0 or xor xor data0 or not data1 xor data0 or data0 data0 data0 and data1 data1
+and data1 xor xor data0 or data0 or data1 data0 data1
+or data1 xor xor data1 and data1 data1 data0
+xor and not not not data1 or data0 and and data0 xor xor or data1 data0 data1 data1 data1 xor or xor not data1 data1 data0 data0
+xor and data0 data0 or data0 data0
+and xor data0 data0 or data1 data1
+or data1 xor xor data1 data0 data0
+or data1 and or data1 data1 data1
+not xor and data1 not data1 xor data0 data0
+not or and xor data1 data1 or data0 not data1 or xor or data1 data1 data0 or data0 data0
+or and data0 and or data1 data0 data0 and not not data1 data1
+or or and or data1 not data0 data0 data1 data0
+and data1 xor xor and not not not data1 data0 data0 data0
+and and xor data1 data1 or data1 data0 not not or data0 data1
+and data0 not xor data0 and data0 data0
+xor or xor xor data1 data1 data0 data0 not or xor xor data1 data0 data0 data1
+and not data0 and data0 data1
+or data0 xor data0 xor or xor not xor data1 or not and data1 data0 data1 data0 not or data0 and data0 data0 or and xor data0 data0 data0 data0
+xor data1 and data0 xor xor data0 data0 data0
+or not and and data1 data1 and or xor data0 data1 data0 data0 not xor data1 data1
+not or data1 xor data0 and not and not data1 data1 and data0 or data1 data0
+or xor xor data0 xor data1 data0 not data0 data0
+and data1 not and and data1 data0 or data0 data0
+and or xor data1 or and data1 data0 data1 data1 data0
+xor data1 or or data0 data0 data1
+or xor data1 data1 not xor data0 data1
+or or and data0 data0 not xor data1 data1 data1
+not not and data1 or data0 data0
+not and or xor and data0 not data0 not data1 data1 and not data0 data1
+and data1 not xor data1 xor and data0 data0 not or data1 not data0
+not not not not or data0 or or data0 not data1 data1
+and data1 and data0 or and data0 xor not xor data1 and data0 data1 data0 and or data1 data0 data1
+or and and xor data1 not and xor data1 data1 data0 data1 data0 data0
+and data0 and data1 and data0 data1
+and xor data1 data1 and xor data0 and and xor data1 not data1 data1 data1 or or xor not xor or data1 not not data0 data1 data0 data1 xor data1 and not xor data0 data1 data1
+and or data0 not xor not xor data0 xor data0 data0 and data1 or data1 data0 data1
+and xor data0 or data0 data0 data0
+or and data0 xor data0 data0 and data0 data1
+or data1 and xor data0 data1 data1
+not xor data0 not data1
+and xor xor data1 or xor data0 xor data1 data1 xor not data0 data1 data0 xor data1 data0
+or xor not data1 and data1 or data1 or data1 data1 and data0 and data1 and data0 data0
+or xor data0 data0 or data1 data1
+xor and data0 or or and data0 and data0 data0 or and xor or data1 data1 data1 or not data1 data1 not data1 not data0 data0
+xor data0 or data1 and data1 data1
+not or xor xor xor data1 or data0 data0 or xor and data0 data0 or data1 data0 data1 data1 data1
+and and data1 data1 xor data0 data1
+xor not data1 and data0 and and data0 data1 not data0
+or or data1 data0 xor and and data1 xor and data0 data1 data0 and data0 not and data0 data0 data0
+or data1 xor xor or and data0 or %1 : or data1 data0 and data1 or data0 not or or not or data0 data0 not data1 xor data0 data1 xor or and not data0 xor and data0 xor not , %2 : xor data1 data0 %1 not not data1 data1 xor data1 or or data0 and and data0 xor data1 data0 data0 data1 data0 data1
+or or data0 data1 and and data0 data1 data0
+xor data1 not not and data0 xor not xor xor data1 data1 and or and data0 not data1 and data1 data1 data1 data1
+or %1 : and data1 data1 %1
+or and xor or data1 data0 xor not data0 data1 data1 data0
+or data1 and data0 xor not data0 xor data1 data1
+and or not data0 or xor data1 or not or data1 and or or data0 not xor not or data1 data0 not not data0 data1 xor xor data0 xor data1 data1 data1 xor not data1 and data0 xor data1 not xor %1 : or data1 data1 data0 xor %1 data1 data1
+not or xor data0 data0 or data1 data1
+or data0 or data0 and not data0 data0
+xor not or data1 data0 data1
+and or xor xor or and not , %2 : xor data0 data1 or data0 data0 data0 and data1 data0 xor or not or data1 or data1 and %1 : and data1 data1 and xor data0 not %1 data1 or %1 not and not data1 xor data0 data0 data1 , %2 data1
+xor data1 and data1 and data1 data0
+or or xor not data1 and data1 or data0 data1 data1 data1
+xor or xor not data1 data1 or data0 data0 data1
+or xor data0 xor data0 data1 or or or data1 xor data0 data0 xor or data1 data0 and data1 data1 or data0 data0
+or and not data0 or data0 data1 data0
+and or data1 not xor and or or data1 and and or data0 data0 xor data0 and data1 data0 data0 not and and or and or xor and data0 data1 data0 or %1 : xor data1 data1 data1 data1 data0 not data0 not data0 not and data1 and data0 not %1 data1 data0
+not xor xor data1 xor data0 data1 data0
+not and data1 not and and data1 not data1 data1
+and and not data0 and not or not not data0 data0 data1 data1
+not and not data1 not data1
+and not and not and or and not not data0 and data1 data1 or not data0 data1 not xor or data0 data1 not data0 data1 data1
+not or not and data0 xor data1 data0 data0
+or xor data1 not or xor xor data1 xor xor and data0 not data1 or or data0 or xor data1 data1 data0 not data1 data1 data0 data1 data0
+or data1 and xor xor data1 data0 and %1 : and data1 data0 and and data0 data1 xor xor %1 or xor data1 or or data0 xor xor and and xor data0 not or data1 not data0 data1 data1 data0 data0 data0 data0 data0 xor data1 %1
+not or data1 not data0
+or xor or data0 data1 data0 xor xor xor data0 not xor not and data1 data1 data1 data1 data0
+and xor data1 data0 and data0 and and xor and xor data0 not or or and data0 not data1 data1 and and %2 : xor data0 data0 data0 or data1 xor or and or %1 : or data0 data0 xor not %1 data1 data0 data0 data1 data0 and data0 xor not data1 %2 data0 data1
+not not and data1 or not data0 not data0
+xor data1 xor data0 or data0 not data1
+or not data1 xor data1 data1
+and data0 xor not not data1 data1
+not or and not xor data1 data1 data0 xor or data0 xor data0 not data0 data1
+not xor xor not data1 xor xor data0 data0 xor not data1 data1 data0
+and and or data1 and data1 data1 or data1 data0 not data0
+or and data1 or and xor data1 data0 and or data0 not and not data0 data0 data1 and data1 data1 xor or or data0 data0 data0 data0
+or data0 or not data1 xor data1 data0
+or data1 xor xor data1 or data1 or data0 data1 data0
+xor not not data0 not data1
+and and or data0 or data1 not or data1 not data0 data0 data0
+xor or data0 data0 or data1 not data0
+or data0 xor xor and data1 or xor data1 data1 not not xor not data0 data0 or data1 , %1 : or data0 data0 xor data0 or data0 data0
+or or or %1 : or data0 data0 xor data0 not data0 and xor data1 %1 xor and data1 not not xor or data1 data0 data1 xor or xor data0 data0 data1 or data1 not data0 data0
+and data1 xor and data0 data1 or data1 data0
+xor and and and xor data0 or and data0 or data1 or xor data0 and data0 and or xor data0 xor not not not and not data1 data0 xor not data1 or and or data1 data1 not data1 data1 xor data1 data0 data0 data0 data0 data1 data0 data1 data1
+xor not data1 or data1 data0
+xor data0 or data0 not xor and xor and data0 xor data0 data0 data0 and data0 and data0 data0 data1
+xor and data1 data1 and or data1 data1 data1
+xor data0 not or or data1 not data1 not data0
+or and data1 data0 or or data0 data0 xor data0 and data0 or and not data0 and data0 data0 data1
+and not and data0 data0 data1
+or or data0 not xor data0 xor or and or data1 data1 data0 xor data0 or data0 data1 data1 data0
+and xor xor data1 data1 and data1 data0 data0
+xor data1 and xor xor or data1 data1 data1 or not not data0 data0 data0
+and or and and or xor data1 and not data1 data0 data1 data1 data0 or data0 or data1 data0 data0
+xor data0 xor not data1 data1
+and not not data0 and data0 data0
+xor data0 xor data0 xor data0 data1
+xor or xor data0 not data0 data0 data1
+or xor data1 data1 or not data1 or xor not data0 and and not or data1 data0 data1 data0 not not data1
+or or data0 or data1 xor or data1 data1 data0 data1
+xor data0 and data0 or xor not and data1 data1 xor data0 data1 xor data0 xor data0 xor data1 data1
+and data1 xor data1 xor and data1 data0 data0
+xor xor data1 data1 not xor xor data0 data0 data1
+not or data0 not not data1
+xor xor or data1 data1 not data0 data0
+and or data1 or xor data1 data1 data0 data1
+or data0 and data0 not xor xor xor xor data1 not data1 or data1 data1 data1 not and and and or data1 data0 data0 xor xor or data1 or data1 not or data0 data1 or data1 or and data1 data1 xor data1 xor or data0 data0 data1 not data1 data1
+xor xor data0 not or data1 data0 or data0 data0
+or data0 xor data0 xor data1 and and data1 xor data0 data1 data1
+xor data0 or data1 xor data1 data1
+or data0 and data0 or data0 data0
+or and data0 or data1 data1 xor data1 not data0
+and data1 and data1 not or data0 data0
+and and or xor data0 data1 data0 not data1 not data0
+and data0 and and or and not data1 xor not data0 xor data1 or data0 data1 data1 or xor data1 data1 data0 not data1
+not and not and data0 or data1 data0 data1
+and and data0 data0 or and or or data0 data1 , %1 : xor data0 data0 , %1 or not data1 not not data0
+and xor and data1 data1 and data0 data0 data1
+and data1 or data0 data0
+or data1 and data1 data1
+or or data0 data1 xor data1 data1
+or xor xor data0 data1 and or data0 xor data1 not data0 or or xor not or data0 data0 data1 data0 and data1 data1 data1
+xor data0 xor xor and data1 not data0 xor data0 xor data0 and data1 data1 data0
+xor xor data0 or data0 or not data1 not data1 not xor not data0 xor data1 data1
+and xor and data0 not data1 data0 data0
+xor or data0 data1 and xor xor data1 data1 or data0 data0 data0
+or or data1 not and data1 data0 not data1
+and not xor data0 xor data0 xor or data0 data1 data1 data0
+xor data0 and data0 or data1 data0
+xor and data0 data1 and data0 data0
+xor data0 xor data1 not data0
+and data1 not and not data0 data1
+and and data0 not xor data0 xor data1 xor not not or data1 data0 and data1 and not and data1 or or not data0 or data0 xor not not data1 data0 data1 not data1 xor xor data0 data1 data0
+and xor xor and data1 and or not or %1 : or data1 data1 xor %1 data0 not or and data0 data0 data0 and data0 or data0 xor data0 xor data1 data0 not data0 not data1 xor data0 data1
+and and data0 xor data0 data0 data0
+xor data1 xor not data1 data0
+or and not data1 not data0 data1
+xor not xor or data1 data0 not data1 data0
+and data1 xor data0 xor data1 data1
+and data1 xor not xor or not data0 and and not data0 xor data1 not or or xor xor or data1 and data0 xor not data1 xor and xor data0 data1 not data1 or or and or data0 or data0 xor data1 data1 data0 data0 xor and not data1 data0 xor xor data1 data0 data0 or and data0 or and data1 data0 or data1 data1 not data1 data1 not data1 data0 data0 xor not data0 data0 data1
+xor data1 and not not and data1 data0 not data1
+xor and data0 xor not data0 data1 data1
+or data0 or data1 xor data1 data0
+not not or data1 xor data1 xor data0 data1
+xor data0 or data0 or data0 data1
+or xor xor data1 not xor data1 not xor or not and data1 data1 data0 data0 not xor data0 data1 and or not not data1 not data1 or data0 xor data1 data1
+or data0 and xor or or or xor data1 or xor and data1 not data1 and xor data1 and data0 xor data0 xor data0 data0 data0 data0 data1 data0 not data0 data1 and data1 xor or xor data1 data0 or data1 data1 data0
+not or not not data1 data1
+and xor data1 xor data1 xor data1 and and not data1 data0 data1 xor or xor and or data0 data0 or or or data1 data1 and data1 xor data1 and data0 data0 data1 data0 and and data0 and data1 data0 not data1 xor or data0 xor data1 or data1 not xor xor data0 xor data1 data1 data1 data0
+and or xor data0 data1 xor data0 data0 data0
+xor xor data1 and xor xor data1 and data0 data1 data1 data0 and data1 not data0
+not xor data0 xor and data0 data1 xor or data1 data0 or not data0 data0
+or xor not not not not data0 and data1 data1 data0
+or not and data1 data0 or xor and xor data1 data1 data0 data0 data0
+and data0 xor data0 xor or data0 xor or data0 data1 data1 and data0 not data0
+xor or data1 not data0 and or data0 data0 data0
+or data1 not and data1 not data0
+and xor or data1 data0 data1 not and data1 data0
+xor and xor data0 or data0 data0 data0 data0
+xor and data1 not xor or data0 data1 not data1 data1
+and data1 xor xor data0 data1 xor data1 or and data1 not or not data0 not data0 and data1 data0
+xor and and data1 xor not xor data1 data0 data0 data1 xor not data0 not or not data0 data0
+xor and data0 not or not data1 data1 not xor data0 and or and or data0 not or data0 data1 data1 not data0 data0
+xor and data0 data1 or data1 data0
+xor not xor xor and and data1 data0 data0 and or data1 data0 not data0 data1 data0
+or data0 or data1 or data0 data0
+xor or or data1 data1 data0 data1
+and not data0 or data1 data1
+and or not xor data1 data0 data1 xor or not data1 data0 data1
+and data0 xor and and %1 : or data1 data1 data1 and data1 data1 %1
+xor and or xor data0 , %1 : not not data0 , %1 data1 data0
+or and xor data0 data0 data1 or data0 data0
+xor xor data1 data1 or data0 xor and not data0 data1 and xor or xor or data1 and data1 data0 data1 not data1 data1 data0
+or data1 or and xor or not or data0 and or and data1 not and data1 xor xor data0 or data0 and or or %1 : or data0 data1 xor and xor and data0 data0 data0 %1 or and data1 data1 data1 data0 data1 xor data1 data1 data0 xor and data0 data1 data0 or data0 not data0 data0 data0 xor data1 data0
+xor xor not or or data0 not not data0 data0 data1 data0
+not or and and not data1 data1 data1 data0
+xor or data1 and data0 not or and data1 data0 data0 data1
+or and data1 data0 not or not data0 data1
+xor or data0 not data1 xor xor or and xor and or data1 data0 xor or data0 data1 not data0 data1 or xor data1 xor data1 xor xor data0 data1 data1 data0 data1 not or data1 or data0 and xor data0 data0 data1 and or xor not data0 data0 data1 data1
+and xor and data0 data0 data0 not data0
+and data0 or or xor data1 data1 not data0 not data0
+or or data1 data0 or or not data0 data0 data1
+or data0 and xor and data1 data1 data1 or xor and or data1 and data0 not data0 data1 data0 data0
+and or not xor %1 : xor data0 data0 not and data0 not and data1 data1 and data0 data1 xor %1 data0
+not xor or data0 not or data1 data0 data0
+or not xor data0 or data0 data1 data0
+not or or data0 not data1 or xor not xor data0 data1 data1 data0
+and data0 or or data1 data0 data1
+and or data0 and and xor not and xor data0 data1 data0 data0 or data1 data1 and data0 and xor data1 data0 data0 data0
+not xor and data0 or xor or data1 data0 or data1 or xor and data0 data0 data1 data1 data0 and data1 data1
+or data0 xor or data0 and data1 and and data1 data1 and data0 data0 not data0
+and xor and data1 data1 data0 data0
+xor data1 or data1 and not data1 data1
+xor data0 and data0 or not data0 xor data0 data1
+or or not not xor xor data0 xor data0 data0 data1 or data1 or and or or data1 data1 data1 data0 and and data1 data1 data0 xor xor xor not data0 data0 data1 data1
+or data1 xor or xor data1 xor data1 or and data0 and not data1 data1 data1 data0 or or data1 or not and and data1 not data1 xor and not data0 or data0 not or data0 and or data0 data0 data0 or data1 data0 data0 data1
+not or data0 or data0 or not not not or data0 data0 data1
+xor and data1 and data1 or xor data1 and data0 data0 not xor xor data0 %1 : or data1 data0 and %1 data1 data1
+xor or data0 data0 or data1 and and not xor xor and data1 and %1 : and data1 data0 data0 xor xor data1 data1 data1 data0 data1 not xor and and not , %2 : %1 data1 , %2 data1
+and data0 and not data1 and or not not data1 not data1 not data0
+and not data1 xor data1 not not not and and not not not or data0 data0 not or data0 not data1 data1
+xor or data0 not data0 data0
+or not data1 xor data1 and xor or data1 or data1 xor or data1 data0 xor data1 xor data0 data1 or and and data0 xor data0 not data1 data1 data0 data1
+and data0 not not xor data0 data1
+and not data1 not not data0
+xor xor not data0 and xor data0 data0 not and data0 data0 not data0
+not xor data0 or data0 and data1 data1
+and not or xor xor data0 data0 data1 not data0 data0
+xor and data1 and and data0 xor not and data1 data0 not data0 or data1 not data1 data1
+xor and or and xor and xor or or data1 data0 and or xor data1 data0 data1 data1 not data0 , %1 : and data1 data1 data1 data0 and data0 xor not not data0 and data1 data1 data0 data0
+or or or and data0 not data1 and data1 data0 data1 data1
+and not not data0 xor data1 or xor not data0 data1 data1
+xor and or data0 and data0 or xor data0 data1 data0 or data0 xor or data0 data1 not data1 data0
+and data0 and xor data0 or and data0 data0 and data0 data1 xor data1 or data0 not data1
+or and or and or data1 data0 or not or and not xor xor and data0 xor data0 data1 not xor xor data1 data0 data0 data0 data1 data0 xor data1 or and xor data0 or data0 and not data0 data1 data0 and data1 data1 data1 not data0 not data1
+and or not and or not data0 xor not data1 data0 data1 data1 data1
+and and data1 data1 or or data0 xor data1 and data0 data0 xor data0 data0
+or data1 and data1 or data1 xor data0 data0
+or or data1 data1 or not data0 data1
+xor and and data0 data1 not data0 xor data0 and data1 not xor and data1 data0 data1
+and not or data0 not data1 data1
+xor data0 and and data1 data0 and data1 not data0
+not or xor not not not data0 data1 or data0 or and not or data0 and data1 not data0 data0 not data1
+or or data0 and or xor xor or data1 data0 or data0 data1 data1 data1 data0 data0
+xor data0 and data1 xor data0 and data1 or not data0 data1
+or data1 and or data1 not xor data1 or and data1 data0 not and data0 not data0 or data0 or data0 not data1
+or xor data1 xor or or or not data0 and xor data0 data1 data1 data0 data1 data1 data1
+or data1 not xor not data1 and data1 xor data1 xor data0 and and data1 data1 data1
+and and data1 or or data0 data0 data1 data0
+and and not or or data0 data0 xor and data0 not data0 data1 not xor data0 data1 data0
+and data0 and not not data1 data0
+and or not data0 xor data1 data0 data1
