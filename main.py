@@ -63,7 +63,6 @@ def test(model, test_expr, test_res):
 
 def main(model_name=None, hidden=128, nlayers=4, batch_size=400, epoch=200):
     print ('num_layers:', nlayers, '\nbatchsize:', batch_size, '\nepoch:', epoch)
-    epochs = 200
     
     in_voc_size, expr_list, res_list = ExpressionLoader('train')
     out_voc_size = 3
@@ -82,7 +81,7 @@ def main(model_name=None, hidden=128, nlayers=4, batch_size=400, epoch=200):
 
     criterion = nn.CrossEntropyLoss(ignore_index=0)
     best_loss = 100
-    for i in range(epochs):
+    for i in range(epoch):
         epoch_loss = train(model, criterion, optimizer, train_loader)
         epoch_loss_val = validation(model, criterion, val_loader)
     
