@@ -39,7 +39,7 @@ def validation(model, criterion, loader):
     return epoch_loss / len(loader)
 
 
-def test(model, test_expr, test_res):
+def test(model, test_expr, test_res, out_voc_size):
     model = model.cuda()
     model.eval()
     with no_grad():
@@ -47,13 +47,14 @@ def test(model, test_expr, test_res):
         for i in range(len(test_expr)):
             cpu_src = test_expr[i]
             src = LongTensor(cpu_src).unsqueeze(1).cuda()
-            tgt = [0] + test_res[i]
-            pred = [0]
-            for j in range(len(test_res[i])):
+            tgt = [out_voc_size-2] + test_res[i]
+            pred = [out_voc_size-2]
+            for j in range(10000):
                 inp = LongTensor(pred).unsqueeze(1).cuda()
                 output = model(src, inp)
                 out_num = output.argmax(2)[-1].item()
                 pred.append(out_num)
+                if out_num == out_voc_size-1: break
 #             print("input: ", cpu_src)
 #             print("target: ", tgt)
 #             print("predict: ", pred)
@@ -66,7 +67,8 @@ def main(model_name=None, hidden=128, nlayers=4, batch_size=400, epoch=200, data
     
     in_voc_size, out_voc_size, expr_list, res_list = ExpressionLoader('train', data_set)
     print('in_voc_size: ', in_voc_size)
-    dataset = DataGenerator(expr_list, res_list)
+    print('out_voc_size: ', out_voc_size)
+    dataset = DataGenerator(expr_list, res_list, out_voc_size-2)
     train_len = int(len(dataset) * 0.9)
     val_len = len(dataset) - train_len
     train_set, val_set = random_split(dataset, [train_len, val_len])
@@ -117,4 +119,4 @@ if __name__ == "__main__":
         in_voc_size, out_voc_size, expr_list, res_list = ExpressionLoader('test', data_set)
         model = TransformerModel(in_voc_size, out_voc_size, hidden=hidden, nlayers=nlayers)
         model.load_state_dict(load(model_name))
-        test(model, test_expr=expr_list, test_res=res_list)
+        test(model, test_expr=expr_list, test_res=res_list, out_voc_size=out_voc_size)
