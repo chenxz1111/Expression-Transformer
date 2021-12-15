@@ -88,7 +88,7 @@ def main(model_name=None, hidden=128, nlayers=4, batch_size=400, epoch=200, data
         print("epoch: {} val loss: {}".format(i, epoch_loss_val))
         if epoch_loss_val < best_loss or 1:
             best_loss = epoch_loss_val
-            model_name = "model/model_{0:.5f}.pt".format(epoch_loss_val)
+            model_name = 'model/' + dataset + '/model_{0:.5f}.pt'.format(epoch_loss_val)
             save(model.state_dict(), model_name)
     return model_name
 
