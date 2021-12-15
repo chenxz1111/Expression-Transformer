@@ -2,4 +2,5 @@
 /.idea/
 /model/
 /__pycache__/
+/dataset/
 .DS_Store
