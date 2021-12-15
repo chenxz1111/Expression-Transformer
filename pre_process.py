@@ -44,6 +44,7 @@ def gen_cmp_txt(Expression_data, data, name):
     f2 = open(train_res, 'w')
     for line in data:
         new_line = line.replace('"', ' ')
+        new_line = new_line.replace('bin-cmp', ' ')
         new_line = new_line.replace(')', ' ) ')
         new_line = new_line.replace('(', ' ( ')
         new_line = new_line.replace(':', ' : ')
@@ -67,7 +68,7 @@ def gen_txt(Expression_data, data, name):
         gen_bool_txt(Expression_data, data, name)
     elif Expression_data == 'bin_cmp':
         gen_cmp_txt(Expression_data, data, name)
-    elif Expression_data == 'bin_cmp_notag':
+    elif Expression_data == 'bin_cmp_2e4':
         gen_cmp_txt(Expression_data, data, name)
 
 def PreProcess(Expression_data):
@@ -84,4 +85,4 @@ def PreProcess(Expression_data):
     gen_txt(Expression_data, ext_data, 'extra_test')
 
 # PreProcess('bool_20000')
-PreProcess('bin_cmp_notag')
+PreProcess('bin_cmp_2e4')
