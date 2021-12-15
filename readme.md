@@ -2,9 +2,9 @@
 
 You can choose your preferred dataset for this model (using `--data_set` option) from:
 
-```json
+```
 [
-	bool_expr,
+  bool_expr,
   bin_add,
   bin_cmp,
   bin_popcount,
