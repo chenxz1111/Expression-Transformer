@@ -9,7 +9,7 @@ python main.py [--batch_size] [--epoch] [--num_layers]
 ```
 python main.py --test_model model_path [--batch_size] [--epoch] [--num_layers]
 ```
-
+Cancel changes
 ## Pretrained_models
 
 `pretrained_models/` includes models trained in Megstudio.
@@ -21,6 +21,5 @@ E: epoch
 ```
 
 ## CPU
-
-Replace all the `.cuda()` with ``.
+Delete all the `.cuda()`.
 
