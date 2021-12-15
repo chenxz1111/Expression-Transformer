@@ -61,10 +61,10 @@ def test(model, test_expr, test_res):
         print (cnt)
 
 
-def main(model_name=None, hidden=128, nlayers=4, batch_size=400, epoch=200):
-    print ('num_layers:', nlayers, '\nbatchsize:', batch_size, '\nepoch:', epoch)
+def main(model_name=None, hidden=128, nlayers=4, batch_size=400, epoch=200, data_set='bool_expr'):
+    print ('data_set:', data_set, '\nnum_layers:', nlayers, '\nbatch_size:', batch_size, '\nepoch:', epoch)
     
-    in_voc_size, out_voc_size, expr_list, res_list = ExpressionLoader('train')
+    in_voc_size, out_voc_size, expr_list, res_list = ExpressionLoader('train', data_set)
     print('in_voc_size: ', in_voc_size)
     dataset = DataGenerator(expr_list, res_list)
     train_len = int(len(dataset) * 0.9)
@@ -105,15 +105,16 @@ if __name__ == "__main__":
     nlayers = args.num_layers
     batch_size = args.batch_size
     epoch = args.epoch
+    data_set = args.data_set
     if args.test_model is None:
         if args.train_model is not None:
-            model_name = main(args.train_model, hidden=hidden, nlayers=nlayers, batch_size=batch_size, epoch=epoch)
+            model_name = main(args.train_model, hidden=hidden, nlayers=nlayers, batch_size=batch_size, epoch=epoch, data_set=data_set)
         else:
-            model_name = main(hidden=hidden, nlayers=nlayers, batch_size=batch_size, epoch=epoch)
+            model_name = main(hidden=hidden, nlayers=nlayers, batch_size=batch_size, epoch=epoch, data_set=data_set)
     else:
         model_name = args.test_model
-#         in_voc_size, expr_list, res_list = ExpressionLoader('train')
-        in_voc_size, out_voc_size, expr_list, res_list = ExpressionLoader('test')
+#         in_voc_size, expr_list, res_list = ExpressionLoader('train', data_set)
+        in_voc_size, out_voc_size, expr_list, res_list = ExpressionLoader('test', data_set)
         model = TransformerModel(in_voc_size, out_voc_size, hidden=hidden, nlayers=nlayers)
         model.load_state_dict(load(model_name))
         test(model, test_expr=expr_list, test_res=res_list)
