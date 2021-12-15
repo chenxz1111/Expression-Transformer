@@ -64,8 +64,7 @@ def test(model, test_expr, test_res):
 def main(model_name=None, hidden=128, nlayers=4, batch_size=400, epoch=200):
     print ('num_layers:', nlayers, '\nbatchsize:', batch_size, '\nepoch:', epoch)
     
-    in_voc_size, expr_list, res_list = ExpressionLoader('train')
-    out_voc_size = 3
+    in_voc_size, out_voc_size, expr_list, res_list = ExpressionLoader('train')
     print('in_voc_size: ', in_voc_size)
     dataset = DataGenerator(expr_list, res_list)
     train_len = int(len(dataset) * 0.9)
@@ -97,6 +96,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='A PyTorch Transformer Language Model for Predicting Expression Value')
     parser.add_argument('--test_model', type=str, help='the model file to load')
     parser.add_argument('--train_model', type=str, help='the model file to load')
+    parser.add_argument('--data_set', type=str, default='bool_expr', help='what kind of data you want the model to learn')
     parser.add_argument('--batch_size', type=int, default=400)
     parser.add_argument('--num_layers', type=int, default=4)
     parser.add_argument('--epoch', type=int, default=200)
@@ -113,8 +113,7 @@ if __name__ == "__main__":
     else:
         model_name = args.test_model
 #         in_voc_size, expr_list, res_list = ExpressionLoader('train')
-        in_voc_size, expr_list, res_list = ExpressionLoader('test')
-        out_voc_size = 3
+        in_voc_size, out_voc_size, expr_list, res_list = ExpressionLoader('test')
         model = TransformerModel(in_voc_size, out_voc_size, hidden=hidden, nlayers=nlayers)
         model.load_state_dict(load(model_name))
         test(model, test_expr=expr_list, test_res=res_list)
