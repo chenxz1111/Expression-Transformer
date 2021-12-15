@@ -1,13 +1,13 @@
 ### Train
 
 ```
-python main.py
+python main.py [--batch_size] [--epoch] [--num_layers]
 ```
 
 ### Test
 
 ```
-python main.py --test_model model_path
+python main.py --test_model model_path [--batch_size] [--epoch] [--num_layers]
 ```
 
 ### Pretrained_models
