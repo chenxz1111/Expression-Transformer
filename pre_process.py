@@ -67,6 +67,8 @@ def gen_txt(Expression_data, data, name):
         gen_bool_txt(Expression_data, data, name)
     elif Expression_data == 'bin_cmp':
         gen_cmp_txt(Expression_data, data, name)
+    elif Expression_data == 'bin_cmp_notag':
+        gen_cmp_txt(Expression_data, data, name)
 
 def PreProcess(Expression_data):
     train_path = os.path.join('dataset', Expression_data, 'train.txt')
@@ -82,4 +84,4 @@ def PreProcess(Expression_data):
     gen_txt(Expression_data, ext_data, 'extra_test')
 
 # PreProcess('bool_20000')
-PreProcess('bin_cmp')
+PreProcess('bin_cmp_notag')

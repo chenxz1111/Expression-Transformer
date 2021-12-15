@@ -56,4 +56,4 @@ def ExpressionLoader(data, Expression_type):
         for l in lines:
             vec = l.split()
             res_data.append([res_voc_dic.index(w) for w in vec])
-    return len(expr_voc_dic), len(res_voc_dic),expr_data, res_data
+    return len(expr_voc_dic), len(res_voc_dic), expr_data, res_data
