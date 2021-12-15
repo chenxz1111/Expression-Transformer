@@ -6,7 +6,7 @@ import torch.optim as optim
 from torch.utils.data import DataLoader, random_split
 from data_generator import DataGenerator
 from model import TransformerModel
-from ExpressionLoader import ExpressionLoader
+from expression_loader import ExpressionLoader
 
 def train(model, criterion, optimizer, loader):
     model.train()
@@ -61,11 +61,8 @@ def test(model, test_expr, test_res):
         print (cnt)
 
 
-def main(model_name=None, hidden=64, nlayers=1):
-
-#     batch_size = 2000
-#     epochs = 40
-    batch_size = 400
+def main(model_name=None, hidden=128, nlayers=4, batch_size=400, epoch=200):
+    print ('num_layers:', nlayers, '\nbatchsize:', batch_size, '\nepoch:', epoch)
     epochs = 200
     
     in_voc_size, expr_list, res_list = ExpressionLoader('train')
@@ -102,14 +99,18 @@ if __name__ == "__main__":
     parser.add_argument('--test_model', type=str, help='the model file to load')
     parser.add_argument('--train_model', type=str, help='the model file to load')
     parser.add_argument('--batch_size', type=int, default=400)
+    parser.add_argument('--num_layers', type=int, default=4)
+    parser.add_argument('--epoch', type=int, default=200)
     args = parser.parse_args()
     hidden = 128
-    nlayers = 4
+    nlayers = args.num_layers
+    batch_size = args.batch_size
+    epoch = args.epoch
     if args.test_model is None:
         if args.train_model is not None:
-            model_name = main(args.train_model, hidden=hidden, nlayers=nlayers)
+            model_name = main(args.train_model, hidden=hidden, nlayers=nlayers, batch_size=batch_size, epoch=epoch)
         else:
-            model_name = main(hidden=hidden, nlayers=nlayers)
+            model_name = main(hidden=hidden, nlayers=nlayers, batch_size=batch_size, epoch=epoch)
     else:
         model_name = args.test_model
 #         in_voc_size, expr_list, res_list = ExpressionLoader('train')
