@@ -13,7 +13,7 @@ def train(model, criterion, optimizer, loader):
     epoch_loss = 0
     for i, batch in enumerate(loader):
         src, tgt = batch
-        src, tgt = src.transpose(1, 0), tgt.transpose(1, 0)
+        src, tgt = src.transpose(1, 0).cuda(), tgt.transpose(1, 0).cuda()
         optimizer.zero_grad()
         output = model(src, tgt[:-1, :])
         n = output.shape[-1]
@@ -31,7 +31,7 @@ def validation(model, criterion, loader):
     with no_grad():
         for i, batch in enumerate(loader):
             src, tgt = batch
-            src, tgt = src.transpose(1, 0), tgt.transpose(1, 0)
+            src, tgt = src.transpose(1, 0).cuda(), tgt.transpose(1, 0).cuda()
             output = model(src, tgt[:-1, :])
             n = output.shape[-1]
             loss = criterion(output.reshape(-1, n), tgt[1:, :].reshape(-1))
@@ -40,32 +40,34 @@ def validation(model, criterion, loader):
 
 
 def test(model, test_expr, test_res):
-    model = model
+    model = model.cuda()
     model.eval()
     with no_grad():
         cnt = 0
         for i in range(len(test_expr)):
             cpu_src = test_expr[i]
-            src = LongTensor(cpu_src).unsqueeze(1)
+            src = LongTensor(cpu_src).unsqueeze(1).cuda()
             tgt = [0] + test_res[i]
             pred = [0]
             for j in range(len(test_res[i])):
-                inp = LongTensor(pred).unsqueeze(1)
+                inp = LongTensor(pred).unsqueeze(1).cuda()
                 output = model(src, inp)
                 out_num = output.argmax(2)[-1].item()
                 pred.append(out_num)
-            print("input: ", cpu_src)
-            print("target: ", tgt)
-            print("predict: ", pred)
+#             print("input: ", cpu_src)
+#             print("target: ", tgt)
+#             print("predict: ", pred)
             if tgt[1] == pred[1]: cnt += 1
         print (cnt)
 
 
 def main(model_name=None, hidden=64, nlayers=1):
 
-    batch_size = 100
-    epochs = 5
-
+#     batch_size = 2000
+#     epochs = 40
+    batch_size = 400
+    epochs = 200
+    
     in_voc_size, expr_list, res_list = ExpressionLoader('train')
     out_voc_size = 3
     print('in_voc_size: ', in_voc_size)
@@ -78,7 +80,7 @@ def main(model_name=None, hidden=64, nlayers=1):
     model = TransformerModel(in_voc_size, out_voc_size, hidden=hidden, nlayers=nlayers)
     if model_name is not None:
         model.load_state_dict(load(model_name))
-
+    model = model.cuda()
     optimizer = optim.Adam(model.parameters())
 
     criterion = nn.CrossEntropyLoss(ignore_index=0)
@@ -99,6 +101,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='A PyTorch Transformer Language Model for Predicting Expression Value')
     parser.add_argument('--test_model', type=str, help='the model file to load')
     parser.add_argument('--train_model', type=str, help='the model file to load')
+    parser.add_argument('--batch_size', type=int, default=400)
     args = parser.parse_args()
     hidden = 128
     nlayers = 4
@@ -109,7 +112,8 @@ if __name__ == "__main__":
             model_name = main(hidden=hidden, nlayers=nlayers)
     else:
         model_name = args.test_model
-        in_voc_size, expr_list, res_list = ExpressionLoader('train')
+#         in_voc_size, expr_list, res_list = ExpressionLoader('train')
+        in_voc_size, expr_list, res_list = ExpressionLoader('test')
         out_voc_size = 3
         model = TransformerModel(in_voc_size, out_voc_size, hidden=hidden, nlayers=nlayers)
         model.load_state_dict(load(model_name))
