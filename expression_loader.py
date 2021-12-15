@@ -48,7 +48,7 @@ def ExpressionLoader(data, Expression_type):
             tmp = []
             for w in vec:
                 tmp.append(expr_voc_dic.index(w))
-            for i in range(max_len - len(vec)):
+            for i in range(expr_max_len - len(vec)):
                 tmp.append(0)
             expr_data.append(tmp)
     with open(res_file) as rf:
