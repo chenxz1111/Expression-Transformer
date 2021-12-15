@@ -42,3 +42,11 @@ E: epoch
 ## CPU
 Delete all the  `.cuda()` .
 
+## Results
+
+|           | Baseline | Space | Hint |
+| :-------: | :------: | :---: | :--: |
+| bool_expr |  76.77%  |       |      |
+|  bin_cmp  |  99.30%  |       |      |
+|           |          |       |      |
+
