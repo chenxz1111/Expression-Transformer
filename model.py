@@ -5,7 +5,7 @@ import math
 # REFERENCE: https://colab.research.google.com/drive/1g4ZFCGegOmD-xXL-Ggu7K5LVoJeXYJ75
 
 class PositionalEncoding(nn.Module):
-    def __init__(self, d_model, dropout=0.1, max_len=168):
+    def __init__(self, d_model, dropout=0.1, max_len=500):
         super(PositionalEncoding, self).__init__()
         self.dropout = nn.Dropout(p=dropout)
 
@@ -64,7 +64,7 @@ class TransformerModel(nn.Module):
 
         trg = self.decoder(trg)
         trg = self.pos_decoder(trg)
-        output = self.transformer(src, trg, tgt_mask=self.trg_mask, src_key_padding_mask = src_pad_mask, memory_key_padding_mask=src_pad_mask)
+        output = self.transformer(src, trg, tgt_mask=self.trg_mask, src_key_padding_mask = src_pad_mask, memory_key_padding_mask=src_pad_mask, tgt_key_padding_mask=trg_pad_mask)
         # output = self.transformer(src, trg, src_mask=self.src_mask, tgt_mask=self.trg_mask,
         #                           memory_mask=self.memory_mask,
         #                           src_key_padding_mask=src_pad_mask, tgt_key_padding_mask=trg_pad_mask,

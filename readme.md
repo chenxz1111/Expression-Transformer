@@ -21,13 +21,13 @@ You can choose your preferred dataset for this model (using `--data_set` option)
 ## Train
 
 ```
-python main.py [--batch_size] [--epoch] [--num_layers] [--data_set]
+python main.py [--batch_size] [--epoch] [--num_layers] [--data_set] 
 ```
 
 ## Test
 
 ```
-python main.py --test_model model_path [--batch_size] [--epoch] [--num_layers] [--data_set]
+python main.py --test_model model_path [--batch_size] [--epoch] [--num_layers] [--data_set] [--test_data]
 ```
 ## Pretrained models
 

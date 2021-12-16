@@ -49,7 +49,7 @@ def test(model, test_expr, test_res, out_voc_size):
             src = LongTensor(cpu_src).unsqueeze(1).cuda()
             tgt = [out_voc_size-2] + test_res[i]
             pred = [out_voc_size-2]
-            for j in range(10000):
+            for j in range(len(tgt)):
                 inp = LongTensor(pred).unsqueeze(1).cuda()
                 output = model(src, inp)
                 out_num = output.argmax(2)[-1].item()
@@ -58,8 +58,15 @@ def test(model, test_expr, test_res, out_voc_size):
 #             print("input: ", cpu_src)
 #             print("target: ", tgt)
 #             print("predict: ", pred)
-            if tgt[1] == pred[1]: cnt += 1
-        print (cnt)
+            incorrect = False
+            for index, item in enumerate(tgt):
+                if item == 0: break
+                if item != pred[index]: 
+                    incorrect = True
+                    break
+            if not incorrect : cnt += 1
+            if (i+1) % 100 == 0:
+                print (cnt/(i+1), '(', cnt, '/', i+1, ')')
 
 
 def main(model_name=None, hidden=128, nlayers=4, batch_size=400, epoch=200, data_set='bool_expr'):
@@ -97,6 +104,7 @@ def main(model_name=None, hidden=128, nlayers=4, batch_size=400, epoch=200, data
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='A PyTorch Transformer Language Model for Predicting Expression Value')
     parser.add_argument('--test_model', type=str, help='the model file to load')
+    parser.add_argument('--test_data', type=str, default='test')
     parser.add_argument('--train_model', type=str, help='the model file to load')
     parser.add_argument('--data_set', type=str, default='bool_expr', help='what kind of data you want the model to learn')
     parser.add_argument('--batch_size', type=int, default=400)
@@ -116,7 +124,7 @@ if __name__ == "__main__":
     else:
         model_name = args.test_model
 #         in_voc_size, expr_list, res_list = ExpressionLoader('train', data_set)
-        in_voc_size, out_voc_size, expr_list, res_list = ExpressionLoader('test', data_set)
+        in_voc_size, out_voc_size, expr_list, res_list = ExpressionLoader(args.test_data, data_set)
         model = TransformerModel(in_voc_size, out_voc_size, hidden=hidden, nlayers=nlayers)
         model.load_state_dict(load(model_name))
         test(model, test_expr=expr_list, test_res=res_list, out_voc_size=out_voc_size)
