@@ -150,6 +150,35 @@ def gen_add_txt(Expression_data, data, name):
     f1.close()
     f2.close()
 
+def gen_add_mult_txt(Expression_data, data, name):
+    dir_name = os.path.join('data', Expression_data)
+    if not os.path.exists(dir_name):
+        os.makedirs(dir_name)
+    train_expr = os.path.join('data', Expression_data, name + '_expr.txt')
+    train_res = os.path.join('data', Expression_data, name + '_res.txt')
+    f1 = open(train_expr, 'w')
+    f2 = open(train_res, 'w')
+    for line in data:
+        new_line = line.replace('"', ' ')
+    
+        new_line = new_line.replace(')', ' ) ')
+        new_line = new_line.replace('(', ' ( ')
+        new_line = new_line.replace(':', ' : ')
+        new_line = new_line.replace(',', ' , ')
+        new_line = re.sub('\s+', ' ', new_line)
+        new_line = new_line.replace('data 0', 'data0')
+        new_line = new_line.replace('data 1', 'data1')
+        idx = new_line.index('?=')
+        expr = new_line[1:idx-1]
+        res = new_line[idx+3:]
+        f1.write(expr + '\n')
+        f2.write(res + '\n')
+        # print(new_line)
+        # print(expr)
+        # print(res)
+    f1.close()
+    f2.close()
+
 def gen_txt(Expression_data, data, name):
     if Expression_data == 'bool_20000':
         gen_bool_txt(Expression_data, data, name)
@@ -163,6 +192,8 @@ def gen_txt(Expression_data, data, name):
         gen_mult_txt(Expression_data, data, name)
     elif Expression_data == 'bin_add_2e4':
         gen_add_txt(Expression_data, data, name)
+    elif Expression_data == 'bin_add_mult_expr_2e4':
+        gen_add_mult_txt(Expression_data, data, name)
 
 def PreProcess(Expression_data):
     train_path = os.path.join('dataset', Expression_data, 'train.txt')
@@ -179,6 +210,7 @@ def PreProcess(Expression_data):
 
 # PreProcess('bool_20000')
 # PreProcess('bin_cmp_2e4')
-PreProcess('bitwise_xor_2e4')
-PreProcess('bin_mult_2e4')
-PreProcess('bin_add_2e4')
+# PreProcess('bitwise_xor_2e4')
+# PreProcess('bin_mult_2e4')
+# PreProcess('bin_add_2e4')
+PreProcess('bin_add_mult_expr_2e4')
