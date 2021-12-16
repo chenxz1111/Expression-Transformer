@@ -49,6 +49,7 @@ Delete all the  `.cuda()` .
 | bool_expr |  76.77%  |       |      |
 |  bin_cmp  |  99.30%  |       |      |
 |  bin_add  |  99.60%  |       |      |
+|bin_mul|94.30%|||
 
 ## Results of extra test
 
@@ -57,3 +58,4 @@ Delete all the  `.cuda()` .
 | bool_expr |  |       |      |
 |  bin_cmp  | |       |      |
 |  bin_add  |  66.37% |       |      |
+|bin_mul|53.36%|||
