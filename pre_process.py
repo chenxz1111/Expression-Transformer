@@ -160,7 +160,6 @@ def gen_add_mult_txt(Expression_data, data, name):
     f2 = open(train_res, 'w')
     for line in data:
         new_line = line.replace('"', ' ')
-    
         new_line = new_line.replace(')', ' ) ')
         new_line = new_line.replace('(', ' ( ')
         new_line = new_line.replace(':', ' : ')
