@@ -48,5 +48,5 @@ Delete all the  `.cuda()` .
 | :-------: | :------: | :---: | :--: |
 | bool_expr |  76.77%  |       |      |
 |  bin_cmp  |  99.30%  |       |      |
-|  bin_add  |          |       |      |
+|  bin_add  |  99.60%  |       |      |
 
