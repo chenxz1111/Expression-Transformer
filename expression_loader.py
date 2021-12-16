@@ -31,6 +31,9 @@ def ExpressionLoader(data, Expression_type):
     elif data == 'test':
         expr_file  = os.path.join(path, 'test_expr.txt')
         res_file = os.path.join(path, 'test_res.txt')
+    elif data == 'extra_test':
+        expr_file  = os.path.join(path, 'extra_test_expr.txt')
+        res_file = os.path.join(path, 'extra_test_res.txt')
     else:
         raise Exception()
     expr_data = []
