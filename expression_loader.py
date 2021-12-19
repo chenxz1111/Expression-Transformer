@@ -28,12 +28,9 @@ def ExpressionLoader(data, Expression_type):
     if data == 'train':
         expr_file  = os.path.join(path, 'train_expr.txt')
         res_file = os.path.join(path, 'train_res.txt')
-    elif data == 'test':
-        expr_file  = os.path.join(path, 'test_expr.txt')
-        res_file = os.path.join(path, 'test_res.txt')
-    elif data == 'extra_test':
-        expr_file  = os.path.join(path, 'extra_test_expr.txt')
-        res_file = os.path.join(path, 'extra_test_res.txt')
+    elif data.count('test') > 0:
+        expr_file  = os.path.join(path, data + '_expr.txt')
+        res_file = os.path.join(path, data + '_res.txt')
     else:
         raise Exception()
     expr_data = []
