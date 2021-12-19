@@ -17,6 +17,16 @@ You may train this model on a CPU by deleting all the  `.cuda()` .
 
 You may use these parameters below to obtain the best performance：
 
+<<<<<<< HEAD
+|             | num_layers | epoch | batch_size | max_len |
+| :---------: | :--------: | :---: | :--------: | :-----: |
+|  bool_expr  |    4/5     |  200  |    400     |   500   |
+|   bin_cmp   |     4      |  200  |    400     |   500   |
+|   bin_add   |     4      |  200  |    400     |   500   |
+|   bin_mul   |     4      |  400  |    400     |   500   |
+| bin_add_mul |            |       |            |         |
+| bitwise_xor |     2      |  200  |    400     |   500   |
+=======
 |             | num_layers | epoch | batch_size |
 | :---------: | :--------: | :---: | :--------: |
 |  bool_expr  |    4/5     |  200  |    400     |
@@ -25,6 +35,7 @@ You may use these parameters below to obtain the best performance：
 |   bin_mul   |     4      |  400  |    400     |
 | bin_add_mul |      4      |  400     |     400       |
 | bitwise_xor |     2      |  200  |    400     |
+>>>>>>> 64ec244d7b9eef1a7dee943e3cd0389247c46a6e
 
 ## Results of test
 
