@@ -23,7 +23,7 @@ You may use these parameters below to obtain the best performance：
 |   bin_cmp   |     4      |  200  |    400     |
 |   bin_add   |     4      |  200  |    400     |
 |   bin_mul   |     4      |  400  |    400     |
-| bin_add_mul |            |       |            |
+| bin_add_mul |      4      |  400     |     400       |
 | bitwise_xor |     2      |  200  |    400     |
 
 ## Results of test
@@ -34,7 +34,7 @@ You may use these parameters below to obtain the best performance：
 |  bin_cmp  |  99.30%  |       |      |
 |  bin_add  |  99.60%  |       |      |
 |bin_mul|94.30%|||
-|bin_add_mul||||
+|bin_add_mul|66.34%|||
 |bitwise_xor|99.63%|||
 
 ## Results of extra test
@@ -45,5 +45,5 @@ You may use these parameters below to obtain the best performance：
 |  bin_cmp  | |       |      |
 |  bin_add  |  66.37% |       |      |
 |bin_mul|53.36%|||
-|bin_add_mul||||
+|bin_add_mul|27.45%|||
 |bitwise_xor|70.85%|||
