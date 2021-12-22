@@ -25,6 +25,8 @@ You may use these parameters below to obtain the best performance：
 |   bin_mul   |     4      |  400  |    400     |
 | bin_add_mul |      4      |  400     |     400       |
 | bitwise_xor |     2      |  200  |    400     |
+| concat | 4 | 100 | 400 |
+| rev_concat | 4 | 200 | 400 |
 
 ## Results of test
 
@@ -36,6 +38,8 @@ You may use these parameters below to obtain the best performance：
 |bin_mul|94.30%||
 |bin_add_mul|66.34%||
 |bitwise_xor|99.63%||
+|concat|99.78%||
+|rev_concat|99.97%||
 
 ## Results of extra test
 
@@ -47,6 +51,8 @@ You may use these parameters below to obtain the best performance：
 |bin_mul|53.36%||
 |bin_add_mul|27.45%||
 |bitwise_xor|70.85%||
+|concat|65.45%||
+|rev_concat|66.50%||
 
 ## Cartesian product (bin_add)
 
