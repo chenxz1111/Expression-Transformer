@@ -41,7 +41,7 @@ You may use these parameters below to obtain the best performance：
 
 | Data | Baseline | Hint |
 | :-------: | :------: | :--: |
-| bool_expr | 20.10% |      |
+| bool_expr | - |      |
 |  bin_cmp  | 82.21% |      |
 |  bin_add  |  66.37% |      |
 |bin_mul|53.36%||
