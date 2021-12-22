@@ -194,11 +194,11 @@ def gen_txt_pro( train_data, new_dir):
             f1.close()
             f2.close()
 
-dataset()
+# dataset()
 
-for i in range(1, 6):
-    dir_name = os.path.join('dataset', 'mult_new_' + str(i))
-    train_path = os.path.join(dir_name, 'train.txt')
-    train_data = read_txt(train_path)
-    train_data = train_data[:15000]
-    gen_txt_pro(train_data, 'mult_new_' + str(i))
+# for i in range(1, 6):
+#     dir_name = os.path.join('dataset', 'mult_new_' + str(i))
+#     train_path = os.path.join(dir_name, 'train.txt')
+#     train_data = read_txt(train_path)
+#     train_data = train_data[:15000]
+#     gen_txt_pro(train_data, 'mult_new_' + str(i))
