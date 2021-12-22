@@ -52,7 +52,7 @@ import re
 #         lines = fp.readlines()
 #         for line in lines:
 #             new_line = line.replace('"', ' ')
-#             new_line = new_line.replace('bin-add', ' ')
+#             new_line = new_line.replace('bin-mult', ' ')
 #             new_line = new_line.replace(')', ' ) ')
 #             new_line = new_line.replace('(', ' ( ')
 #             new_line = new_line.replace(':', ' : ')
@@ -71,9 +71,38 @@ import re
 
 def dataset():
     for i in range(1, 6):
-        dir_path = os.path.join('dataset', 'bin_add_2e4_v' + str(i))
+        dir_path = os.path.join('dataset', 'bin_mult_2e4_v' + str(i))
+        tgt_dir = os.path.join('dataset', 'mult_new_' + str(i))
+        if not os.path.exists(tgt_dir):
+            os.makedirs(tgt_dir)
+        count = 0   
+        f = os.path.join(dir_path, 'train.txt')
+        tgt_fname = os.path.join(tgt_dir, 'train.txt')
+        tgt_f = open(tgt_fname, 'w')
+        with open(f, 'r') as fp:
+            lines = fp.readlines()
+            for line in lines:
+                new_line = line.replace('"', ' ')
+                new_line = new_line.replace('bin-mult', ' ')
+                new_line = new_line.replace(')', ' ) ')
+                new_line = new_line.replace('(', ' ( ')
+                new_line = new_line.replace(':', ' : ')
+                new_line = new_line.replace(',', ' , ')
+                new_line = re.sub('\s+', ' ', new_line)
+                new_line = new_line.replace('data 0', 'data0')
+                new_line = new_line.replace('data 1', 'data1')
+                idx = new_line.index('?=')
+                expr = new_line[1:idx-1]
+                if len(expr) > 900:
+                    count += 1
+                else:
+                    tgt_f.write(new_line + '\n')
+        tgt_f.close()            
+        print(count)
+    for i in range(1, 6):
+        dir_path = os.path.join('dataset', 'bin_mult_2e4_v' + str(i))
         for j in range(1, 6): 
-            tgt_dir = os.path.join('dataset', 'new_' + str(j))
+            tgt_dir = os.path.join('dataset', 'mult_new_' + str(j))
             if not os.path.exists(tgt_dir):
                 os.makedirs(tgt_dir)
             count = 0   
@@ -84,7 +113,7 @@ def dataset():
                 lines = fp.readlines()
                 for line in lines:
                     new_line = line.replace('"', ' ')
-                    new_line = new_line.replace('bin-add', ' ')
+                    new_line = new_line.replace('bin-mult', ' ')
                     new_line = new_line.replace(')', ' ) ')
                     new_line = new_line.replace('(', ' ( ')
                     new_line = new_line.replace(':', ' : ')
@@ -116,7 +145,7 @@ def gen_txt_pro( train_data, new_dir):
     f2 = open(train_res, 'w')
     for cnt in range(len(train_data)):
         new_line = train_data[cnt].replace('"', ' ')
-        new_line = new_line.replace('bin-add', ' ')
+        new_line = new_line.replace('bin-mult', ' ')
         new_line = new_line.replace(')', ' ) ')
         new_line = new_line.replace('(', ' ( ')
         new_line = new_line.replace(':', ' : ')
@@ -149,7 +178,7 @@ def gen_txt_pro( train_data, new_dir):
                     if line not in train_data:
                         
                         new_line = line.replace('"', ' ')
-                        new_line = new_line.replace('bin-add', ' ')
+                        new_line = new_line.replace('bin-mult', ' ')
                         new_line = new_line.replace(')', ' ) ')
                         new_line = new_line.replace('(', ' ( ')
                         new_line = new_line.replace(':', ' : ')
@@ -165,9 +194,11 @@ def gen_txt_pro( train_data, new_dir):
             f1.close()
             f2.close()
 
+dataset()
+
 for i in range(1, 6):
-    dir_name = os.path.join('dataset', 'new_' + str(i))
+    dir_name = os.path.join('dataset', 'mult_new_' + str(i))
     train_path = os.path.join(dir_name, 'train.txt')
     train_data = read_txt(train_path)
     train_data = train_data[:15000]
-    gen_txt_pro(train_data, 'new_' + str(i))
+    gen_txt_pro(train_data, 'mult_new_' + str(i))
