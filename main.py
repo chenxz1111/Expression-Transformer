@@ -45,16 +45,16 @@ def test(model, test_expr, test_res, out_voc_size):
     with no_grad():
         cnt = 0
         for i in range(len(test_expr)):
-            cpu_src = test_expr[i]
-            src = LongTensor(cpu_src).unsqueeze(1).cuda()
+            initial_src = test_expr[i]
+            src = LongTensor(initial_src).unsqueeze(1).cuda()
             tgt = [out_voc_size-2] + test_res[i]
             pred = [out_voc_size-2]
             for j in range(len(tgt)):
-                inp = LongTensor(pred).unsqueeze(1).cuda()
-                output = model(src, inp)
-                out_num = output.argmax(2)[-1].item()
-                pred.append(out_num)
-                if out_num == out_voc_size-1: break
+                index = LongTensor(pred).unsqueeze(1).cuda()
+                output = model(src, index)
+                vec_id = output.argmax(2)[-1].item()
+                pred.append(vec_id)
+                if vec_id == out_voc_size-1: break
 #             print("input: ", cpu_src)
 #             print("target: ", tgt)
 #             print("predict: ", pred)
@@ -67,6 +67,7 @@ def test(model, test_expr, test_res, out_voc_size):
             if not incorrect : cnt += 1
             if (i+1) % 100 == 0:
                 print (cnt/(i+1), '(', cnt, '/', i+1, ')')
+        print (cnt/(len(test_expr)), '(', cnt, '/', len(test_expr), ')')
 
 
 def main(model_name=None, hidden=128, nlayers=4, batch_size=400, epoch=200, data_set='bool_expr'):
@@ -95,7 +96,7 @@ def main(model_name=None, hidden=128, nlayers=4, batch_size=400, epoch=200, data
     
         print("epoch: {} train loss: {}".format(i, epoch_loss))
         print("epoch: {} val loss: {}".format(i, epoch_loss_val))
-        if epoch_loss_val < best_loss or 1:
+        if epoch_loss_val < best_loss:
             best_loss = epoch_loss_val
             model_name = 'model/' + data_set + '/model_{0:.5f}.pt'.format(epoch_loss_val)
             save(model.state_dict(), model_name)
@@ -123,7 +124,6 @@ if __name__ == "__main__":
             model_name = main(hidden=hidden, nlayers=nlayers, batch_size=batch_size, epoch=epoch, data_set=data_set)
     else:
         model_name = args.test_model
-#         in_voc_size, expr_list, res_list = ExpressionLoader('train', data_set)
         in_voc_size, out_voc_size, expr_list, res_list = ExpressionLoader(args.test_data, data_set)
         model = TransformerModel(in_voc_size, out_voc_size, hidden=hidden, nlayers=nlayers)
         model.load_state_dict(load(model_name))
