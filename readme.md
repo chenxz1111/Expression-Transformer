@@ -9,6 +9,12 @@ python main.py [--batch_size] [--epoch] [--num_layers] [--data_set]
 ```
 python main.py --test_model model_path [--test_data] [--batch_size] [--epoch] [--num_layers] [--data_set] 
 ```
+
+## Hint
+You may create a folder named 'model' to obtain your models or pretrained models.
+data_set : The type of data you want to train or test this model on, usually the folder's name under `\data`.
+test_data : The test data of your model, usually named 'test' or 'extra_test'.
+test_model : The path of the model you want to test. 
 ## CPU
 
 You may train this model on a CPU by deleting all the  `.cuda()` .
