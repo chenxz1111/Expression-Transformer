@@ -26,18 +26,27 @@ import re
 #             new_res.write(lines[i])
 # new_res.close()
 
-# count = 0
-# file_path = os.path.join('data', 'bin_add_mult_expr_2e4', 'new_extra_test_expr.txt')
-# with open(file_path, 'r') as f:
-#     lines = f.readlines()
-#     for l in lines:
-#         sen = l.split()
-#         if len(sen) > 400:
-#             count += 1
+def print_len(name):
+    def txt_len(txt_name):
+        train_count = 0
+        file_path = os.path.join('data', name, txt_name + '_expr.txt')
+        with open(file_path, 'r') as f:
+            lines = f.readlines()
+            for l in lines:
+                sen = l.split()
+                train_count += len(sen)
+            train_count = train_count / len(lines)
 
-# print(count)
+        
+        print(txt_name + ':', train_count)
+    print(name + ':')
+    txt_len('train')
+    for i in range(1, 6):
+        txt_len('test_' + str(i))
+    print('\n')
 
-
+for i in range(1, 6):
+    print_len('new_' + str(i))
 # print(len(useless))
 
 # dir_path = os.path.join('dataset', 'bin_add_tmp')

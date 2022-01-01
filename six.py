@@ -79,10 +79,4 @@ def PreProcess_pro(Expression_data):
     
 
 
-# PreProcess_pro('bin_add')
-def transfer():
-    for i in range(1, 7):
-        src_dir = os.path.join('dataset', str(i))
-        
-
-transfer()
+PreProcess_pro('bin_add')
