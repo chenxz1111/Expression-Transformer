@@ -12,9 +12,13 @@ python main.py --test_model model_path [--test_data] [--batch_size] [--epoch] [-
 
 ## Hint
 You may create a folder named 'model' to obtain your models or pretrained models.
+
 data_set : The type of data you want to train or test this model on, usually the folder's name under `\data`.
+
 test_data : The test data of your model, usually named 'test' or 'extra_test'.
+
 test_model : The path of the model you want to test. 
+
 ## CPU
 
 You may train this model on a CPU by deleting all the  `.cuda()` .
@@ -76,3 +80,5 @@ You may use these parameters below to obtain the best performance：
 | :-------: | :----: | :----: | :----: | :---: | :---: |
 | base_line | 48.25% | 23.67% | 11.20% | 1.02% | 0.01% |
 
+## Reference
+https://colab.research.google.com/drive/1g4ZFCGegOmD-xXL-Ggu7K5LVoJeXYJ75
