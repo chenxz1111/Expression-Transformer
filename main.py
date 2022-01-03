@@ -45,16 +45,16 @@ def test(model, test_expr, test_res, out_voc_size):
     with no_grad():
         cnt = 0
         for i in range(len(test_expr)):
-            initial_src = test_expr[i]
-            src = LongTensor(initial_src).unsqueeze(1).cuda()
+            cpu_src = test_expr[i]
+            src = LongTensor(cpu_src).unsqueeze(1).cuda()
             tgt = [out_voc_size-2] + test_res[i]
             pred = [out_voc_size-2]
             for j in range(len(tgt)):
-                index = LongTensor(pred).unsqueeze(1).cuda()
-                output = model(src, index)
-                vec_id = output.argmax(2)[-1].item()
-                pred.append(vec_id)
-                if vec_id == out_voc_size-1: break
+                inp = LongTensor(pred).unsqueeze(1).cuda()
+                output = model(src, inp)
+                out_num = output.argmax(2)[-1].item()
+                pred.append(out_num)
+                if out_num == out_voc_size-1: break
 #             print("input: ", cpu_src)
 #             print("target: ", tgt)
 #             print("predict: ", pred)
@@ -124,6 +124,7 @@ if __name__ == "__main__":
             model_name = main(hidden=hidden, nlayers=nlayers, batch_size=batch_size, epoch=epoch, data_set=data_set)
     else:
         model_name = args.test_model
+#         in_voc_size, expr_list, res_list = ExpressionLoader('train', data_set)
         in_voc_size, out_voc_size, expr_list, res_list = ExpressionLoader(args.test_data, data_set)
         model = TransformerModel(in_voc_size, out_voc_size, hidden=hidden, nlayers=nlayers)
         model.load_state_dict(load(model_name))
