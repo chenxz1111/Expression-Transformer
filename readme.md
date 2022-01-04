@@ -24,9 +24,11 @@ python main.py [--batch_size] [--epoch] [--num_layers] [--data_set]
 python main.py --test_model model_path [--test_data] [--batch_size] [--epoch] [--num_layers] [--data_set] 
 ```
 
-## Hint
+## Pretrained Models
 
-You may create a folder `/model` to obtain your models or pretrained models.
+You can obtain our pretrained models under `/model`. Notice that models on different data sets may apply different super paramenters for the best performance. You may change the command above to parse arguments for different pretrained models.
+
+## Hint
 
 data_set : The type of data you want to train or test this model on, usually the folder's name under `/data`.
 
