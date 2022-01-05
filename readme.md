@@ -26,7 +26,7 @@ python main.py --test_model model_path [--test_data] [--batch_size] [--epoch] [-
 
 ## Pretrained Models
 
-You can obtain our pretrained models under `/model`. Notice that models on different data sets may apply different super paramenters for the best performance. You may change the command above to parse arguments for different pretrained models.
+We prefer you to train your own models and change the `test` function to test your models in different ways. You can obtain our pretrained models under `/model`. Notice that our previous models on different data sets may apply different super paramenters for the best performance. In this light you may change the command above and the max `max_len` argument's default value in `model.py` to parse arguments for different pretrained models. One effective way is to check the error information.
 
 ## Hint
 
@@ -42,7 +42,7 @@ You may train this model on a CPU by **deleting all the  `.cuda()` .**
 
 ## Parameters
 
-You may use these parameters below to obtain the best performance：
+You may use these parameters below to obtain the best performance when **you train your own models**：
 
 | Data        | num_layers | epoch | batch_size |
 |:-----------:|:----------:|:-----:|:----------:|

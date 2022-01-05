@@ -64,10 +64,6 @@ class TransformerModel(nn.Module):
         trg = self.decoder(trg)
         trg = self.pos_decoder(trg)
         output = self.transformer(src, trg, tgt_mask=self.trg_mask, src_key_padding_mask = src_pad_mask, memory_key_padding_mask=src_pad_mask, tgt_key_padding_mask=trg_pad_mask)
-        # output = self.transformer(src, trg, src_mask=self.src_mask, tgt_mask=self.trg_mask,
-        #                           memory_mask=self.memory_mask,
-        #                           src_key_padding_mask=src_pad_mask, tgt_key_padding_mask=trg_pad_mask,
-        #                           memory_key_padding_mask=src_pad_mask)
         output = self.fc_out(output)
 
         return output
