@@ -42,7 +42,7 @@ You may train this model on a CPU by **deleting all the  `.cuda()` .**
 
 ## Parameters
 
-You may use these parameters below to obtain the best performance when **you train your own models**：
+You may use these parameters below to obtain bettert performance when **you train your own models**：
 
 | Data        | num_layers | epoch | batch_size |
 |:-----------:|:----------:|:-----:|:----------:|
